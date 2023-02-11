@@ -37,7 +37,7 @@ d["Year"] = data["Date"].apply(lambda d: d.year)
 d = d.groupby("TypeOfIssue").agg(
     Amount=pd.NamedAgg("Amount", aggfunc="sum")).reset_index()
 fig = px.pie(d, values='Amount', names='TypeOfIssue',
-             title='Population of European continent')
+             title='DeFi scams, hacks and exploits')
 fig.update_layout(
     autosize=False,
     width=600,
