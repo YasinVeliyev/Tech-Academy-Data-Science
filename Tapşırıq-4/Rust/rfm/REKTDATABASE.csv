@@ -1,0 +1,3175 @@
+ID,Project,Category,TypeOfIssue,FundLost,FundsReturned,FundsRecovered,IsVerifiedSourceCode,IsPublicedTeam,Date
+3058,Terra Classic,Stablecoin,Other,40000000000,0,,0,1,2022-5-8
+2762,Africrypt,CeFi,Rugpull,3600000000,0,,0,1,2021-6-23
+3264,Silk Road,Other,Other,3360000000,3360000000,,0,1,2012-9-19
+2878,PlusToken,CeFi,Rugpull,2900000000,0,,0,0,2019-12-16
+3280,Genesis,"Borrowing and Lending,CeFi",Other,2800000000,0,,0,1,2022-11-21
+2861,Thodex,CeFi,Rugpull,2000000000,0,,0,1,2021-4-22
+2735,BitConnect,"Borrowing and Lending,CeFi",Rugpull,2000000000,56000000,,0,0,2018-1-15
+2792,Finiko,CeFi,Rugpull,1500000000,0,,0,1,2021-7-5
+3052,Celsius Network,"Borrowing and Lending,CeFi",Other,1190000000,0,,0,1,2022-6-13
+3283,Voyager,CeFi,Other,1000000000,0,,0,1,2022-5-7
+3058,Terra Classic,Stablecoin,Other,40000000000,0,,0,1,2022-5-8
+2762,Africrypt,CeFi,Rugpull,3600000000,0,,0,1,2021-6-23
+3264,Silk Road,Other,Other,3360000000,3360000000,,0,1,2012-9-19
+2878,PlusToken,CeFi,Rugpull,2900000000,0,,0,0,2019-12-16
+3280,Genesis,"Borrowing and Lending,CeFi",Other,2800000000,0,,0,1,2022-11-21
+2861,Thodex,CeFi,Rugpull,2000000000,0,,0,1,2021-4-22
+2735,BitConnect,"Borrowing and Lending,CeFi",Rugpull,2000000000,56000000,,0,0,2018-1-15
+2792,Finiko,CeFi,Rugpull,1500000000,0,,0,1,2021-7-5
+3052,Celsius Network,"Borrowing and Lending,CeFi",Other,1190000000,0,,0,1,2022-6-13
+3283,Voyager,CeFi,Other,1000000000,0,,0,1,2022-5-7
+3282,BlockFi,CeFi,Other,1000000000,0,,0,1,2022-11-28
+3265,FTX Group,"CeFi,Other",Other,1000000000,0,,1,1,2022-11-11
+2871,WoToken,CeFi,Rugpull,1000000000,0,,0,0,2020-5-14
+3220,Bitcoin Sheikh,CeFi,Other,766000000,0,,0,1,2022-10-7
+2879,Ronin,Bridge,Access Control,625000000,155800000,,1,0,2022-3-29
+2543,Poly Network,Other,Other,602189570,602189570,,1,0,2021-8-10
+2643,Coincheck,CeFi,Other,534000000,534000000,,0,0,2018-1-26
+2808,Mt. Gox (3),CeFi,Other,473000000,0,,0,0,2014-2-24
+2939,MyCoin,CeFi,Rugpull,387000000,0,,0,0,2015-2-9
+2814,Wormhole,Bridge,Other,326000000,326000000,,0,0,2022-2-2
+3260,Trade Coin Club,CeFi,Other,295000000,0,,0,1,2016-8-2
+2644,KuCoin,CeFi,Access Control,280000000,280000000,,0,0,2020-9-25
+3267,Gate.io (2),CeFi,Access Control,230000000,0,,0,1,2018-4-21
+2713,BitMart Exchange,CeFi,Access Control,196000000,0,,0,0,2021-12-4
+3112,Nomad,Bridge,Other,190000000,36342325,,1,0,2022-8-1
+2991,Beanstalk,Stablecoin,Flash Loan Attack,181000000,0,,0,0,2022-4-18
+2926,BTC-e,CeFi,Rugpull,181000000,0,,0,0,2017-7-26
+3190,Wintermute (2),"CeFi,Yield Aggregator",Access Control,160000000,0,,0,1,2022-9-20
+2890,Token.Store,CeFi,Rugpull,160000000,0,,0,0,2019-6-11
+2921,Parity,Other,Other,155000000,0,,0,1,2017-11-8
+2924,Control Finance,CeFi,Rugpull,147000000,0,,0,1,2017-9-10
+2903,QuadrigaCX,CeFi,Access Control,147000000,0,,0,1,2019-2-4
+2652,BitGrail,CeFi,Other,146000000,0,,0,0,2018-2-10
+2727,Vulcan Forged,Gaming / Metaverse,Access Control,140000000,0,,0,0,2021-12-12
+2688,Boy X Highspeed,Other,Access Control,139895140,0,,0,0,2021-10-30
+2684,Cream Finance,"Borrowing and Lending,Exchange (DEX)",Flash Loan Attack,130000000,0,,0,1,2021-10-27
+2712,BadgerDAO,Yield Aggregator,Other,120285547,0,,0,0,2021-12-2
+3215,Mango Markets,Exchange (DEX),Other,116000000,69000000,,0,0,2022-10-11
+3040,Maiar DEX,Exchange (DEX),Other,113000000,113000000,,1,1,2022-6-5
+3286,EmpiresX,CeFi,Other,100000000,0,,0,1,2022-9-8
+3062,Horizon by Harmony,Bridge,Access Control,100000000,0,,1,1,2022-6-23
+2793,Liquid,CeFi,Access Control,97000000,0,,0,0,2021-8-19
+3030,Mirror Protocol,"Borrowing and Lending,Other",Other,90000000,0,,0,1,2021-10-8
+3208,BSC Token Hub,Bridge,Other,89530887,0,6500000,1,1,2022-10-6
+2363,Compound Labs,Borrowing and Lending,Oracle Issue,89000000,0,,0,0,2020-11-26
+2805,Qubit Finance,Borrowing and Lending,Other,80000000,0,,0,0,2022-1-27
+3010,Rari Fuse,Borrowing and Lending,Reentrancy,79749026,79749026,,1,0,2022-4-30
+2726,AscendEX,CeFi,Access Control,77700000,0,,0,0,2021-12-11
+2591,Venus,Borrowing and Lending,Oracle Issue,77000000,0,,0,0,2021-5-18
+2790,Fireblocks,CeFi,Access Control,75000000,0,,0,1,2021-6-22
+2663,Compound Labs (2),Borrowing and Lending,Other,71101556,0,,0,0,2021-9-30
+3118,EvoDeFi Bridge,Bridge,Other,66000000,0,,0,0,2022-6-7
+2809,Bitfinex (2),CeFi,Access Control,65000000,65000000,,0,1,2016-8-2
+2919,NiceHash,CeFi,Other,64000000,0,,0,0,2017-12-6
+3162,Mining Capital Coin,Other,Rugpull,62000000,0,,0,0,2022-5-6
+3237,Freeway,"Token,Yield Aggregator",Rugpull,60000000,0,,1,1,2022-10-23
+2686,AnubisDAO,Exchange (DEX),Rugpull,60000000,0,,0,0,2021-10-29
+2908,Zaif,CeFi,Access Control,59000000,0,,0,0,2018-9-14
+2365,EasyFi,Borrowing and Lending,Access Control,59000000,0,,0,0,2021-4-19
+2367,Uranium Finance (2),Yield Aggregator,Other,57200000,0,,0,0,2021-4-28
+2880,Upbit,CeFi,Access Control,51200000,0,,0,0,2019-11-27
+2915,Blockchain.com,CeFi,Access Control,50000000,0,,0,0,2018-2-19
+2364,TheDAO,Stablecoin,Other,50000000,0,,0,0,2016-6-17
+2859,Cashio,Stablecoin,Other,48000000,0,,0,0,2022-3-23
+2691,bZx (4),Borrowing and Lending,Access Control,47600000,0,,0,0,2021-11-5
+2898,CoinBene,CeFi,Access Control,45000000,0,,0,0,2019-3-26
+723,PancakeBunny,Yield Aggregator,Flash Loan Attack,45000000,100000,,0,0,2021-5-19
+2895,Binance,CeFi,Access Control,41700000,0,,0,0,2019-5-7
+3284,Bo Shen Wallet Hack,Other,Access Control,41053572,0,,0,1,2022-11-10
+2911,Coinrail,CeFi,Access Control,40000000,0,,0,0,2018-6-10
+2743,Grim Finance,Yield Aggregator,Reentrancy,40000000,0,,0,0,2021-12-19
+733,Alpha Finance Lab,Other,Flash Loan Attack,37500000,3700000,,0,0,2021-2-13
+2596,Cream Finance,Borrowing and Lending,Other,36154954,0,,0,0,2021-8-31
+2829,IRA Financial,Other,Other,36000000,0,,0,1,2022-2-8
+2638,Vee Finance,Borrowing and Lending,Other,36000000,0,,,,2021-9-21
+3155,Scream,"Borrowing and Lending,Stablecoin",Oracle Issue,35000000,0,,0,0,2022-5-15
+2778,Crypto.com,CeFi,Access Control,34358003,34358003,,0,1,2022-1-17
+2927,Parity (2),Other,Other,34000000,0,,0,1,2017-7-19
+2884,Bitpoint,CeFi,Access Control,32000000,0,,0,0,2019-7-12
+2775,DEFI100,Stablecoin,Rugpull,32000000,0,,0,0,2021-5-23
+2710,MonoX,Exchange (DEX),Other,31400000,0,,0,0,2021-12-1
+2920,Tether,Stablecoin,Other,30950010,0,,0,0,2017-11-19
+2368,Meerkat Finance,Yield Aggregator,Rugpull,30883780,0,,0,0,2021-3-4
+2351,Spartan Protocol,Exchange (DEX),Flash Loan Attack,30500000,0,,0,0,2021-5-2
+2910,Bithumb (2),CeFi,Access Control,30000000,0,,0,0,2018-6-19
+2699,SnowdogDAO,Other,Rugpull,30000000,0,,0,0,2021-11-26
+3200,Transit Swap,Exchange (DEX),Other,28900000,19140000,,0,0,2022-10-1
+3252,Deribit Exchange,CeFi,Access Control,28317206,0,,0,1,2022-11-1
+3045,Wintermute,Other,Other,27600000,23460000,,1,1,2022-6-9
+125,Paid Network (old),Other,Other,27418034,0,,0,0,2021-3-5
+2885,Bitmarket,CeFi,Rugpull,27100000,0,,0,0,2019-7-8
+2350,StableMagnet,Other,Rugpull,27000000,24000000,,0,0,2021-6-23
+2902,Coinbin,CeFi,Access Control,26000000,0,,0,0,2019-2-20
+2580,Lendf.Me,Borrowing and Lending,Other,25236849,25236849,,0,0,2020-4-19
+2369,xToken,Token,Flash Loan Attack,24000000,0,,0,0,2021-5-12
+749,Harvest Finance,Yield Aggregator,Flash Loan Attack,24000000,2500000,,0,0,2020-10-26
+2549,Bancor,Exchange (DEX),Other,23500000,0,,,,2018-7-9
+2990,Elephant Money,Exchange (DEX),Flash Loan Attack,22200000,0,,0,0,2022-4-12
+2734,Bilaxy,CeFi,Other,21709378,0,,0,0,2021-8-29
+3115,TBIS,Other,Rugpull,21000000,0,,0,0,2022-7-27
+3080,Bilaxy,CeFi,Access Control,21000000,0,,0,1,2021-8-29
+3116,Freedom Protocol | Raccoon Network,"Gaming / Metaverse,Yield Aggregator",Rugpull,20800000,0,,0,0,2022-7-19
+2421,Popsicle Finance,Yield Aggregator,Other,20500000,0,,,,2021-8-3
+3303,Auros,CeFi,Other,20000000,0,,0,1,2022-12-20
+42,Yfdex.Finance,CeFi,Rugpull,20000000,0,,,,2020-9-9
+2353,Pickle Finance,Yield Aggregator,Other,19700000,0,,,,2020-11-21
+2897,Bithumb (3),CeFi,Access Control,19200000,14000000,,0,0,2019-3-29
+3262,Pando,Exchange (DEX),Access Control,18577305,0,,0,0,2022-11-5
+2764,Lympo,NFT,Access Control,18500000,0,,0,1,2022-1-10
+2993,DEUS Finance (2),Other,Flash Loan Attack,17900000,0,,0,0,2022-4-28
+2877,Electrum (2),Other,Access Control,17700000,0,,0,0,2020-1-19
+3285,Flare Token,Token,Rugpull,17010503,0,,0,0,2022-11-13
+2679,Indexed Finance,Other,Other,16000000,0,,0,0,2021-10-14
+2540,Rari Capital,Yield Aggregator,Flash Loan Attack,15723948,0,,0,0,2021-5-8
+2823,Dego Finance,"Gaming / Metaverse,NFT",Access Control,15444277,0,,0,0,2022-2-9
+2545,Eminence Finance,Gaming / Metaverse,Flash Loan Attack,15113001,8000000,,0,0,2020-9-29
+3072,Starstream / Agora,Yield Aggregator,Other,15000000,0,,0,0,2022-4-7
+2867,Electrum (3),Other,Access Control,15000000,0,,0,0,2020-8-30
+3061,Inverse Finance (1),Borrowing and Lending,Oracle Issue,14500000,0,,1,0,2022-4-2
+2554,FURUCOMBO,"Other,Yield Aggregator",Other,14000000,0,,0,0,2021-3-1
+3245,Team Finance,Other,Other,13073700,0,,1,1,2022-10-27
+2992,Bored Ape Yacht Club,NFT,Other,13000000,0,,0,0,2022-4-25
+2825,Superfluid,,Other,13000000,0,,0,0,2022-2-8
+2640,pNetwork,Bridge,Other,12700000,0,,,,2021-9-19
+249,Compounder Finance,,Rugpull,12326985,0,,,,2020-12-1
+2928,CoinDash,Other,Other,12200000,0,,0,0,2017-7-1
+3296,Defrost Finance,Stablecoin,Rugpull,12000000,12000000,,1,0,2022-12-23
+2863,EXMO,CeFi,Access Control,11700000,0,,0,0,2020-12-21
+2355,Value DeFi (3),Exchange (DEX),Other,11000000,0,,,,2021-5-7
+2352,bEarn Fi,,Flash Loan Attack,11000000,0,,0,0,2021-5-16
+796,yearn.finance,Yield Aggregator,Flash Loan Attack,11000000,1700000,,0,0,2021-2-5
+2893,Kraken,CeFi,Access Control,10500000,0,,0,0,2019-6-2
+2918,Youbit,CeFi,Other,10000000,0,,0,0,2017-12-19
+2891,GateHub,,Access Control,10000000,0,,0,0,2019-6-6
+2759,Arbix Finance,,Rugpull,10000000,0,,0,0,2022-1-4
+2578,SharkTron,,Rugpull,10000000,0,,,,2020-10-28
+2354,Value DeFi (2),Exchange (DEX),Other,10000000,0,,,,2021-5-5
+2945,Cryptsy,CeFi,Access Control,9890000,0,,0,0,2014-7-29
+2724,Pizza,,Other,9863088,0,,0,0,2021-12-8
+3027,BreedTech,,Rugpull,9400000,0,,1,0,2022-5-29
+2546,Cover Protocol,,Other,9400000,3200000,,,,2020-12-28
+3228,Moola Market,Borrowing and Lending,Other,9100000,8472100,,1,1,2022-10-18
+2907,Trade.io,CeFi,Access Control,9000000,0,,0,0,2018-10-20
+2558,Punk Protocol,,Other,8900000,0,,,,2021-8-10
+3071,Crema Finance,Exchange (DEX),Other,8782446,7356932,,1,0,2022-7-2
+2807,Mt. Gox (2),CeFi,Other,8750000,0,,0,0,2011-6-13
+3006,Blizz Finance,Borrowing and Lending,Rugpull,8300000,0,,1,0,2022-5-14
+2780,Haven Protocol,,Other,8186549,0,,0,0,2021-7-3
+2362,bZx (3),Other,Other,8100000,8100000,,,,2020-9-13
+3301,BitKeep,Other,Phishing,8000000,0,,0,0,2022-12-26
+3088,Uniswap (Fake),Exchange (DEX),Phishing,8000000,0,,0,0,2022-7-11
+2553,THORChain (2),Exchange (DEX),Other,8000000,0,,,,2021-7-22
+1038,Origin Protocol,,Flash Loan Attack,8000000,0,,0,0,2020-11-17
+2760,LCX,CeFi,Access Control,7940000,0,,0,1,2022-1-8
+2693,Anyswap,,Access Control,7907718,0,,0,0,2021-7-10
+823,Warp Finance,Borrowing and Lending,Flash Loan Attack,7800000,5800000,,0,0,2020-12-18
+3263,DFX Finance,Exchange (DEX),Other,7645284,204800,,1,1,2022-11-10
+763,BurgerSwap,Exchange (DEX),Flash Loan Attack,7200000,0,,0,0,2021-5-29
+2774,FinNexus,,Access Control,7000000,0,,0,0,2021-5-17
+931,Value DeFi,Exchange (DEX),Flash Loan Attack,7000000,2000000,,0,0,2020-11-14
+2556,DAO Maker,Stablecoin,Other,6884420,0,,,,2021-8-12
+2748,Bondly,,Access Control,6800987,6800987,,0,1,2021-7-14
+2600,Luna Yield,,Rugpull,6709834,4025900,,,,2021-8-20
+2986,Alchemix,Other,Other,6500000,0,,0,0,2021-6-18
+2950,PicoStocks,CeFi,Access Control,6420000,6420000,,0,0,2013-11-29
+3130,AniMoon,NFT,Rugpull,6300000,0,,0,0,2022-6-2
+760,Belt Finance,,Flash Loan Attack,6300000,0,,0,0,2021-5-29
+2849,Hundred Finance (2),Borrowing and Lending,Other,6200000,0,,0,0,2022-3-15
+3278,Safuu Protocol,Yield Aggregator,Rugpull,6073083,0,,1,1,2022-11-21
+2900,DragonEx,CeFi,Rugpull,6030000,0,,0,0,2019-3-24
+3315,LendHub,Borrowing and Lending,Other,6000000,0,,0,0,2023-1-12
+3152,Kronos Dao,"Stablecoin,Yield Aggregator",Other,6000000,0,,0,0,2022-5-19
+3129,My Big Coin,"Other,Token",Rugpull,6000000,0,,0,0,2022-7-21
+2906,MapleChange,CeFi,Other,5880000,0,,0,0,2018-10-28
+3288,Lodestar Finance,Borrowing and Lending,Flash Loan Attack,5800000,0,,0,0,2022-12-10
+2689,Squid Game,Gaming / Metaverse,Rugpull,5723268,0,,0,0,2021-11-1
+2573,XSURGE,,Flash Loan Attack,5570000,0,,0,0,2021-8-16
+2850,Agave,Borrowing and Lending,Other,5500000,0,,0,0,2022-3-15
+2865,ETERBASE,CeFi,Access Control,5400000,0,,0,0,2020-9-8
+2707,Roll,,Access Control,5389203,750000,,0,0,2021-3-14
+2812,Bitstamp,CeFi,Access Control,5263614,0,,0,1,2015-1-4
+3114,Solana Slope Wallet,Other,Other,5200000,0,,0,0,2022-8-3
+3287,Ankr,Exchange (DEX),Access Control,5000000,0,,0,1,2022-12-2
+3039,Osmosis,Exchange (DEX),Other,5000000,0,,1,1,2022-6-8
+2888,Bitrue,CeFi,Access Control,5000000,5000000,,0,0,2019-6-26
+2779,XDX Swap,Exchange (DEX),Other,5000000,5000000,,0,0,2021-7-2
+2930,Yapizon,CeFi,Other,4980000,0,,0,0,2017-4-22
+3120,ZBExchange,Exchange (DEX),Other,4767945,0,,0,0,2022-8-1
+2975,Bitcoin Savings and Trust,,Rugpull,4630000,0,,0,0,2012-7-2
+3106,TEDDY DOGE,Exchange (DEX),Rugpull,4500000,0,,1,0,2022-7-25
+2697,Eleven Finance,Yield Aggregator,Other,4500000,4200000,,0,0,2021-6-22
+2595,xToken (2),Token,Flash Loan Attack,4500000,0,,0,0,2021-8-29
+3293,Raydium,Exchange (DEX),Access Control,4400000,0,,1,0,2022-12-16
+2818,Meter.io,,Other,4400000,0,,0,0,2022-2-6
+2583,ChainSwap (2),,Other,4400000,0,,,,2021-7-11
+2552,THORChain,Exchange (DEX),Other,4364612,0,,,,2021-7-15
+3279,DeFiAI,"Exchange (DEX),Yield Aggregator",Rugpull,4173646,0,,0,0,2022-11-13
+2798,Solfire,,Rugpull,4055803,0,,0,0,2022-1-23
+3314,GMX Phishing,Other,Phishing,4000000,0,,0,0,2023-1-3
+2953,GBL,CeFi,Rugpull,4000000,0,,0,0,2013-10-26
+2671,OneCoin,,Rugpull,4000000,0,,0,0,2016-3-7
+2623,DAO Maker (2),,Other,4000000,0,,,,2021-9-4
+2559,Maze Protocol,,Other,4000000,3800000,,0,0,2021-8-11
+3070,XCarnival,,Other,3837110,1746801,,1,0,2022-6-26
+2555,DODO,Exchange (DEX),Other,3800000,3100000,,,,2021-3-9
+2541,Bogged Finance,Exchange (DEX),Flash Loan Attack,3642100,0,,0,0,2021-5-22
+3318,Luke Dashjr,Other,Access Control,3600000,0,,0,1,2022-12-31
+2883,Ola.finance,,Other,3600000,0,,0,0,2022-3-31
+3108,Nirvana Finance,Stablecoin,Flash Loan Attack,3574635,0,,1,0,2022-7-28
+3150,Pokemoney,"Gaming / Metaverse,NFT",Rugpull,3500000,0,,0,0,2022-5-26
+3124,Dragoma,Token,Rugpull,3500000,0,,0,0,2022-8-7
+3025,PokeMoney,,Rugpull,3500000,0,,0,0,2022-5-27
+2821,Hundred Finance,Borrowing and Lending,Other,3300000,0,,0,0,2022-2-6
+962,Cheese Bank,Borrowing and Lending,Flash Loan Attack,3300000,0,,0,0,2020-11-6
+143,HoneySwap.Fi,,Rugpull,3280848,0,,,,2021-2-28
+2741,Ref Finance,Exchange (DEX),Other,3202539,3202539,,0,0,2021-8-15
+2914,Coinsecure,CeFi,Access Control,3200000,0,,0,0,2018-4-12
+2626,Zabu Finance,,Other,3200000,0,,,,2021-9-12
+2870,Cashaa,CeFi,Access Control,3090000,0,,0,0,2020-7-11
+2833,OpenSea (2),,Access Control,3056651,0,,0,0,2022-2-20
+2844,DEUS Finance,Other,Flash Loan Attack,3024325,0,,0,0,2022-3-15
+2690,Vesper Finance,,Other,3003942,0,,,,2021-11-2
+3306,Rich Dwarves Tribe,NFT,Abandoned,3000000,0,,1,0,2022-1-23
+3302,BTC.com,CeFi,Other,3000000,0,,0,1,2022-12-3
+3266,Skyward Finance,"Exchange (DEX),Token",Other,3000000,0,,0,0,2022-11-1
+2922,OKEx,CeFi,Other,3000000,0,,0,0,2017-10-2
+2772,PolkaTrain,,Other,3000000,0,,0,0,2021-4-5
+2763,Tinyman,,Other,3000000,0,,0,0,2022-1-1
+2634,SushiSwap,"Borrowing and Lending,Exchange (DEX)",Other,2993606,2993606,,,,2021-9-16
+2994,Fortress Loans,,Other,2976004,0,,1,0,2022-5-8
+2875,IOTA wallet,,Other,2910000,0,,0,0,2020-2-12
+146,Wallstreetswap Finance,,Rugpull,2905021,0,,0,0,2021-2-15
+2756,MetaDAO,Token,Honeypot,2826509,0,,0,0,2021-12-27
+2794,Multichain (Anyswap),,Other,2726413,2522800,,0,0,2022-1-18
+2804,IDO rug pulls,,Rugpull,2661699,0,,0,0,2022-1-12
+2842,Fantasm Finance,,Other,2622097,0,,0,0,2022-3-9
+2828,BNB42,,Rugpull,2602079,0,,0,0,2022-2-14
+2987,PYE,,Other,2600000,0,,0,0,2022-3-24
+2787,Fetch.ai,,Access Control,2600000,0,,0,0,2021-8-14
+3317,FCS,Token,Rugpull,2588000,0,,0,0,2023-1-4
+3192,Boy X Highspeed (2),Yield Aggregator,Other,2584890,0,,1,0,2022-9-20
+2934,Purse,,Access Control,2510000,2510000,,0,0,2015-10-11
+2742,Zapper,,Other,2500000,2500000,,0,0,2021-6-14
+277,Emerald Mine,,Rugpull,2500000,0,,,,2020-9-9
+2651,PancakeBunny,Yield Aggregator,Flash Loan Attack,2395931,2395931,,0,0,2021-7-16
+3214,TempleDAO,Yield Aggregator,Other,2376872,0,,1,0,2022-10-11
+2943,BitPay,,Access Control,2370000,0,,0,0,2014-9-12
+2732,Evolved Apes,,Rugpull,2339031,0,,0,0,2021-10-6
+63,Turtledex,,Rugpull,2324610,0,,,,2021-3-16
+2754,Fairmoon,,Rugpull,2300000,0,,0,0,2021-5-19
+3084,Bifrost,Other,Other,2248328,0,,1,1,2022-7-8
+116,PopcornSwap,,Rugpull,2241690,0,,,,2021-1-28
+51,Deriswap (the 1st fake),Stablecoin,Rugpull,2170264,0,,,,2020-11-23
+2896,BitoPro,CeFi,Other,2170000,0,,0,0,2019-5-2
+3041,ApolloX,,Other,2150414,0,,1,0,2022-6-8
+2932,Gatecoin,CeFi,Access Control,2140000,0,,0,0,2016-5-10
+3311,Dictum Exchange,Exchange (DEX),Rugpull,2100000,0,,0,0,2022-12-31
+3043,Gym Network,,Other,2100000,0,,1,1,2022-6-8
+2860,stazie,,Access Control,2072967,0,,0,0,2021-7-31
+2627,AFKSystems Finance,,Rugpull,2017053,0,,,,2021-9-10
+3132,Mirror Protocol (2),"Borrowing and Lending,Other",Oracle Issue,2000000,0,,0,1,2022-5-31
+2998,Mad Meerkat Finance,Exchange (DEX),Other,2000000,0,,1,0,2022-5-4
+2988,Revest,,Other,2000000,0,,0,0,2022-3-27
+2810,MintPal,CeFi,Access Control,2000000,0,,0,1,2014-7-13
+2791,Circle,CeFi,Access Control,2000000,0,,0,1,2021-7-9
+2687,AutoSharkFinance (2),Exchange (DEX),Other,2000000,0,,,,2021-10-29
+811,Akropolis,,Flash Loan Attack,2000000,0,,0,0,2020-11-12
+2682,PancakeHunny (2),,Other,1984749,0,,,,2021-10-20
+2827,Titano,,Other,1949111,0,,0,0,2022-2-14
+2923,Coinis,CeFi,Access Control,1930000,0,,0,0,2017-9-21
+2944,BTER,CeFi,Rugpull,1910000,0,,0,0,2014-8-15
+2590,Percent Finance,Borrowing and Lending,Other,1900000,0,,,,2020-11-4
+2547,BT.Finance,Yield Aggregator,Flash Loan Attack,1867271,0,,0,0,2021-2-8
+2882,CoinTiger,CeFi,Access Control,1800000,0,,0,0,2019-8-17
+2864,Ledger (2),,Access Control,1800000,0,,0,0,2020-10-24
+2773,PancakeSwap (2),Exchange (DEX),Other,1800000,0,,0,0,2021-4-12
+2937,BTER (2),CeFi,Access Control,1790000,0,,0,0,2015-2-15
+2744,Bent Finance,Yield Aggregator,Other,1786520,0,,0,0,2021-12-21
+3268,Gate.io,CeFi,Access Control,1750000,0,,0,1,2015-2-14
+2698,EVODeFi,,Flash Loan Attack,1735747,0,,1,0,2021-6-10
+2817,DePo,,Access Control,1723632,0,,0,1,2022-2-4
+3113,Reaper Farm,Yield Aggregator,Other,1700000,0,,1,1,2022-8-2
+2843,PARALUNI,,Other,1661107,0,,0,0,2022-3-13
+3136,Acala Swap,Stablecoin,Other,1600000,0,,0,1,2022-8-14
+2912,Taylor,CeFi,Access Control,1580000,0,,0,0,2018-5-21
+2755,MetaMask Governance (fake),Token,Honeypot,1548908,0,,0,0,2021-12-28
+2853,OneRing,,Flash Loan Attack,1508300,0,,0,0,2022-3-21
+3163,Pragma Money,"Exchange (DEX),Yield Aggregator",Rugpull,1500000,0,,1,0,2022-5-5
+3060,LV Metaverse,,Rugpull,1500000,0,,0,0,2022-6-21
+2999,FEGtoken,,Flash Loan Attack,1500000,0,,1,0,2022-5-15
+2931,Bitcurex (2),CeFi,Other,1500000,0,,0,0,2016-10-15
+2811,MintPal (2),CeFi,Access Control,1500000,0,,0,1,2014-10-19
+2776,JulSwap,,Flash Loan Attack,1500000,0,,0,0,2021-5-28
+2551,Levyathan,,Other,1500000,0,,,,2021-7-30
+2477,PolyButterfly,,Rugpull,1500000,0,,0,0,2021-6-5
+3244,Universe Token,Exchange (DEX),Access Control,1447175,0,,0,0,2022-10-27
+3085,OMNI,"Borrowing and Lending,NFT",Reentrancy,1430000,0,,1,0,2022-7-10
+3300,Rubic,Exchange (DEX),Other,1420000,0,,1,0,2022-12-25
+2548,GROWTH DeFi,,Rugpull,1401772,0,,,,2021-2-8
+3307,CryptoBike,Gaming / Metaverse,Rugpull,1400000,0,,1,0,2022-1-1
+2872,Uniswap,,Other,1400000,0,,0,0,2020-4-18
+2868,2gether,CeFi,Rugpull,1400000,0,,0,0,2020-7-31
+3009,Venus Protocol,Borrowing and Lending,Other,1350000,0,,1,1,2022-5-13
+3002,Day of Defeat,,Rugpull,1350000,0,,1,0,2022-5-6
+2751,UFCT,,Rugpull,1323077,0,,0,0,2021-11-19
+3305,Frosties,NFT,Abandoned,1300000,0,,1,0,2022-1-9
+2366,Uranium Finance,,Other,1300000,0,,,,2021-4-8
+73,LaserSwap Cash,,Rugpull,1280809,0,,,,2021-3-15
+2749,Monkey Kingdom,,Other,1273618,1273618,,0,0,2021-12-21
+3254,Solend (2),Borrowing and Lending,Oracle Issue,1260000,0,,0,0,2022-11-2
+3056,Inverse Finance (2),Borrowing and Lending,Flash Loan Attack,1260000,0,,1,0,2022-6-16
+3180,New Free DAO,Other,Flash Loan Attack,1250372,0,,0,0,2022-9-8
+2816,Big Daddy Ape Club,,Rugpull,1237622,0,,0,0,2022-1-11
+2704,Zenon Network,,Other,1209467,0,,0,0,2021-11-20
+3158,Hunter Global,Exchange (DEX),Rugpull,1200000,0,,1,0,2022-5-8
+3225,BitKeep,CeFi,Other,1192464,0,,0,1,2022-10-17
+3165,HeroCat,"NFT,Token",Rugpull,1177347,0,,1,0,2022-8-30
+3217,QAN Platform (2),Bridge,Access Control,1165500,0,,1,1,2022-10-11
+3211,Jumpn Finance,Token,Rugpull,1143446,0,,0,0,2022-10-9
+2730,NowSwap Protocol,,Other,1142357,0,,0,0,2021-9-15
+2831,TopGoal,,Access Control,1135097,0,,0,1,2022-2-16
+2715,Axion Network,,Other,1127696,0,,0,0,2020-11-2
+3110,Rikkei Finance,"Borrowing and Lending,NFT",Oracle Issue,1115266,0,,0,0,2022-4-15
+2692,Blizzard,,Other,1109632,0,,0,0,2021-11-13
+2728,Brinc Finance,,Other,1103568,0,,0,0,2021-12-14
+3055,Treasure Swap,Exchange (DEX),Other,1100000,0,,0,0,2022-6-10
+2942,EgoPay,,Access Control,1100000,0,,0,0,2015-1-23
+96,Ethereum Yield,,Abandoned,1099672,0,,,,2021-2-11
+3101,Audius,Other,Other,1086000,0,,0,1,2022-7-23
+3209,Sovryn,"Borrowing and Lending,Exchange (DEX)",Other,1078194,0,539097,0,1,2022-10-4
+2711,CollectCoin,,Other,1071931,0,,0,0,2021-12-1
+2929,Bithumb,CeFi,Access Control,1040000,0,,0,0,2017-6-3
+3021,DecentraWorld,,Rugpull,1037288,0,,1,0,2022-5-24
+2799,OpenSea,,Other,1019300,75000,,0,0,2022-1-24
+2887,Soxex,CeFi,Rugpull,1000000,0,,0,0,2019-7-4
+2886,Bitcoin Norway,CeFi,Other,1000000,1000000,,0,0,2019-7-4
+2788,Sentinel DVPN,,Access Control,1000000,0,,0,0,2021-8-21
+2658,ApeRocket (2),,Flash Loan Attack,1000000,0,,0,0,2021-7-14
+3275,King Tribe,"NFT,Token",Rugpull,997086,0,,1,0,2022-11-6
+3199,Profanity Wallet Hack,Other,Access Control,977550,0,,0,0,2022-9-18
+2702,Visor Finance (2),,Flash Loan Attack,972616,0,,0,0,2021-11-26
+2840,Bacon Protocol,,Flash Loan Attack,957166,957166,,0,0,2022-3-5
+2905,Electrum,Other,Access Control,949000,0,,0,0,2018-12-27
+2723,8ight Finance,,Access Control,923719,0,,0,0,2021-12-6
+3146,SudoRare,NFT,Rugpull,883201,0,,1,0,2022-8-23
+3297,ElasticSwap,Exchange (DEX),Other,850000,0,,0,0,2022-12-13
+2769,Armor.Fi,,Other,850000,0,,0,0,2021-2-28
+2954,Inputs.io,CeFi,Access Control,809000,0,,0,0,2013-10-23
+139,BitBot,,Rugpull,805001,0,,,,2021-2-20
+2786,OptionRoom,,Other,800000,762003,,0,0,2021-7-11
+2584,ChainSwap,,Other,800000,0,,,,2021-7-2
+2488,Wault Finance,,Flash Loan Attack,800000,0,,0,0,2021-8-4
+2758,Eco DeFi,,Access Control,794041,0,,0,1,2021-12-28
+3194,TIGER,Token,Rugpull,784106,0,,1,0,2022-9-23
+2806,DataDAO Finance,NFT,Rugpull,781637,0,,0,0,2022-1-30
+3308,Cryptoburgers,Gaming / Metaverse,Other,770000,0,,1,0,2022-1-17
+2801,Crypto Burgers,,Flash Loan Attack,770000,450251,,0,0,2022-1-17
+2803,Mercenary,,Rugpull,760000,0,,0,0,2022-1-26
+2587,AutoSharkFinance,Exchange (DEX),Flash Loan Attack,759046,0,,0,0,2021-5-24
+2862,Altilly,CeFi,Rugpull,750000,0,,0,0,2020-12-26
+2594,Yam DAO,,Other,750000,0,,,,2020-8-13
+3097,Forest Tiger Pro,"Gaming / Metaverse,Token",Rugpull,732647,0,,1,0,2022-7-13
+2701,ElectronDAO,,Rugpull,728653,0,,0,0,2021-11-25
+2936,Kipcoin,CeFi,Access Control,721000,0,,0,0,2015-2-18
+46,UniCat.farm,Exchange (DEX),Rugpull,713402,0,,,,2020-9-24
+2694,Meta Pets,,Rugpull,708623,0,,0,0,2021-11-18
+3016,QAN Platform,,Other,704590,0,,1,1,2022-5-18
+2856,Umbrella Network (2),,Other,700000,0,,0,0,2022-3-20
+2706,Meebits,,Other,700000,0,,0,0,2021-5-8
+364,BitDao,Token,Honeypot,686491,0,,0,0,2021-6-17
+2489,Merlin Labs,,Other,680000,0,,,,2021-5-26
+2736,Zerogoki,,Other,670000,0,,0,0,2021-8-8
+2361,bZx (2),,Flash Loan Attack,665840,0,,0,0,2020-2-18
+2824,BabyMUSK,,Rugpull,664910,0,,0,0,2022-2-9
+2837,Ariva Digital,,Access Control,660739,0,,0,0,2022-2-25
+2542,Impossible Finance,,Flash Loan Attack,660657,0,,0,0,2021-6-21
+2948,Crypto Rush,CeFi,Other,659000,0,,0,0,2014-3-15
+2719,Lever,,Other,652941,0,,0,0,2021-11-26
+3316,Midas Capital,Borrowing and Lending,Flash Loan Attack,650000,0,,0,0,2023-1-15
+3242,Melody,Gaming / Metaverse,Access Control,644404,0,,1,0,2022-10-24
+2822,TECRA,,Other,642756,0,,0,0,2022-2-4
+346,VitaDAO.com,Token,Honeypot,626595,0,,1,0,2021-6-19
+2982,MyBitcoin (2),CeFi,Rugpull,619000,0,,0,0,2011-8-8
+2813,Flexcoin,CeFi,Other,614298,0,,0,1,2014-3-2
+3121,Curve.Finance,Exchange (DEX),Phishing,612000,450000,,0,1,2022-8-9
+2705,Wild Credit,Borrowing and Lending,Access Control,611963,611963,,0,0,2021-5-27
+2951,BIPS,,Other,600000,0,,0,0,2013-11-17
+2721,Nerve Finance,Exchange (DEX),Other,585882,0,,0,0,2021-11-14
+3172,DAO_Officials,Other,Flash Loan Attack,581250,0,,0,0,2022-9-4
+3320,Thoreum Finance,Other,Access Control,580000,0,,0,0,2023-1-19
+3221,The Micro Elements,Token,Rugpull,573223,0,,1,0,2022-10-11
+2889,Bitsane,CeFi,Rugpull,570000,0,,0,0,2019-6-17
+2800,BNB HEROES,,Rugpull,561284,0,,0,0,2022-1-17
+2490,Merlin Labs (2),,Other,550000,0,,,,2021-5-27
+2957,WeExchange,CeFi,Other,545000,0,,0,0,2013-7-1
+197,Kper Network,,Rugpull,541755,0,,,,2020-10-31
+3018,Feminist Metaverse,,Other,540000,0,,1,0,2022-5-18
+2745,Visor Finance (3),,Other,529929,0,,0,0,2021-12-21
+2855,REALSWAK,,Rugpull,526968,0,,0,0,2022-3-22
+2358,Balancer Labs,Exchange (DEX),Flash Loan Attack,523613,0,,0,0,2020-6-28
+2747,Array Finance,,Flash Loan Attack,516391,0,,0,1,2021-7-19
+2753,PolyDEX,Exchange (DEX),Other,511144,0,,0,0,2021-6-20
+3145,HUT,Token,Rugpull,509000,0,,0,0,2022-8-20
+2784,Umbrella Network,,Other,505060,0,,0,0,2021-7-11
+2696,Visor Finance,,Access Control,504845,504845,,0,0,2021-6-19
+2925,Enigma,,Other,500000,0,,0,0,2017-8-21
+2881,VinDAX,CeFi,Other,500000,0,,0,0,2019-11-8
+2777,SharedStake,,Access Control,500000,0,,0,0,2021-6-24
+2767,Seascape Network,Exchange (DEX),Access Control,500000,0,,0,0,2021-3-15
+130,Union Capital,,Rugpull,500000,0,,,,2021-2-10
+3063,DMC Token,,Rugpull,497386,0,,1,0,2022-6-25
+107,Stable Yield Credit,Token,Honeypot,494001,0,,,,2021-1-5
+3227,MetaverseToken,Token,Flash Loan Attack,487042,0,,1,0,2022-10-16
+2847,WanderVerse NFT,,Rugpull,484887,0,,0,0,2022-3-8
+2770,HSO,,Rugpull,481800,398657,,0,0,2021-3-10
+242,Pump Farm,,Rugpull,477544,0,,,,2020-11-12
+3182,Arbitrage Robot Token,"Token,Yield Aggregator",Other,472459,0,,1,0,2022-9-8
+2830,BuildFinance,,Access Control,470000,0,,0,0,2022-2-14
+3310,Snowflake,Exchange (DEX),Rugpull,468000,0,,0,0,2022-12-30
+2938,Exco,CeFi,Rugpull,460000,0,,0,0,2015-2-10
+208,Xdef finance,,Rugpull,449690,0,,,,2021-1-5
+175,Pills for Sale (Fake),Token,Honeypot,447069,0,,,,2021-1-17
+3053,FSWAP,,Other,432497,0,,1,0,2022-6-13
+2739,Dot Finance,,Other,429724,0,,0,1,2021-8-25
+3269,Fair Token,Token,Rugpull,428872,0,,1,0,2022-11-10
+3291,BGE,Token,Rugpull,426892,0,,1,0,2022-12-1
+2709,Unlock Protocol,,Access Control,416125,0,,0,0,2021-11-21
+2781,RAI Finance,,Other,414013,414013,,0,0,2021-7-4
+3144,Nut2Earn,Token,Rugpull,410000,0,,0,0,2022-8-16
+3050,HEGE coin,Other,Rugpull,400000,0,,1,0,2022-6-11
+2916,BlackWallet,,Access Control,400000,0,,0,0,2018-1-13
+2750,WePiggy,,Other,400000,0,,0,0,2021-12-15
+137,Leverage X,,Rugpull,399855,0,,,,2021-2-25
+3204,Dollar,Token,Rugpull,382660,0,,1,0,2022-9-26
+3236,MetaFinanceDAO,Token,Rugpull,380300,0,,1,0,2022-10-12
+89,DEFIBase,,Rugpull,378721,0,,,,2020-12-11
+3092,PREMINT | NFT,NFT,Access Control,375000,0,,0,1,2022-7-17
+2700,Ploutoz Finance,,Flash Loan Attack,372441,0,,0,0,2021-11-23
+2585,opyn,,Other,371260,371260,,,,2020-8-4
+3179,Cauldron,Borrowing and Lending,Flash Loan Attack,370000,0,,1,0,2022-9-6
+2963,Bitcoin Rain,CeFi,Other,370000,0,,0,0,2013-3-28
+2703,ForceDAO,,Other,367000,367000,,0,0,2021-4-4
+3135,XSTABLE Protocol,Token,Rugpull,366975,0,,1,0,2022-8-9
+134,Hype Bet Finance,,Rugpull,363854,0,,,,2020-11-30
+3082,Miss Universe NFT,NFT,Rugpull,360000,0,,1,1,2021-12-12
+2360,bZx,,Flash Loan Attack,355880,0,,0,0,2020-2-15
+111,PolBase Cash,Stablecoin,Rugpull,353807,0,,0,0,2021-1-7
+3091,Ribbon Finance,,Phishing,351064,0,,1,0,2022-6-24
+2989,GHOSTP2E,,Rugpull,346253,0,,0,0,2022-4-1
+3036,Bubbleworld,,Other,343697,0,,1,1,2022-6-6
+2959,Vircurex,CeFi,Access Control,342000,0,,0,0,2013-5-10
+41,LV Finance,Yield Aggregator,Rugpull,333987,0,,0,0,2020-9-19
+2491,Merlin Labs (3),,Other,333825,0,,,,2021-6-29
+2935,BitFinex,CeFi,Access Control,332000,0,,0,1,2015-5-22
+2766,SashimiSwap,Exchange (DEX),Flash Loan Attack,316800,0,,0,0,2021-12-30
+141,Cake Lock,,Rugpull,310654,0,,,,2021-3-1
+138,Rbase Finance,,Rugpull,307098,0,,,,2021-1-21
+2819,FileSystemVideo,,Rugpull,303625,0,,0,0,2022-2-7
+2973,Bitcoinica (2),CeFi,Access Control,303000,0,,0,0,2012-7-13
+2876,Altsbit,CeFi,Other,303000,0,,0,0,2020-2-5
+3176,ShadowFi,Token,Other,302817,0,,1,0,2022-9-2
+3294,Lymex,Other,Rugpull,301754,0,,0,0,2022-12-4
+2681,Glide Finance,Exchange (DEX),Other,300000,0,,0,0,2021-10-17
+2838,Flurry Finance,,Other,293000,0,,0,0,2022-2-23
+2572,FASTSWAP,,Other,290738,0,,,,2021-8-14
+2796,Metaland DAO,,Rugpull,286585,0,,0,0,2022-1-7
+44,Tomatos,Exchange (DEX),Rugpull,286136,0,,,,2020-9-24
+2586,Soft Yearn Finance,,Other,281382,0,,,,2020-9-3
+2746,Sanshu Inu,,Other,279608,0,,0,0,2021-7-21
+94,SynLev,Exchange (DEX),Rugpull,277897,0,,,,2021-3-13
+2955,BASIC-MINING,,Rugpull,277000,0,,0,0,2013-10-1
+3034,Bored Ape Yacht Club (2),,Other,276290,0,,1,0,2022-6-4
+2714,Saddle Finance,Exchange (DEX),Other,275735,0,,0,0,2021-1-19
+3251,LOO,Token,Rugpull,275117,0,,1,0,2022-10-29
+3191,Omni Bridge,Bridge,Other,271800,0,,1,0,2022-9-16
+2695,xWin Finance,,Other,270000,0,,0,0,2021-6-25
+2752,DeFiPie,,Other,269315,0,,0,1,2021-7-13
+2933,Shapeshift,CeFi,Access Control,269000,0,,0,0,2016-4-1
+3177,Kyber Network,Exchange (DEX),Other,265050,0,,0,0,2022-9-1
+3126,BAYC & OtherSide,NFT,Phishing,262732,0,,0,0,2022-6-4
+3197,SherLOCK,Token,Rugpull,262175,0,,1,0,2022-9-21
+2657,ApeRocket,Stablecoin,Flash Loan Attack,260000,0,,0,0,2021-7-14
+2768,Multi Financial,,Rugpull,258050,0,,0,0,2021-2-1
+2802,Crosswise,,Other,257868,0,,0,1,2022-1-18
+3184,PoW ETH,Token,Phishing,255780,0,,1,0,2022-9-15
+3111,SuperStep,"Gaming / Metaverse,NFT,Token",Rugpull,255682,0,,0,0,2022-7-25
+3198,BNQ Token,Token,Rugpull,255675,0,,1,0,2022-9-19
+2940,796 Exchange,CeFi,Other,253000,0,,0,0,2015-1-28
+2970,BitFloor,CeFi,Other,251000,0,,0,0,2012-9-5
+2917,EtherDelta,,Access Control,251000,0,,0,0,2017-12-20
+2873,Bisq,,Other,250000,0,,0,0,2020-4-8
+2589,PolyYeld Finance,Yield Aggregator,Other,250000,0,,0,0,2021-7-28
+2357,Safe Dollar (2),,Other,248000,0,,,,2021-6-28
+2866,Chainlink,,Other,245000,0,,0,0,2020-9-5
+2820,EarnHub,,Other,244938,0,,0,0,2022-2-7
+104,POKeFARM,,Rugpull,238435,0,,,,2020-11-13
+3134,Celer Bridge,Bridge,Other,236334,0,,0,0,2022-8-18
+2983,Bitomat,CeFi,Access Control,236000,0,,0,0,2011-7-26
+2978,Linode,,Other,228000,0,,0,0,2012-3-12
+66,Shadetech,,Rugpull,224579,0,,,,2021-3-17
+2874,Ledger,,Access Control,224000,0,,0,0,2020-3-25
+2577,Tetris Finance,,Rugpull,217507,0,,,,2020-12-17
+226,Cubic Finance,,Rugpull,216694,0,,,,2021-1-15
+2848,NFTflow,,Rugpull,216386,0,,0,0,2022-3-14
+3139,MMFinance,Token,Rugpull,215000,0,,0,0,2022-8-13
+3138,Brand New Quest Metaverse,Gaming / Metaverse,Rugpull,214122,0,,0,0,2022-8-13
+71,Bep Finance,,Rugpull,212432,0,,,,2021-3-16
+2731,dYdX,,Other,211002,0,,0,0,2021-11-24
+3240,Santa Coin,Token,Rugpull,210893,0,,1,0,2022-10-24
+3064,Swello Finance,,Rugpull,210000,0,,1,0,2022-6-25
+237,Elastic Staking,,Rugpull,208514,0,,,,2021-1-26
+176,Sifchain Finance,Exchange (DEX),Honeypot,207718,0,,,,2021-1-6
+3270,DeFi WZ Token,Token,Rugpull,207620,0,,1,0,2022-11-7
+2854,Rare Bears,,Access Control,205586,0,,0,0,2022-3-17
+3100,ArenaPlayAPC,"Gaming / Metaverse,Token",Rugpull,204259,0,,1,0,2022-7-15
+522,Santa DAO,,Rugpull,203878,0,,,,2020-10-26
+3079,Automated Assassins,,Rugpull,202000,0,,1,0,2022-6-3
+2960,Bitmit,CeFi,Access Control,202000,0,,0,0,2013-4-26
+2782,DAFI Protocol,,Other,200000,0,,0,0,2021-7-11
+2588,Pinecone Finance,Borrowing and Lending,Other,200000,0,,0,0,2021-8-18
+144,DistX,,Rugpull,197818,0,,,,2020-12-14
+3312,GDS Chain,Other,Flash Loan Attack,197000,0,,0,0,2023-1-3
+3216,Rabby Wallet,Other,Other,194500,0,,0,0,2022-10-11
+2835,DollarDoge,,Rugpull,193703,0,,0,0,2022-2-21
+3243,NWT Token,Token,Rugpull,191468,0,,1,0,2022-10-22
+3238,Layer2DAO,Exchange (DEX),Access Control,190370,119251,,1,0,2022-10-23
+3239,QuickSwap (2),Exchange (DEX),Flash Loan Attack,190000,0,,1,0,2022-10-23
+3219,DMCToken (2),Token,Rugpull,189876,0,,1,0,2022-10-10
+163,Magix,,Rugpull,188252,0,,,,2020-12-25
+167,Astronaut NFT,,Rugpull,187400,0,,,,2021-2-8
+3223,FTX,CeFi,Other,187156,0,,1,1,2022-10-13
+3099,Meta Apes,"Gaming / Metaverse,NFT",Rugpull,183151,0,,1,0,2022-6-11
+184,Cover protocol (fake),,Rugpull,182745,0,,,,2020-11-27
+3022,SHIDAO,,Rugpull,180000,0,,1,0,2022-5-25
+3174,Bill Muray Wallet Hack,"NFT,Other",Access Control,177873,0,,0,0,2022-8-31
+3142,PAK REVOLUTION,Token,Rugpull,175184,0,,0,0,2022-8-14
+2597,Casper DeFi,,Other,172411,190383,,,,2021-8-4
+2733,Alpha Finance Lab (2),,Other,170704,170704,,0,0,2021-10-23
+188,KeeperDAO (fake),Token,Honeypot,170217,0,,,,2020-11-7
+3313,Nikhil Gopalani Wallet,Other,Phishing,170000,0,,0,0,2023-1-3
+2593,Iron Finance,,Other,170000,0,,,,2020-3-16
+2962,ZigGap,CeFi,Access Control,169000,0,,0,0,2013-4-1
+217,Chessfarm.Tech,Other,Rugpull,167772,0,,0,0,2020-11-11
+2958,PicoStocks,CeFi,Access Control,167000,0,,0,0,2013-6-1
+2765,Stobox Exchange,,Access Control,166306,0,,0,1,2022-1-7
+3151,X2Y2,"Exchange (DEX),NFT",Phishing,165000,0,,0,0,2022-5-10
+3143,Stader.Near,Yield Aggregator,Other,165000,0,,0,0,2022-8-16
+2952,Bitcash.cz,CeFi,Other,161000,0,,0,0,2013-11-11
+3205,FDO,Token,Other,160441,0,,0,0,2022-10-4
+3023,Sport Move,,Rugpull,159685,0,,1,0,2022-5-27
+2845,SkyLands,,Rugpull,159136,0,,0,0,2022-3-7
+3250,DappNode,Exchange (DEX),Access Control,158343,0,,1,1,2022-10-29
+3241,BTDOG,Token,Rugpull,156844,0,,1,0,2022-10-22
+3032,ADAF,,Rugpull,156000,0,,1,0,2022-6-3
+3028,LlamaCoin,,Rugpull,150620,0,,1,0,2022-5-31
+3319,BONK Inu (Fake),Token,Rugpull,150000,0,,0,0,2023-1-18
+3102,DeeKay,NFT,Phishing,150000,0,,1,0,2022-7-15
+2913,MyEtherWallet,,Access Control,150000,0,,0,0,2018-4-24
+3029,FlokiMoon,,Rugpull,148132,0,,0,0,2022-5-31
+3229,DDCX,Token,Rugpull,148019,0,,1,0,2022-10-18
+3168,HPD,Token,Rugpull,142950,0,,1,0,2022-9-19
+3059,DHE,,Rugpull,142000,0,,0,0,2022-6-20
+3185,Giant Divine Shield,Gaming / Metaverse,Rugpull,140869,0,,1,0,2022-9-15
+56,Walletreum,Borrowing and Lending,Rugpull,138340,0,,0,0,2020-11-15
+221,Tin Finance,,Rugpull,137342,0,,,,2021-1-30
+2550,Bancor (2),Exchange (DEX),Other,135229,0,,,,2020-6-18
+2961,OzCoin,,Other,135000,83215,,0,0,2013-4-19
+3068,Dark Light,Exchange (DEX),Rugpull,134120,0,,0,0,2022-6-30
+2901,Netbox,,Rugpull,132000,0,,0,0,2019-3-24
+3149,World Cup,Token,Rugpull,131892,0,,0,0,2022-8-23
+3104,GST Token,Token,Rugpull,130943,0,,1,0,2022-7-20
+3086,Quint,"NFT,Other",Other,130000,0,,1,0,2022-6-29
+288,YFFS Finance,,Rugpull,130000,0,,,,2020-12-11
+48,XYearn,Gaming / Metaverse,Rugpull,129526,0,,,,2020-10-19
+2718,Daedalus DAO,,Rugpull,128832,0,,0,0,2021-12-5
+1626,MerchDAO,Token,Honeypot,128194,0,,0,0,2021-3-28
+3273,DeFi Safe,Token,Rugpull,127426,0,,1,0,2022-11-7
+3218,Journey of Awakening,Token,Other,127000,0,,0,0,2022-10-12
+2956,Just-Dice,,Access Control,123000,0,,0,0,2013-7-15
+2899,Biki,CeFi,Access Control,123000,0,,0,0,2019-3-25
+3261,MooCakeCTX,"Other,Token",Flash Loan Attack,122960,0,,1,0,2022-11-6
+3083,MAD,Token,Other,122354,0,,0,0,2022-6-29
+3098,Elron Token,Token,Rugpull,122000,0,,1,0,2022-7-15
+112,MoltenSwap,,Rugpull,121994,0,,,,2021-3-7
+3277,Trust Bridge,Token,Rugpull,120083,0,,1,0,2022-11-20
+3035,ACC TOKEN,,Rugpull,120000,0,,1,0,2022-6-5
+2869,Twitter,,Access Control,120000,0,,0,0,2020-7-15
+3207,Easier,Token,Rugpull,115549,0,,1,0,2022-10-5
+3037,FOMO DAO,,Rugpull,114360,0,,1,0,2022-6-4
+2969,Cdecker,,Access Control,113000,0,,0,0,2012-9-28
+2659,PancakeHunny,,Other,112187,0,,,,2021-6-3
+166,Dark Matter,,Rugpull,111637,0,,,,2020-12-30
+216,Vice.Uno,,Rugpull,111467,0,,,,2020-10-27
+3222,FlokiChain,Token,Rugpull,111162,0,,1,0,2022-10-11
+3271,Abracadabra Money,"Borrowing and Lending,Exchange (DEX),Stablecoin",Oracle Issue,110911,0,,1,0,2022-11-8
+3186,F*ck The Merge,Token,Rugpull,110383,0,,1,0,2022-9-15
+3171,Banana Swap,"Exchange (DEX),Token",Other,110105,0,,1,0,2022-8-28
+3202,NWN,Token,Rugpull,110000,0,,1,0,2022-9-27
+225,INFI Governance and Utility Token,,Rugpull,109878,0,,,,2021-1-26
+2947,Bitcurex,CeFi,Other,108000,0,,0,0,2014-3-16
+3133,QuickSwap,Exchange (DEX),Other,107600,0,,1,1,2022-5-14
+147,YZY DAO,,Rugpull,106315,0,,,,2021-4-23
+2841,TetherShiba,Token,Honeypot,105421,0,,0,0,2022-3-7
+3187,DarkPool,Token,Other,103859,0,,1,0,2022-9-10
+3224,FDB,Token,Rugpull,103540,0,,1,0,2022-10-15
+239,Yearn Machine Learning,,Rugpull,100367,0,,,,2021-1-21
+2894,Coinbase,CeFi,Access Control,100000,0,,0,0,2019-5-22
+2720,Formation.Fi,,Other,100000,0,,0,0,2021-11-20
+228,Aphrodite Protocol,,Rugpull,97147,0,,,,2021-1-29
+2356,Safe Dollar,,Other,95392,0,,,,2021-6-20
+2797,CityDAO,,Access Control,95000,0,,0,0,2022-1-10
+3094,Citizen Finance,Gaming / Metaverse,Access Control,94336,0,,1,0,2022-7-11
+3164,Marvel Metauniverse,Token,Rugpull,93746,0,,1,0,2022-8-28
+173,Nifity,,Rugpull,93410,0,,,,2021-1-22
+291,Dividend Token,,Rugpull,92360,0,,,,2020-11-24
+3281,Sheep Farm,Gaming / Metaverse,Other,91320,0,,1,0,2022-11-15
+3109,Cryptos Tribe,Token,Rugpull,91023,0,,1,0,2022-7-27
+3206,RedRubyDAO,"Other,Token",Other,91000,0,,0,0,2022-10-4
+3257,GDAO,Token,Rugpull,90302,0,,1,0,2022-10-28
+2815,CryptoBatz,,Other,90170,0,,0,0,2022-1-29
+3159,Cashera,Token,Rugpull,90000,0,,0,0,2022-5-8
+3078,Klein Bottle,Token,Rugpull,89747,0,,0,0,2022-7-6
+3272,Brahma Finance,"Exchange (DEX),Yield Aggregator",Other,89522,0,,1,1,2022-11-9
+3123,AI DAY: Part 2,Token,Rugpull,88736,0,,0,0,2022-8-8
+2641,Bitcoinica,CeFi,Other,87000,0,,,,2012-5-11
+3026,Novo,Token,Oracle Issue,85604,0,,1,1,2022-5-29
+2832,Animoca Brands Metaverse,,Rugpull,84631,0,,0,0,2022-2-17
+3166,Galaxy Coin,Token,Rugpull,84535,0,,0,0,2022-8-29
+2834,Raptor2,,Rugpull,83960,0,,0,0,2022-2-21
+59,CBDAO,,Rugpull,83884,0,,,,2020-10-9
+140,NeedForSpeed Finance,,Rugpull,82091,0,,,,2021-4-27
+3253,Rubic,"Bridge,Exchange (DEX)",Access Control,79670,0,,0,1,2022-11-2
+3169,Cupid,Token,Flash Loan Attack,78623,0,,0,0,2022-8-31
+161,OracleSwapToken,Token,Honeypot,77328,0,,,,2021-2-8
+191,Star Swap,,Rugpull,76654,0,,,,2020-11-6
+150,Sakura DeFi,,Rugpull,76480,0,,,,2021-2-14
+3295,Nimbus DAO,Other,Flash Loan Attack,76000,0,,0,1,2022-12-14
+2857,Doodle Monkey,,Rugpull,75555,0,,0,0,2022-3-23
+224,Bio Farm,,Rugpull,73244,0,,,,2021-1-13
+214,Exvault Finance,,Rugpull,73167,0,,,,2020-10-25
+61,YFFC,Yield Aggregator,Rugpull,72446,0,,0,0,2020-11-6
+3054,Equalizer Finance,,Flash Loan Attack,72000,0,,1,0,2022-6-7
+87,Solid Protocol,Exchange (DEX),Rugpull,71555,0,,,,2020-12-19
+3230,SHOK,Token,Rugpull,71488,0,,1,0,2022-10-16
+3188,TSUKA,Token,Rugpull,70755,0,,1,0,2022-9-15
+235,UniTarget,,Rugpull,70732,0,,,,2020-12-25
+2757,Snowflake Floki,Token,Honeypot,70375,0,,0,0,2021-12-28
+3321,OMNI Real Estate,NFT,Other,70000,0,,0,0,2023-1-17
+2985,MyBitcoin,CeFi,Other,68300,0,,0,0,2011-6-21
+1892,Force Dao,Token,Honeypot,65806,0,,0,0,2021-3-28
+2949,Poloniex Exchange,CeFi,Other,65600,65600,,0,0,2014-3-4
+3020,Hackerdao,,Flash Loan Attack,65155,0,,1,0,2022-5-24
+3148,Dogioh,"Gaming / Metaverse,NFT",Rugpull,65000,0,,0,0,2022-8-22
+170,SLM Token,Token,Honeypot,64891,0,,,,2021-1-17
+290,Kosta Finance,,Rugpull,63376,0,,,,2020-11-24
+1953,Echelon DAO,Token,Honeypot,63188,0,,0,0,2021-4-10
+3073,Fantom,Other,Access Control,62500,0,,0,0,2022-7-1
+3173,Meta Magic Coin,Token,Rugpull,62224,0,,1,0,2022-9-2
+88,YFDash,,Rugpull,61000,0,,,,2020-12-14
+195,K33pr,,Rugpull,60858,0,,,,2020-11-30
+3249,A6 Token,Token,Rugpull,60852,0,,1,0,2022-10-23
+3019,Swapnex,,Rugpull,60813,0,,0,0,2022-5-12
+3256,HLG,Token,Rugpull,60785,0,,1,0,2022-10-28
+3175,Carillonium,Token,Rugpull,59172,0,,0,0,2022-9-1
+75,Rise Protocol,,Rugpull,59164,0,,,,2021-3-11
+3141,FIO Protocol,Token,Rugpull,59082,0,,0,0,2022-8-14
+2579,RIFT Token,,Rugpull,59040,0,,,,2020-12-31
+3246,Victor the Fortune,Token,Other,58450,0,,1,0,2022-10-27
+3193,SSPF,Token,Rugpull,58448,0,,0,0,2022-9-24
+2964,BTC Guild,,Other,58000,0,,0,0,2013-3-10
+67,Poz finance,,Rugpull,56292,0,,,,2021-1-22
+3074,Nody,Other,Rugpull,54559,0,,1,0,2022-7-2
+3077,SHADE INU Token,Token,Rugpull,53761,0,,1,0,2022-7-6
+3127,StarMan,Token,Rugpull,53460,0,,0,0,2022-6-2
+2980,Bitcoin7,CeFi,Other,53100,0,,0,0,2011-10-5
+3140,GEMDAO,Token,Rugpull,53000,0,,0,0,2022-8-14
+3042,BabyElon,,Rugpull,52852,0,,1,0,2022-6-8
+3178,Cornerchain,Token,Rugpull,51411,0,,0,0,2022-9-6
+2946,Doge Vault,,Other,51100,0,,0,0,2014-5-13
+2826,ValentineFloki,Token,Honeypot,50830,0,,0,0,2022-2-14
+2965,Bit LC Inc.,,Access Control,50800,0,,0,0,2013-2-13
+3248,ULME Token,Token,Flash Loan Attack,50646,0,,1,0,2022-10-25
+3067,LV Metaverse (2),"Exchange (DEX),NFT",Rugpull,50625,0,,1,0,2022-6-28
+3203,e-STD,Token,Rugpull,49000,0,,1,0,2022-9-27
+2581,Hegic,,Other,47765,47765,,,,2020-4-24
+105,Rapid Set Dollar,,Rugpull,47505,0,,,,2020-12-26
+3024,Magic,,Rugpull,47315,0,,1,0,2022-5-26
+3000,Bistroo,,Other,47000,0,,1,1,2022-5-7
+3049,Cheebs,,Other,46493,0,,1,0,2022-6-11
+276,Prophet Project,,Rugpull,46356,0,,,,2020-12-18
+3137,HashFree,Token,Rugpull,46000,0,,0,0,2022-8-13
+3189,Hunter Doge,Token,Rugpull,45978,0,,1,0,2022-9-17
+3128,Tableland,NFT,Phishing,45819,0,,0,0,2022-7-21
+3181,Ragnarok Online Invasion,Token,Access Control,45262,0,,1,0,2022-9-8
+2789,Cryptopia Exchange,CeFi,Access Control,45000,0,,0,1,2021-2-20
+3196,Sirius Token,Token,Rugpull,44963,0,,1,0,2022-9-22
+3103,ElonMVP,Token,Rugpull,44371,0,,1,0,2022-7-13
+3157,NFT Cross Chain,NFT,Rugpull,44052,0,,0,0,2022-8-25
+3119,GenomesDAO,NFT,Other,43269,0,,0,0,2022-8-6
+2785,DoraFactory,,Other,42373,0,,0,0,2021-7-11
+198,Liquid Core,,Rugpull,42099,0,,,,2020-10-29
+2717,Leo Finance,Other,Other,42000,0,,0,0,2020-2-11
+85,iProtocol,,Rugpull,41930,0,,,,2020-12-21
+3201,SLS,Token,Rugpull,41112,0,,0,0,2022-10-3
+3232,Mango Inu,Token,Rugpull,40384,0,,1,0,2022-10-20
+3031,StarFinancial,,Rugpull,40264,0,,1,0,2022-5-31
+3274,Lottery Swap,Token,Rugpull,40000,0,,1,0,2022-11-7
+2851,TheCatWorld,,Rugpull,39471,0,,0,0,2022-3-3
+2783,DAO ventures,,Other,39443,0,,0,0,2021-7-11
+2967,Trojan Wallet,,Other,39200,0,,0,0,2012-11-16
+132,Galaxy DeFi,Token,Honeypot,38798,0,,,,2021-1-12
+62,Mars Farm,Borrowing and Lending,Rugpull,37645,0,,,,2021-3-4
+3234,LiveArtX,NFT,Access Control,36743,0,,0,1,2022-10-17
+68,Orbit Swap,,Rugpull,36441,0,,,,2021-2-8
+252,Solv3 network,,Rugpull,35643,0,,,,2020-12-2
+3233,LGT,Token,Rugpull,35230,0,,1,0,2022-10-12
+3069,Skate Metaverse,,Rugpull,34721,0,,1,0,2022-6-29
+248,Hype Bet,,Rugpull,34703,0,,,,2020-11-29
+258,OKO TOKEN,Token,Honeypot,34283,0,,,,2020-12-7
+232,Holy Trinity,,Rugpull,34122,0,,,,2021-1-18
+202,Yearnspace,,Rugpull,33988,0,,,,2020-12-1
+3105,Loop X Network,Token,Rugpull,33902,0,,1,0,2022-7-19
+220,MinterPro,,Rugpull,33821,0,,,,2021-1-9
+3235,KHABY Fan Token,Token,Rugpull,32814,0,,1,0,2022-10-12
+2981,Moonco.in,CeFi,Rugpull,32800,0,,0,0,2011-9-1
+54,MTI Finance,,Rugpull,32065,0,,,,2020-11-19
+199,Nemo Finance,Token,Honeypot,31797,0,,,,2020-10-26
+178,AutoTrade Finance,Token,Honeypot,31797,0,,,,2020-12-10
+3090,My Farm Pet,,Flash Loan Attack,31410,0,,0,1,2021-10-6
+263,Reaper Finance,,Rugpull,31237,0,,,,2020-12-7
+3247,n00dleswap,"Exchange (DEX),NFT,Token",Reentrancy,31096,0,,1,0,2022-10-25
+256,Apollo Swap,Token,Honeypot,31056,0,,,,2020-12-6
+126,NONAME,,Rugpull,30120,0,,,,2021-2-15
+121,WOLF Protocol,Yield Aggregator,Rugpull,30022,0,,0,0,2021-1-23
+2858,Doodled Dragons,,Rugpull,30000,0,,0,0,2022-1-6
+53,Unidark,,Rugpull,29887,0,,,,2020-10-8
+102,DiceSwap,,Rugpull,29780,0,,,,2021-3-10
+3087,RETAWATCH,,Rugpull,29069,0,,1,0,2022-7-13
+45,Dragonswap,Exchange (DEX),Rugpull,28710,0,,,,2021-3-16
+3081,ProjectX,Other,Rugpull,28247,0,,1,1,2022-7-7
+2836,Web3Memes,,Rugpull,27699,0,,0,0,2022-2-23
+3167,QWCF,Token,Rugpull,27000,0,,0,0,2022-8-29
+2904,LocalBitcoins (2),CeFi,Other,27000,0,,0,0,2019-1-26
+153,DARK DEFI,Token,Honeypot,26543,0,,0,0,2021-2-20
+135,Bondly Finance (FAKE),Token,Honeypot,26471,0,,,,2020-12-8
+179,Zenith Finance,,Rugpull,26354,0,,,,2020-11-28
+3093,Space Godzilla,Token,Flash Loan Attack,26153,0,,1,0,2022-7-13
+3276,SCAT,Token,Rugpull,26081,0,,1,0,2022-11-10
+49,WinPlay,Gaming / Metaverse,Rugpull,25773,0,,,,2020-9-17
+3122,Saxon James Musk,Token,Rugpull,25500,0,,0,0,2022-8-7
+289,TIM3,,Rugpull,25300,0,,,,2020-11-23
+65,Horizon Finance,,Rugpull,25287,0,,,,2021-3-18
+3147,PDR,Token,Rugpull,25278,0,,1,0,2022-8-21
+3044,Verify,,Rugpull,25000,0,,1,0,2022-6-8
+244,RUL3R Token,,Rugpull,24792,0,,,,2020-11-27
+3226,PlantWorld,Token,Flash Loan Attack,24483,0,,1,0,2022-10-17
+64,NarutoSwap,,Rugpull,24424,0,,,,2021-3-19
+2737,DefiBox,Exchange (DEX),Other,24412,0,,1,1,2021-9-17
+168,Static,,Rugpull,24143,0,,,,2021-4-30
+229,Pacific Protocol,,Rugpull,23531,0,,,,2021-1-1
+196,NanoCore,,Abandoned,22924,0,,,,2020-10-30
+160,Game Swap Exchange,Token,Rugpull,22796,0,,0,0,2021-1-24
+164,Boost,,Rugpull,22680,0,,,,2020-12-26
+113,Zap Finance,Exchange (DEX),Rugpull,22461,0,,,,2021-1-30
+3195,Fortunas Finance,Token,Other,21672,0,,1,0,2022-9-22
+251,CoinSWOP,,Rugpull,21049,0,,,,2020-12-4
+222,Rubick Finance,,Rugpull,20685,0,,,,2020-11-20
+124,CatDog,,Rugpull,20225,0,,,,2021-2-1
+101,KoiSwap,Exchange (DEX),Rugpull,19950,0,,,,2021-3-9
+3153,Ownly,NFT,Reentrancy,19219,0,,0,0,2022-5-10
+47,Thunder Finance,Exchange (DEX),Rugpull,18558,0,,,,2021-3-4
+3299,BlackGold,Token,Other,18476,0,,0,0,2022-12-12
+2846,Peace doge X,,Rugpull,18144,0,,0,0,2022-3-6
+2984,Ubitex,CeFi,Rugpull,18100,0,,0,0,2011-7-1
+3156,SpiritSwap,Exchange (DEX),Phishing,18000,0,,0,0,2022-5-14
+50,MiniVault.Finance,Stablecoin,Rugpull,17372,0,,,,2020-11-26
+3107,Neoteric Finance,Token,Rugpull,17304,0,,1,0,2022-7-16
+117,Dipex,,Rugpull,16957,0,,,,2021-1-9
+162,Bank Protocol,,Rugpull,16867,0,,,,2020-12-23
+268,Yearn Hold Finance,Token,Honeypot,16823,0,,,,2020-12-9
+74,True Seigniorage Dollar,,Rugpull,16644,0,,,,2021-3-12
+2740,Solend,Borrowing and Lending,Other,16000,16000,,0,0,2021-8-19
+211,Foxi.finance,,Rugpull,15513,0,,0,0,2020-11-17
+3160,ArcadeEarn,Token,Rugpull,15368,0,,0,0,2022-8-26
+2976,Betcoin,,Access Control,15300,0,,0,0,2012-4-11
+3048,Bored Ape Europe Club,,Rugpull,14400,0,,0,0,2022-6-10
+227,Slicer Finance,,Rugpull,14346,0,,,,2021-1-1
+3154,ROBOT SHIB,Token,Rugpull,14100,0,,0,0,2022-8-25
+2968,50BTC,,Other,14000,0,,0,0,2012-10-13
+131,Twerk Finance,,Rugpull,13140,0,,,,2020-12-3
+243,Hypechill fund,,Rugpull,12910,0,,,,2020-11-27
+106,Tranquility Defi,,Rugpull,12702,0,,,,2021-2-8
+99,ChaddyFinance,,Rugpull,12524,0,,,,2021-3-7
+3057,Whale Loans,,Other,12374,0,,0,1,2022-6-20
+2974,Bitcoin Syndicate,CeFi,Access Control,12000,0,,0,0,2012-7-4
+114,RFbtc,,Rugpull,11874,0,,,,2021-4-11
+3161,GMT,Token,Rugpull,11825,0,,0,0,2022-8-26
+274,Fractal Defi,,Rugpull,11678,0,,,,2021-1-16
+120,D4ppdao Token,,Rugpull,11621,0,,,,2021-1-6
+3089,Convex Finance,,Other,11578,0,,0,0,2022-6-23
+92,PulldogSwap,Token,Honeypot,10531,0,,,,2021-3-16
+58,SAV3R,,Rugpull,10423,0,,,,2020-11-17
+122,Bing Swap,,Rugpull,10239,0,,,,2021-4-3
+3051,Gooniez Gang,,Other,9700,0,,1,0,2022-6-12
+60,SuperMarioBros,,Rugpull,9669,0,,,,2020-10-23
+171,Focus,,Rugpull,9555,0,,,,2021-2-28
+145,Mantle,,Rugpull,9507,0,,,,2021-3-21
+133,Vadia Finance,,Rugpull,8992,0,,,,2020-12-8
+142,Reflation,,Rugpull,8987,0,,,,2020-12-14
+3289,Health,Token,Other,8800,0,,1,0,2022-10-20
+205,Mocha Set Dollar,,Rugpull,8780,0,,,,2021-1-3
+259,Brother finance,Token,Honeypot,8327,0,,,,2020-12-8
+2708,Sloth Inu,,Rugpull,8228,0,,0,0,2021-11-25
+128,Relay3rV1,,Rugpull,8222,0,,,,2020-11-11
+2979,Mt. Gox,CeFi,Other,8020,0,,0,0,2011-10-28
+210,CYBER SOLIDITY,,Rugpull,7823,0,,,,2020-11-14
+84,Metropolis.finance,,Rugpull,7805,0,,,,2020-12-25
+3075,BabyDAO,Other,Rugpull,7602,0,,1,0,2022-7-6
+250,K.O.N.G Token,,Rugpull,7451,0,,,,2020-12-1
+266,Ren Swap,Token,Honeypot,7248,0,,,,2020-12-9
+3125,Impermax,Borrowing and Lending,Other,7200,0,,0,0,2022-7-16
+233,Rfyield Finance,,Rugpull,7193,0,,,,2021-2-2
+3290,Polynomial Protocol,Other,Other,7000,0,,1,1,2022-11-18
+3076,FlippazOne,NFT,Access Control,6828,0,,1,0,2022-7-5
+246,CHERRY,Token,Honeypot,6593,0,,,,2020-11-28
+180,ELLA,,Rugpull,6497,0,,,,2020-11-24
+700,Ohohoh.io,,Rugpull,6460,0,,,,2021-1-5
+2977,Bitscalper,,Rugpull,6450,0,,0,0,2012-3-1
+269,Douyea,Token,Honeypot,6426,0,,,,2020-12-13
+272,UnlimitedBase Finance,,Rugpull,6283,0,,,,2020-12-15
+38,Foxy.farm,NFT,Rugpull,6154,0,,,,2020-10-20
+177,Harvester Network,Token,Honeypot,6152,0,,,,2020-12-23
+91,CREW,,Rugpull,6105,0,,,,2020-12-12
+90,dxHub,,Rugpull,5150,0,,,,2020-12-13
+2738,Banksy,,Rugpull,5000,0,,0,0,2021-9-4
+223,Rotex,,Rugpull,4804,0,,,,2020-11-21
+174,Jointventure Finance,,Rugpull,4443,0,,,,2021-1-13
+2941,LocalBitcoins,CeFi,Access Control,4440,4440,,0,0,2015-1-27
+200,ShabuVault,,Rugpull,4357,0,,0,0,2020-11-4
+95,Overbase Finance,,Rugpull,4275,0,,,,2020-12-18
+86,FutureBase.Finance,,Rugpull,4272,0,,,,2020-12-22
+156,PUMP,,Rugpull,4144,0,,,,2021-1-5
+83,Groot.finance,,Rugpull,4049,0,,,,2020-11-2
+109,GrowBase Finance,,Rugpull,4025,0,,,,2020-12-31
+212,Monster Chain,Token,Honeypot,4012,0,,,,2020-10-22
+123,Binary Protocol,Exchange (DEX),Rugpull,3924,0,,,,2021-1-29
+115,Contribute Protocol,,Rugpull,3919,0,,,,2021-3-10
+43,Delicacy DeFi,Exchange (DEX),Rugpull,3725,0,,,,2021-6-3
+157,iBLUE,,Rugpull,3470,0,,,,2021-1-6
+267,Reflect3 Finance,,Rugpull,3294,0,,,,2021-1-28
+52,Deriswap (the 2nd fake),Stablecoin,Rugpull,3262,0,,,,2020-12-17
+271,TRBAS3,,Rugpull,3176,0,,,,2020-12-14
+207,Lootx Finance,Exchange (DEX),Honeypot,2845,0,,,,2020-10-25
+119,EASYPump,Token,Honeypot,2720,0,,,,2021-1-11
+192,Vegetables Finance,,Rugpull,2652,0,,,,2020-10-5
+148,burn12,,Rugpull,2545,0,,,,2021-1-1
+1648,Q DAO Governance token v2.0,Token,Honeypot,2544,0,,0,0,2021-3-26
+57,K3psav.Finance,,Rugpull,2512,0,,,,2020-12-19
+213,x20 finance,,Rugpull,2501,0,,0,0,2020-11-17
+264,Keep3r.info,Token,Honeypot,2457,0,,,,2020-12-8
+187,House of paper,Token,Honeypot,2338,0,,,,2020-11-12
+159,Devilishburning Farm,,Rugpull,2329,0,,,,2020-11-6
+230,Gh1z.finance,,Rugpull,2137,0,,,,2020-11-24
+265,Sauron,Token,Honeypot,2003,0,,,,2020-12-9
+82,Keep3rX.finance,,Rugpull,1813,0,,,,2020-11-5
+234,Mother of All Ponzis,,Rugpull,1336,0,,,,2020-12-23
+149,L4CK,,Rugpull,1321,0,,,,2020-12-26
+190,Bloody Finance,,Rugpull,1289,0,,,,2020-11-5
+254,Ba5ic finance,,Rugpull,1055,0,,,,2020-12-2
+194,Horus Finance,Token,Honeypot,991,0,,,,2020-10-31
+240,Maxliq.ml,,Rugpull,898,0,,,,2020-11-25
+261,Farmland Network,,Rugpull,892,0,,,,2020-12-7
+100,Sonic Swap,,Rugpull,824,0,,,,2020-12-21
+2722,AutobotDefi,,Rugpull,797,0,,0,0,2021-12-5
+204,Trump Swap,Token,Honeypot,795,0,,,,2020-10-24
+247,Enjo,,Rugpull,762,0,,,,2020-11-28
+158,CAP5,,Rugpull,760,0,,,,2020-11-8
+262,Gaia protocol,,Rugpull,598,0,,,,2020-12-7
+219,Potatos Finance,,Rugpull,569,0,,,,2020-12-17
+255,Waronrug degen token,,Rugpull,555,0,,,,2020-12-5
+2076,DAOstreetbets,Token,Honeypot,548,0,,0,0,2021-10-4
+154,SAILSAN,,Rugpull,426,0,,,,2020-11-10
+218,GoldenFarm,,Rugpull,396,0,,,,2020-12-7
+203,BOMBHEAD token,Token,Honeypot,342,0,,,,2020-10-24
+155,Dswap,,Rugpull,330,0,,,,2020-11-10
+260,Jin Finance,Token,Honeypot,277,0,,,,2020-12-7
+3304,Coinsuper,CeFi,Other,0,0,,0,1,2021-11-28
+3298,Gemini,CeFi,Phishing,0,0,,0,1,2022-12-14
+3292,Vauld,CeFi,Other,0,0,,0,1,2022-7-4
+3255,Gala,Gaming / Metaverse,Other,0,0,,1,1,2022-11-3
+3231,GeoDB,Other,Other,0,0,,1,1,2022-10-19
+3213,Xave Finance,Token,Other,0,0,,0,1,2022-10-8
+3183,Gera Coin,Token,Other,0,0,,1,0,2022-9-7
+2892,Coinroom,CeFi,Rugpull,0,0,,0,0,2019-6-3
+2839,TreasureDAO,,Other,0,0,,0,0,2022-3-3
+2761,PancakeSwap,Exchange (DEX),Other,0,0,,0,0,2020-11-3
+2729,Gelato,,Other,0,0,,0,0,2021-12-12
+2725,ScareCrow,,Abandoned,0,0,,0,0,2021-12-7
+2685,Cream Finance,"Borrowing and Lending,Exchange (DEX)",Other,0,0,,,,2021-3-17
+2680,UNIYSWAP,,Rugpull,0,0,,,,2021-10-19
+2678,Mystery,,Rugpull,0,0,,,,2021-10-18
+2677,FlokiFarmToken,,Rugpull,0,0,,,,2021-10-18
+2676,Daughter Doge Revenge Token,,Rugpull,0,0,,,,2021-10-12
+2675,SaturnBeam,,Rugpull,0,0,,,,2021-10-10
+2674,Polyrock Finance,,Rugpull,0,0,,,,2021-10-9
+2673,AwakenedToken,,Rugpull,0,0,,,,2021-10-11
+2672,LionKingToken,,Rugpull,0,0,,,,2021-10-11
+2670,PolyRainbowToken,,Rugpull,0,0,,,,2021-10-7
+2669,Symmetry.Markets,,Rugpull,0,0,,,,2021-10-6
+2668,PolarBearToken,,Rugpull,0,0,,,,2021-10-6
+2665,Hallowenswap,,Rugpull,0,0,,,,2021-10-1
+2661,cArbFarm,,Rugpull,0,0,,,,2021-9-30
+2660,ChocSwap.finance,,Rugpull,0,0,,,,2021-9-30
+2656,PolyGladiatorToken,,Rugpull,0,0,,,,2021-9-29
+2655,MagicToken,,Rugpull,0,0,,,,2021-9-28
+2654,PolyMountain,,Rugpull,0,0,,,,2021-9-27
+2653,PolyHomerToken,,Rugpull,0,0,,,,2021-9-27
+2639,CoffeeSwap Arbitrum,,Rugpull,0,0,,,,2021-9-22
+2637,PlugToken,,Rugpull,0,0,,,,2021-9-20
+2636,PenginFinance Token,,Rugpull,0,0,,,,2021-9-20
+2635,INTERSWAP,Exchange (DEX),Rugpull,0,0,,,,2021-9-20
+2632,GullFinance Token,,Rugpull,0,0,,,,2021-9-16
+2631,MikuMilk Finance,,Rugpull,0,0,,,,2021-9-16
+2630,BloodySwap,,Rugpull,0,0,,,,2021-9-15
+2629,Earth DeFi Avalanche,,Rugpull,0,0,,,,2021-9-15
+2628,GulliFinance,,Rugpull,0,0,,,,2021-9-15
+2625,TrollFace,,Rugpull,0,0,,,,2021-9-13
+2624,Gold Finance,,Rugpull,0,0,,,,2021-9-10
+2622,MoneyTreeFarm,,Rugpull,0,0,,,,2021-9-7
+2621,White Moon Finance,,Rugpull,0,0,,,,2021-9-7
+2620,Swaaaaap.com,,Rugpull,0,0,,,,2021-9-6
+2619,BeastMode Token,Exchange (DEX),Rugpull,0,0,,,,2021-9-6
+2618,Valorant Finance,,Rugpull,0,0,,,,2021-9-6
+2617,Euro Token,,Rugpull,0,0,,,,2021-9-6
+2616,PolyGoose Token,,Rugpull,0,0,,,,2021-9-6
+2615,Cheetah Token,,Rugpull,0,0,,,,2021-9-6
+2614,Red Eagle Token,,Rugpull,0,0,,,,2021-9-6
+2613,HarvestLock,,Rugpull,0,0,,,,2021-9-6
+2612,TreeToken,,Rugpull,0,0,,,,2021-9-6
+2611,White Moon Finance,,Rugpull,0,0,,,,2021-9-6
+2610,Sigma,,Rugpull,0,0,,,,2021-9-3
+2609,BabyCakeGold,,Rugpull,0,0,,,,2021-9-3
+2608,Rapture,,Rugpull,0,0,,,,2021-9-3
+2607,Stonks Token,,Rugpull,0,0,,,,2021-9-3
+2606,Fisherman Finance,Exchange (DEX),Rugpull,0,0,,,,2021-9-3
+2605,Golden Bar Farm,,Rugpull,0,0,,,,2021-9-3
+2604,PolyApe Token,,Rugpull,0,0,,,,2021-9-3
+2603,Fire Swap,,Rugpull,0,0,,,,2021-9-3
+2602,Pikachu Swap,,Rugpull,0,0,,,,2021-9-3
+2601,Polysafemoon,,Rugpull,0,0,,,,2021-9-3
+2592,Iron Finance (2),,Other,0,0,,0,0,2021-6-16
+2576,Pirate Farm,,Rugpull,0,0,,,,2021-8-16
+2571,YFARM,,Rugpull,0,0,,,,2021-8-14
+2570,Corgi Finance,,Rugpull,0,0,,,,2021-8-3
+2569,Planetswap Uranus,,Rugpull,0,0,,,,2021-8-5
+2568,Yoshi Defi,,Rugpull,0,0,,,,2021-8-10
+2567,BeaverSwap.finance,,Rugpull,0,0,,,,2021-8-8
+2566,PolyMind,,Rugpull,0,0,,,,2021-8-11
+2565,Photon-Swap,,Rugpull,0,0,,,,2021-8-8
+2564,VIVAToken,,Rugpull,0,0,,,,2021-8-9
+2563,Happy Frog Finance,,Rugpull,0,0,,,,2021-8-12
+2562,Rimau Finance,,Rugpull,0,0,,,,2021-8-12
+2561,0xNinja,,Rugpull,0,0,,,,2021-8-14
+2560,Red Rose Finance,,Rugpull,0,0,,,,2021-8-15
+2539,JI Finance,,Abandoned,0,0,,,,
+2538,Kingdomswap,,Rugpull,0,0,,,,2021-8-25
+2537,Goldbar.finance,,Rugpull,0,0,,,,
+2536,Pablo Escobar,,Rugpull,0,0,,,,2021-8-25
+2535,BoobsDefi,,Rugpull,0,0,,,,2021-8-25
+2534,Meowswap Token,Exchange (DEX),Rugpull,0,0,,,,2021-8-25
+2533,SaturnSwap Token,,Rugpull,0,0,,,,2021-8-25
+2532,Tripland,,Rugpull,0,0,,,,2021-8-25
+2531,Demeter Chain,,Rugpull,0,0,,,,2021-8-25
+2530,SageSwap Token,,Rugpull,0,0,,,,2021-8-25
+2529,Rick.finance,,Rugpull,0,0,,,,2021-8-25
+2528,Delicacydefi,,Rugpull,0,0,,,,2021-8-25
+2527,Durianswap,,Rugpull,0,0,,,,
+2525,Geckoswap,,Rugpull,0,0,,,,2021-8-26
+2524,Deerdefi,,Rugpull,0,0,,,,2021-8-26
+2523,SAFU Finance,,Rugpull,0,0,,,,2021-8-26
+2522,DunkSwap Token,,Rugpull,0,0,,,,2021-8-26
+2521,RUM COIN,,Rugpull,0,0,,,,2021-8-26
+2520,Antisocial.finance,,Rugpull,0,0,,,,2021-8-26
+2519,SunnyDefi finance,,Rugpull,0,0,,,,2021-8-26
+2518,NoaSwap,,Rugpull,0,0,,,,2021-8-26
+2517,Aladdin,,Rugpull,0,0,,,,2021-8-26
+2516,Ozone Finance Token,,Rugpull,0,0,,,,2021-8-26
+2515,Original.finance,,Rugpull,0,0,,,,2021-8-26
+2514,Snakedefi,,Rugpull,0,0,,,,2021-8-26
+2513,BACON,,Rugpull,0,0,,,,2021-8-26
+2512,MYSTERYToken,,Rugpull,0,0,,,,2021-8-26
+2511,Elara Finance,,Rugpull,0,0,,,,2021-8-26
+2510,crocofi.org(CROCO),,Rugpull,0,0,,,,2021-8-26
+2509,Vine Protocol,,Rugpull,0,0,,,,2021-8-26
+2508,Mortal Kombat,,Rugpull,0,0,,,,2021-8-26
+2507,Dragonfly,,Rugpull,0,0,,,,2021-8-26
+2506,Uranium U92,,Rugpull,0,0,,,,2021-8-26
+2505,Raccoon Swap,,Rugpull,0,0,,,,2021-8-26
+2504,WindSwap,,Rugpull,0,0,,,,2021-8-26
+2503,Axe Token,,Rugpull,0,0,,,,2021-8-26
+2501,DogX Token,,Rugpull,0,0,,,,2021-8-26
+2500,SeaShell.Financ,,Rugpull,0,0,,,,2021-8-26
+2499,Polyfox.finance,,Rugpull,0,0,,,,2021-8-26
+2498,Zenko,,Rugpull,0,0,,,,2021-8-26
+2497,Pumaswap Token,,Rugpull,0,0,,,,2021-8-26
+2496,Missile,,Rugpull,0,0,,,,2021-8-26
+2495,Mummy Token,,Rugpull,0,0,,,,2021-8-26
+2494,Fish Token,,Rugpull,0,0,,,,2021-8-26
+2493,MerlinLab,,Rugpull,0,0,,,,
+2492,Cobrafinance.org,,Rugpull,0,0,,,,2021-8-27
+2487,Haikyu,,Rugpull,0,0,,,,2021-8-27
+2486,Zombies Farm,,Rugpull,0,0,,,,2021-8-27
+2484,RavenSwap,,Rugpull,0,0,,,,2021-8-27
+2483,Astro Yield,Exchange (DEX),Rugpull,0,0,,,,2021-8-27
+2482,KingDefi.finance,,Rugpull,0,0,,,,2021-8-27
+2481,Polyvee Finance,,Rugpull,0,0,,,,2021-8-27
+2480,PolyGold,,Rugpull,0,0,,,,2021-8-27
+2479,PolyIon,,Rugpull,0,0,,,,
+2478,Dooog Finance,,Rugpull,0,0,,,,2021-8-27
+2476,Taba Finance,,Rugpull,0,0,,,,
+2475,PolyWeed,,Rugpull,0,0,,,,2021-8-27
+2474,Aura Finance,Exchange (DEX),Rugpull,0,0,,,,2021-8-27
+2473,Dino Finance,Exchange (DEX),Rugpull,0,0,,,,2021-8-27
+2472,PUGDOG INU,,Rugpull,0,0,,,,2021-8-27
+2471,Shadowswap Finance,,Rugpull,0,0,,,,2021-8-27
+2470,Glockswap,,Rugpull,0,0,,,,2021-8-27
+2469,Evilswap,,Rugpull,0,0,,,,2021-8-27
+2468,DinoSwap.farm,Exchange (DEX),Rugpull,0,0,,,,2021-8-27
+2467,Alienswap,,Rugpull,0,0,,,,2021-8-27
+2466,foodcourt.finance,,Rugpull,0,0,,,,
+2465,PolyFlorida,,Rugpull,0,0,,,,
+2464,Oilrig Finance,,Rugpull,0,0,,,,2021-8-27
+2463,Basset Farm,,Rugpull,0,0,,,,2021-8-27
+2462,CondoSwap,,Rugpull,0,0,,,,
+2461,Chopper Finance,,Rugpull,0,0,,,,2021-8-27
+2460,Pumpkin Swap,,Rugpull,0,0,,,,2021-8-27
+2459,PolyWhat,,Rugpull,0,0,,,,2021-8-27
+2458,Beets Farm,,Rugpull,0,0,,,,2021-8-30
+2457,Saturn Swap XYZ,,Rugpull,0,0,,,,
+2456,Bapeswap,,Rugpull,0,0,,,,
+2455,2Pac Finance,,Rugpull,0,0,,,,2021-8-30
+2454,PolyOrca,,Rugpull,0,0,,,,2021-8-30
+2452,Blazar Finance,,Rugpull,0,0,,,,2021-8-30
+2451,Popit Finance,,Rugpull,0,0,,,,2021-8-30
+2450,Area51 DeFi,,Rugpull,0,0,,,,2021-8-30
+2449,Duck Finance,Stablecoin,Rugpull,0,0,,,,2021-8-30
+2448,CookieSwap Layer 2,,Rugpull,0,0,,,,2021-8-30
+2447,PoliEx Swap,,Rugpull,0,0,,,,2021-8-30
+2446,Cheeseballs Finance,,Rugpull,0,0,,,,
+2445,KoalaDefi,,Rugpull,0,0,,,,2021-8-30
+2444,Bengal Swap,,Rugpull,0,0,,,,2021-8-30
+2443,DragonBallSwap,,Rugpull,0,0,,,,
+2442,Polyninja.finance,,Rugpull,0,0,,,,
+2441,Cardboard Finance,,Rugpull,0,0,,,,2021-8-30
+2440,TamagochiSwap,,Rugpull,0,0,,,,2021-8-30
+2439,HermitSwap,,Rugpull,0,0,,,,2021-8-30
+2438,Carousel Finance,,Rugpull,0,0,,,,2021-8-30
+2437,PolyHype,,Rugpull,0,0,,,,
+2436,BBQ Swap,,Rugpull,0,0,,,,2021-8-30
+2435,CatgeSwap,,Rugpull,0,0,,,,2021-8-30
+2434,CarolinaReaper Finance,,Rugpull,0,0,,,,2021-8-30
+2433,Poohswap,,Rugpull,0,0,,,,2021-8-30
+2432,PolyYield,,Rugpull,0,0,,,,2021-8-30
+2431,Royalflush Farm,,Rugpull,0,0,,,,2021-8-30
+2430,Hydra Blazar,,Rugpull,0,0,,,,
+2429,Lamp Finance,,Rugpull,0,0,,,,2021-8-30
+2428,The Apollo Project,,Rugpull,0,0,,,,2021-8-30
+2427,NekoCat,,Rugpull,0,0,,,,2021-8-30
+2426,BreadSwap,,Rugpull,0,0,,,,2021-8-30
+2425,Frog Farm,,Rugpull,0,0,,,,2021-8-30
+2424,Hotdog Cart Finance,,Rugpull,0,0,,,,2021-8-30
+2423,Hippolygon,,Rugpull,0,0,,,,2021-8-30
+2422,OVNI Finance,,Rugpull,0,0,,,,2021-8-30
+2420,LavaSwap,,Rugpull,0,0,,,,2021-8-30
+2419,RabbitSwap Finance,,Rugpull,0,0,,,,2021-8-30
+2418,Jester DeFi,,Rugpull,0,0,,,,2021-8-30
+2417,Panda Matic,,Rugpull,0,0,,,,2021-8-30
+2416,Helios.Cash,,Rugpull,0,0,,,,2021-8-30
+2415,Astro Bunny Finance,,Rugpull,0,0,,,,2021-8-30
+2414,Polywater,,Rugpull,0,0,,,,2021-8-30
+2413,BEESwap,,Rugpull,0,0,,,,2021-8-30
+2412,Night Wolf,,Rugpull,0,0,,,,2021-8-30
+2411,PolyGarden,,Rugpull,0,0,,,,2021-8-30
+2410,PolyGorilla,,Rugpull,0,0,,,,2021-8-30
+2409,PolyCloud,,Rugpull,0,0,,,,2021-8-30
+2408,UNIRON Finance,,Rugpull,0,0,,,,
+2407,Ailuropodinae,,Rugpull,0,0,,,,2021-8-31
+2406,Predator Swap,,Rugpull,0,0,,,,2021-8-31
+2405,KuCat Finance,,Rugpull,0,0,,,,
+2404,DonutDeFi,,Rugpull,0,0,,,,2021-8-31
+2403,JoeBiden Finance,,Rugpull,0,0,,,,
+2402,NoMoreDogs,,Rugpull,0,0,,,,2021-8-31
+2401,PolyMinecraft,,Rugpull,0,0,,,,2021-8-31
+2400,PolyMiner,,Rugpull,0,0,,,,2021-8-31
+2399,Hamster Swap,,Rugpull,0,0,,,,2021-8-31
+2398,Hammy Finance,,Rugpull,0,0,,,,2021-8-31
+2397,Secura Finance,,Rugpull,0,0,,,,2021-8-31
+2396,PuffinSwap,,Rugpull,0,0,,,,2021-8-31
+2395,Gameboy Finance,,Rugpull,0,0,,,,2021-8-31
+2394,Cupcake Defi,,Rugpull,0,0,,,,2021-8-31
+2393,Farm Ninja,,Rugpull,0,0,,,,2021-8-31
+2392,Mew Two,,Rugpull,0,0,,,,2021-8-31
+2391,Mew,,Rugpull,0,0,,,,2021-8-31
+2390,RoboBuddy,,Rugpull,0,0,,,,2021-8-31
+2389,rabbitfarm.finance,,Rugpull,0,0,,,,2021-8-31
+2388,Cat.Moji Swap,Yield Aggregator,Rugpull,0,0,,,,2021-8-31
+2387,MewMegaX Token,,Rugpull,0,0,,,,2021-8-31
+2386,WeedSwap,,Rugpull,0,0,,,,2021-8-31
+2385,NutPie,,Rugpull,0,0,,,,2021-8-31
+2384,Flamingo Lagoon,Exchange (DEX),Rugpull,0,0,,,,2021-8-31
+2383,DonaldSwap,,Rugpull,0,0,,,,2021-8-31
+2382,koroswap finance,,Rugpull,0,0,,,,2021-8-31
+2381,LayerFarm,,Rugpull,0,0,,,,2021-8-31
+2380,Hamster Farm,,Rugpull,0,0,,,,2021-8-31
+2379,PolyHorse Finance,,Rugpull,0,0,,,,2021-8-31
+2378,Hawk Finance,,Rugpull,0,0,,,,2021-8-31
+2377,PolySphere,,Rugpull,0,0,,,,2021-8-31
+2376,Starfall Finance,,Rugpull,0,0,,,,2021-8-31
+2375,XAN Swap,,Rugpull,0,0,,,,2021-8-31
+2374,PitbullSwap,,Rugpull,0,0,,,,2021-8-31
+2373,LanternSwap,,Rugpull,0,0,,,,2021-8-31
+2372,Aubergine Farm,,Rugpull,0,0,,,,
+2371,RooSwap,,Rugpull,0,0,,,,2021-8-31
+2370,Sashimi swap,Exchange (DEX),Rugpull,0,0,,,,2021-8-31
+2359,LARP,,Rugpull,0,0,,,,
+2348,Kattana Trade,Token,Honeypot,0,0,,,,2021-9-2
+2347,AI Farm,Token,Honeypot,0,0,,,,
+2346,Totoro,Token,Honeypot,0,0,,,,
+2345,HiBNB,Token,Honeypot,0,0,,,,
+2344,Iced Tea  Token,Token,Honeypot,0,0,,,,
+2343,SuperSwap,Token,Honeypot,0,0,,,,2021-9-2
+2342,CUATROtoken,Token,Honeypot,0,0,,,,
+2341,Xcademy Token,Token,Honeypot,0,0,,,,2021-9-2
+2340,FORCE,Token,Honeypot,0,0,,,,
+2339,y.at,Token,Honeypot,0,0,,,,
+2338,Neutron Network,Token,Honeypot,0,0,,,,2021-9-2
+2337,TigerSwap,Token,Honeypot,0,0,,,,2021-9-2
+2336,Interstellar,Token,Honeypot,0,0,,,,2021-9-2
+2335,ElonTech,Token,Honeypot,0,0,,,,2021-9-2
+2334,KitKat,Token,Honeypot,0,0,,,,2021-9-2
+2333,SHINGEKINOTOKEN,Token,Honeypot,0,0,,,,2021-9-2
+2332,SafeAtmosphere,Token,Honeypot,0,0,,,,
+2331,Pulse,Token,Honeypot,0,0,,,,2021-9-2
+2330,Findora,Token,Honeypot,0,0,,,,2021-9-2
+2329,PotionBrew.net,Token,Honeypot,0,0,,,,2021-9-2
+2328,Helios Project,Token,Honeypot,0,0,,,,2021-9-2
+2327,Gains Associates,Token,Honeypot,0,0,,,,2021-9-2
+2326,Goldfinch Finance,Token,Honeypot,0,0,,,,2021-9-2
+2325,Orion,Token,Honeypot,0,0,,,,2021-9-2
+2324,Toko Token,Token,Honeypot,0,0,,,,2021-9-2
+2323,Palm.io,Token,Honeypot,0,0,,,,2021-9-2
+2322,Symbol,Token,Honeypot,0,0,,,,2021-9-2
+2321,element.fi,Token,Honeypot,0,0,,,,2021-9-2
+2320,SafeCompound,Token,Honeypot,0,0,,,,2021-9-2
+2319,FairElon,Token,Honeypot,0,0,,,,
+2318,SafeWaifu,Exchange (DEX),Honeypot,0,0,,,,
+2317,Cassiopeia,Token,Honeypot,0,0,,,,
+2316,StrongCroac,Token,Honeypot,0,0,,,,
+2315,FairRocket,Token,Honeypot,0,0,,,,2021-9-8
+2314,SafeCash,Token,Honeypot,0,0,,,,2021-9-8
+2313,Turtle In Space,Token,Honeypot,0,0,,,,
+2312,FairSatoshi,Token,Honeypot,0,0,,,,
+2311,Milky Way,Token,Honeypot,0,0,,,,2021-9-8
+2310,SafeBinance,Token,Honeypot,0,0,,,,2021-9-8
+2309,ElonProtocol,Token,Honeypot,0,0,,,,2021-9-8
+2308,Constellation,Token,Honeypot,0,0,,,,2021-9-8
+2307,Step.finance,Token,Honeypot,0,0,,,,2021-9-8
+2306,UNITYtoken,Exchange (DEX),Honeypot,0,0,,,,2021-9-8
+2305,MorningStar Dream,Token,Honeypot,0,0,,,,
+2304,Ape Inn,Token,Honeypot,0,0,,,,
+2303,FairComet,Token,Honeypot,0,0,,,,
+2302,FairETH,Token,Honeypot,0,0,,,,2021-9-8
+2301,Aragorn,Token,Honeypot,0,0,,,,2021-9-8
+2300,Safe Jail,Token,Honeypot,0,0,,,,
+2299,Kong Coin,Token,Honeypot,0,0,,,,2021-9-8
+2298,JUGtoken,Token,Honeypot,0,0,,,,
+2297,FairVenus,Token,Honeypot,0,0,,,,2021-9-8
+2296,Hurricane,Token,Honeypot,0,0,,,,2021-9-8
+2295,Chihuahua Taco,Token,Honeypot,0,0,,,,2021-9-8
+2294,Avengers NFT,Token,Honeypot,0,0,,,,2021-9-9
+2293,Safe Fortune,Token,Honeypot,0,0,,,,2021-9-9
+2292,BEZEL Token,Token,Honeypot,0,0,,,,
+2291,Shining Star,Exchange (DEX),Honeypot,0,0,,,,2021-9-9
+2290,Duke Nukem,Token,Honeypot,0,0,,,,2021-9-9
+2289,TeamRocket,Token,Honeypot,0,0,,,,2021-9-9
+2288,Fair Prison,Token,Honeypot,0,0,,,,
+2287,Genix.finance,Token,Honeypot,0,0,,,,2021-9-9
+2286,HOGtoken,Token,Honeypot,0,0,,,,2021-9-9
+2285,GAMEE,Token,Honeypot,0,0,,,,2021-9-9
+2284,Eclipse,Token,Honeypot,0,0,,,,2021-9-9
+2283,MoonPlan,Token,Honeypot,0,0,,,,
+2282,AVG1000X,Token,Honeypot,0,0,,,,
+2280,APEMARS Token,Token,Honeypot,0,0,,,,2021-9-9
+2279,Voltage,Token,Honeypot,0,0,,,,
+2278,Setting Sun,Exchange (DEX),Honeypot,0,0,,,,2021-9-9
+2277,geckoswap.finance,Token,Honeypot,0,0,,,,2021-9-9
+2276,Yoda Token,Token,Honeypot,0,0,,,,2021-9-9
+2275,MoonPilot,Token,Honeypot,0,0,,,,2021-9-9
+2274,FairPluto,Token,Honeypot,0,0,,,,
+2273,Quagmire,Token,Honeypot,0,0,,,,
+2272,JUSTMOON,Token,Honeypot,0,0,,,,2021-9-9
+2271,Safe Planet 9,Token,Honeypot,0,0,,,,2021-9-9
+2270,SolaSystem,Token,Honeypot,0,0,,,,2021-9-9
+2269,Clover.finance,Token,Honeypot,0,0,,,,2021-9-9
+2268,Safe Gravity,Token,Honeypot,0,0,,,,
+2267,MoonTerra,Token,Honeypot,0,0,,,,2021-9-9
+2266,Crowny.io,Token,Honeypot,0,0,,,,2021-9-9
+2265,Southern Cross,Token,Honeypot,0,0,,,,
+2264,FAPE,Token,Honeypot,0,0,,,,
+2263,Sunset,Token,Honeypot,0,0,,,,
+2262,Supernova,Token,Honeypot,0,0,,,,2021-9-9
+2261,Dolphins Paradise Token,Token,Honeypot,0,0,,,,
+2260,MoonSafebank,Token,Honeypot,0,0,,,,2021-9-9
+2259,FLEX,Token,Honeypot,0,0,,,,2021-9-9
+2258,SafeDream,Token,Honeypot,0,0,,,,2021-9-9
+2257,Alpha Andromedae,Token,Honeypot,0,0,,,,2021-9-9
+2256,AntiWOR,Token,Honeypot,0,0,,,,
+2255,SafeCoinToken,Token,Honeypot,0,0,,,,2021-9-9
+2254,BSCx500,Token,Honeypot,0,0,,,,2021-9-9
+2253,Arsenal FC Fan Token,Token,Honeypot,0,0,,,,2021-9-10
+2252,Kattana,Token,Honeypot,0,0,,,,2021-9-10
+2251,BirdSwap,Token,Honeypot,0,0,,,,2021-9-10
+2250,MechaGodzilla,Token,Honeypot,0,0,,,,2021-9-10
+2249,Betelgeuse,Token,Honeypot,0,0,,,,
+2248,NftFinal,Token,Honeypot,0,0,,,,
+2247,Wazir Farm,Token,Honeypot,0,0,,,,2021-9-10
+2246,Bezop,,Rugpull,0,0,,,,2021-9-10
+2245,EOS,Borrowing and Lending,Rugpull,0,0,,,,2021-9-10
+2244,Centra,,Rugpull,0,0,,,,2021-9-10
+2243,Pitbull Classic,Token,Honeypot,0,0,,,,2021-9-10
+2242,MentalHealth,Token,Honeypot,0,0,,,,2021-9-10
+2241,DragonFinance10000x,Exchange (DEX),Honeypot,0,0,,,,2021-9-10
+2240,DoubtFire,Token,Honeypot,0,0,,,,
+2239,Shelter,Token,Honeypot,0,0,,,,
+2238,Blue Lightning,Token,Honeypot,0,0,,,,2021-9-10
+2237,NFTChange Token,Token,Honeypot,0,0,,,,
+2236,ElonDoge,Token,Honeypot,0,0,,,,2021-9-10
+2235,Foxydoge,Token,Honeypot,0,0,,,,2021-9-10
+2234,ElonSperm,Token,Honeypot,0,0,,,,2021-9-10
+2233,Torio,Token,Honeypot,0,0,,,,
+2232,DonaldPump,Token,Honeypot,0,0,,,,2021-9-10
+2231,StaticFire,Token,Honeypot,0,0,,,,2021-9-10
+2230,Ebuy Finance,Token,Honeypot,0,0,,,,
+2229,RockHard,Token,Honeypot,0,0,,,,
+2228,PePe Coin,,Rugpull,0,0,,,,2021-9-10
+2227,VSJEFF FIGHT,,Rugpull,0,0,,,,
+2226,vsafinance.com,,Rugpull,0,0,,,,
+2225,MarkMineCoin,Token,Honeypot,0,0,,,,
+2224,GODZILLA,Token,Honeypot,0,0,,,,2021-9-10
+2223,Planet Nine,Token,Honeypot,0,0,,,,
+2222,SAFEMOUSE,Token,Honeypot,0,0,,,,
+2221,FairSafeApe,Token,Honeypot,0,0,,,,2021-9-10
+2220,PiggyBank Community Token,Stablecoin,Honeypot,0,0,,,,2021-9-10
+2219,Pandora Box,Token,Honeypot,0,0,,,,
+2218,Space Typhoon,Token,Honeypot,0,0,,,,
+2217,Horny Farm,Token,Honeypot,0,0,,,,2021-9-10
+2216,Party Token,Exchange (DEX),Honeypot,0,0,,,,
+2215,SupremeBSCmoon,Token,Honeypot,0,0,,,,2021-9-10
+2214,World of Winners,Exchange (DEX),Honeypot,0,0,,,,2021-9-13
+2213,Treasure Chest,Token,Honeypot,0,0,,,,2021-9-13
+2212,Blockchain Kittens,Token,Honeypot,0,0,,,,
+2211,Koala Forest,Token,Honeypot,0,0,,,,2021-9-13
+2210,eGRID,Token,Honeypot,0,0,,,,
+2209,ORAO Network,Token,Honeypot,0,0,,,,2021-9-13
+2208,Zion,Token,Honeypot,0,0,,,,2021-9-13
+2207,YellowRoad,Token,Honeypot,0,0,,,,2021-9-13
+2206,MoonDog,Token,Honeypot,0,0,,,,2021-9-13
+2205,Genesis Shards,Token,Honeypot,0,0,,,,2021-9-13
+2204,PLANET,Token,Honeypot,0,0,,,,2021-9-13
+2203,HEROMOON,Token,Honeypot,0,0,,,,
+2202,Polkadex,Token,Honeypot,0,0,,,,2021-9-13
+2201,EPNS Token,Token,Honeypot,0,0,,,,2021-9-13
+2200,Alphr.Finance,Token,Honeypot,0,0,,,,2021-9-13
+2199,MOONSUN,Token,Honeypot,0,0,,,,
+2198,MoonBanana,Token,Honeypot,0,0,,,,
+2197,FractionalArt,Token,Honeypot,0,0,,,,2021-9-13
+2196,SAFEORACLE,Token,Honeypot,0,0,,,,
+2195,Matterhorn,Token,Honeypot,0,0,,,,2021-9-13
+2194,Xerex Decentralizing,Token,Honeypot,0,0,,,,
+2193,Dragon Farm,Token,Honeypot,0,0,,,,2021-9-13
+2192,Himalaya,Token,Honeypot,0,0,,,,2021-9-13
+2191,EasyFinance,Token,Honeypot,0,0,,,,2021-9-13
+2190,RAMBBO Finance,Token,Honeypot,0,0,,,,2021-9-13
+2189,MOONSEASON,Token,Honeypot,0,0,,,,
+2188,SAFEDUCK,Token,Honeypot,0,0,,,,
+2187,TITANMOON,Token,Honeypot,0,0,,,,2021-9-13
+2186,Space Raven,Token,Honeypot,0,0,,,,
+2185,CaptainJackFans,Token,Honeypot,0,0,,,,2021-9-14
+2184,Bongo Cat,Token,Honeypot,0,0,,,,2021-9-14
+2183,SAFE CHARIZARD,Token,Honeypot,0,0,,,,2021-9-14
+2182,HYPERIONMOON,Token,Honeypot,0,0,,,,2021-9-14
+2181,Glacier,Token,Honeypot,0,0,,,,
+2180,MoonQueen,Token,Honeypot,0,0,,,,2021-9-14
+2179,MickeyMars,Token,Honeypot,0,0,,,,
+2178,Bichon,Token,Honeypot,0,0,,,,2021-9-14
+2177,Elon Musk Fomo,Token,Honeypot,0,0,,,,
+2176,Enceladus,Token,Honeypot,0,0,,,,2021-9-14
+2175,darwin.finance,Token,Honeypot,0,0,,,,2021-9-14
+2174,Maelstrom,Token,Honeypot,0,0,,,,2021-9-14
+2173,1 Million Token,Token,Honeypot,0,0,,,,2021-9-14
+2172,Polkasol,Token,Honeypot,0,0,,,,2021-9-14
+2171,Karma,Token,Honeypot,0,0,,,,2021-9-14
+2170,Dopex Governance Token,Token,Honeypot,0,0,,,,2021-9-14
+2169,Flashbots Token,Token,Honeypot,0,0,,,,
+2168,JetCombat,Token,Honeypot,0,0,,,,
+2167,Meteor,Token,Honeypot,0,0,,,,
+2166,BRONZE MOON,Token,Honeypot,0,0,,,,
+2165,Moon Rat Token,Token,Honeypot,0,0,,,,2021-9-20
+2164,Tequila,Token,Honeypot,0,0,,,,
+2163,DRACULA PROJECT,Token,Honeypot,0,0,,,,2021-9-20
+2162,Flamingo Boys,Exchange (DEX),Honeypot,0,0,,,,2021-9-20
+2161,Beyond Finance,Token,Honeypot,0,0,,,,2021-9-20
+2160,KINGMARS,Token,Honeypot,0,0,,,,
+2159,FairMoonElon,Token,Honeypot,0,0,,,,2021-9-20
+2158,SuperTesla,Token,Honeypot,0,0,,,,
+2157,Rao Token,Token,Honeypot,0,0,,,,2021-9-20
+2156,Uga Uga,Token,Honeypot,0,0,,,,
+2155,YES Token,Token,Honeypot,0,0,,,,2021-9-20
+2154,Fairmoon,Token,Honeypot,0,0,,,,2021-9-20
+2153,SafeGasfees,Token,Honeypot,0,0,,,,
+2152,ProtonFinance,Token,Honeypot,0,0,,,,2021-9-20
+2151,Franklin,Token,Honeypot,0,0,,,,2021-9-20
+2150,SafePlatinum,Token,Honeypot,0,0,,,,
+2149,MOONMOON,Token,Honeypot,0,0,,,,2021-9-20
+2148,SafeLuxury,Token,Honeypot,0,0,,,,
+2147,SAFEGOLD,Token,Honeypot,0,0,,,,2021-9-20
+2146,HappyMoon,Token,Honeypot,0,0,,,,2021-9-20
+2145,MoonRoad,Token,Honeypot,0,0,,,,
+2144,DATAMOON,Token,Honeypot,0,0,,,,
+2143,MarsHistory,Token,Honeypot,0,0,,,,
+2142,MoonGold,Token,Honeypot,0,0,,,,2021-9-20
+2141,Telcoin,Token,Honeypot,0,0,,,,2021-9-20
+2140,Deflagration,Token,Honeypot,0,0,,,,
+2139,ROCKETSHOT,Token,Honeypot,0,0,,,,
+2138,SAFEBORN,Token,Honeypot,0,0,,,,
+2137,GangBang,Token,Honeypot,0,0,,,,
+2136,PicaMoon,Token,Honeypot,0,0,,,,
+2135,Rocket Vault,Token,Honeypot,0,0,,,,2021-9-20
+2134,shadownite.com,Token,Honeypot,0,0,,,,
+2133,WARONRUGS,Token,Honeypot,0,0,,,,2021-9-20
+2132,dorgDAO,Token,Honeypot,0,0,,,,2021-9-20
+2131,BubbleSwap,Token,Honeypot,0,0,,,,
+2130,ZELDASWAP,Token,Honeypot,0,0,,,,
+2129,Photosynthesis,Token,Honeypot,0,0,,,,
+2128,VibeSwap,Token,Honeypot,0,0,,,,2021-9-20
+2127,Dark Comics NFT,Token,Honeypot,0,0,,,,
+2126,Raydium Protocol,Token,Honeypot,0,0,,,,2021-9-21
+2125,CSSWAP,Token,Honeypot,0,0,,,,2021-9-21
+2124,Gate Finance,Token,Honeypot,0,0,,,,2021-9-21
+2123,MoonFintech,Token,Honeypot,0,0,,,,
+2122,CaliSwap,Token,Honeypot,0,0,,,,
+2121,YCoin,Token,Honeypot,0,0,,,,
+2120,Bee-Swap.org,Token,Honeypot,0,0,,,,2021-9-21
+2119,MEDUZA TOKEN,Token,Honeypot,0,0,,,,2021-9-21
+2118,ToySwap.Finance,Token,Honeypot,0,0,,,,
+2117,SilentSwap.Finance,Token,Honeypot,0,0,,,,2021-9-21
+2116,SteadyGainz,Token,Honeypot,0,0,,,,
+2115,Playcent,Token,Honeypot,0,0,,,,2021-9-21
+2114,JumanjiSwap,Token,Honeypot,0,0,,,,2021-9-21
+2113,ShareDeFi Protocol,Token,Honeypot,0,0,,,,2021-9-21
+2112,FREEPARKING,Token,Honeypot,0,0,,,,
+2111,SexySwap,Token,Honeypot,0,0,,,,
+2110,CostcoSwap,Token,Honeypot,0,0,,,,
+2109,sixpackfinance.org,Token,Honeypot,0,0,,,,2021-9-21
+2108,PussySwap,Token,Honeypot,0,0,,,,
+2107,KodakSwap,Token,Honeypot,0,0,,,,
+2106,CHINASWAP,Token,Honeypot,0,0,,,,
+2105,GodzillaFinance,Token,Honeypot,0,0,,,,
+2104,Mask.io,Token,Honeypot,0,0,,,,2021-9-21
+2103,ShibaSwap,Token,Honeypot,0,0,,,,2021-9-21
+2102,BIGBLACKDICK,Token,Honeypot,0,0,,,,
+2101,YodaCoin,Token,Honeypot,0,0,,,,
+2100,PROJECTX,Token,Honeypot,0,0,,,,2021-9-21
+2099,InfinitySwap,Token,Honeypot,0,0,,,,2021-9-21
+2098,PepsiSwap,Token,Honeypot,0,0,,,,
+2097,Kylin Network,Token,Honeypot,0,0,,,,2021-9-21
+2096,DiamondBalls,Token,Honeypot,0,0,,,,2021-9-29
+2095,Paint,Token,Honeypot,0,0,,,,2021-9-29
+2094,GAMESTOP,Token,Honeypot,0,0,,,,2021-9-29
+2093,Channels,Borrowing and Lending,Honeypot,0,0,,,,
+2092,RapidSwap,Token,Honeypot,0,0,,,,2021-9-29
+2091,DoggySwap,Token,Honeypot,0,0,,,,2021-9-29
+2090,Lizard finance,Token,Honeypot,0,0,,,,2021-9-29
+2089,Dark.Build,Token,Honeypot,0,0,,,,2021-9-29
+2088,Slime.Finance,Token,Honeypot,0,0,,,,2021-9-29
+2087,PepeSocks,Token,Honeypot,0,0,,,,
+2086,Safari.Yield Finance,Token,Honeypot,0,0,,,,2021-10-4
+2085,NinjaPants,Token,Honeypot,0,0,,,,
+2084,OxSocks,Token,Honeypot,0,0,,,,
+2083,RobotSwap,Token,Honeypot,0,0,,,,
+2082,WizzardSwap,Token,Honeypot,0,0,,,,2021-10-4
+2081,xMINT BSC,Token,Honeypot,0,0,,,,2021-10-4
+2080,Berry Swap,Token,Honeypot,0,0,,,,2021-10-4
+2079,HI-DeF Swap,Token,Honeypot,0,0,,,,
+2078,AK47,Token,Honeypot,0,0,,,,
+2077,Alchemist,Token,Honeypot,0,0,,,,2021-10-4
+2075,MEMEKiller,Token,Honeypot,0,0,,,,2021-10-4
+2074,DEFIstreetbets,Token,Honeypot,0,0,,,,
+2073,Boon Tech,,Rugpull,0,0,,,,2021-10-4
+2072,Fantasy Market Token,,Rugpull,0,0,,,,
+2071,OpportyToken,,Rugpull,0,0,,,,2021-10-4
+2070,Bitcoiin,,Rugpull,0,0,,,,
+2069,bitqyM,,Rugpull,0,0,,,,
+2068,RGL,,Rugpull,0,0,,,,2021-10-4
+2067,Coinseed Token,Token,Honeypot,0,0,,,,2021-10-4
+2066,BlockChain of Things,,Rugpull,0,0,,,,2021-10-4
+2065,ACO,Token,Honeypot,0,0,,,,2021-10-4
+2064,ABTC,Token,Honeypot,0,0,,,,2021-10-4
+2063,Qubicle,Token,Honeypot,0,0,,,,2021-10-4
+2062,Blockchain Terminal Token,Token,Honeypot,0,0,,,,2021-10-4
+2061,BlockVest,Token,Honeypot,0,0,,,,2021-10-4
+2060,Shiba King,Token,Honeypot,0,0,,,,2021-10-4
+2059,SlimShady,Token,Honeypot,0,0,,,,
+2058,AurataGoldCat,Token,Honeypot,0,0,,,,
+2057,Efinity Token,Token,Honeypot,0,0,,,,
+2056,Baby Doge Coin,Token,Honeypot,0,0,,,,
+2055,Whackd,Token,Honeypot,0,0,,,,
+2054,Scaleswap,Token,Honeypot,0,0,,,,
+2053,frozenolaf.com,Token,Honeypot,0,0,,,,
+2052,VeChain,Token,Honeypot,0,0,,,,
+2051,lightningshib.com,Token,Honeypot,0,0,,,,
+2050,Safe-inu,Token,Honeypot,0,0,,,,
+2049,safeape,Token,Honeypot,0,0,,,,
+2048,BLUEHYPER,Token,Honeypot,0,0,,,,
+2047,Safe Litecoin,Token,Honeypot,0,0,,,,
+2046,DogeMilf,Token,Honeypot,0,0,,,,
+2045,BSCSportsBet,Token,Honeypot,0,0,,,,
+2044,Katana,Token,Honeypot,0,0,,,,
+2043,Diamond hand,Token,Honeypot,0,0,,,,
+2042,BabyElonDoo,Token,Honeypot,0,0,,,,
+2041,PenNFT,Token,Honeypot,0,0,,,,
+2040,King Of The North Coin,Token,Honeypot,0,0,,,,
+2039,MaxGoatToken,Token,Honeypot,0,0,,,,
+2038,Kishu Inu,Token,Honeypot,0,0,,,,
+2037,CatBread,Token,Honeypot,0,0,,,,
+2036,SpaceXMoon,Token,Honeypot,0,0,,,,
+2035,BABY PIG INU,Token,Honeypot,0,0,,,,
+2034,Baby Doge Moon,Token,Honeypot,0,0,,,,
+2033,BLESS AMERICA,Token,Honeypot,0,0,,,,
+2032,DOREMON INU,Token,Honeypot,0,0,,,,
+2031,ShibaBurn,Token,Honeypot,0,0,,,,
+2030,DIAMOND DOGE,Token,Honeypot,0,0,,,,
+2029,SHEESH,Token,Honeypot,0,0,,,,
+2028,BABYLITE,Token,Honeypot,0,0,,,,
+2027,MOONROCKET,Token,Honeypot,0,0,,,,
+2026,Free Britney,Token,Honeypot,0,0,,,,
+2025,BattlePets,Token,Honeypot,0,0,,,,
+2024,SAFEFOOD,Token,Honeypot,0,0,,,,
+2023,SafeTechnology,Token,Honeypot,0,0,,,,
+2022,beans.farm,Token,Honeypot,0,0,,,,
+2021,MoonFox,Token,Honeypot,0,0,,,,
+2020,Garbage Disposal,Token,Honeypot,0,0,,,,
+2019,XTRA Protocol,Token,Honeypot,0,0,,,,
+2018,EUROTRIP,Token,Honeypot,0,0,,,,
+2016,Snowflake,Token,Honeypot,0,0,,,,
+2015,ciao.finance,Token,Honeypot,0,0,,,,
+2014,SafeJoker,Token,Honeypot,0,0,,,,
+2013,GoldMoon,Token,Honeypot,0,0,,,,
+2012,GoldCoin,Token,Honeypot,0,0,,,,
+2011,MOONRIKVIP,Token,Honeypot,0,0,,,,
+2010,Oyster Akoya,,Rugpull,0,0,,,,
+2009,Munchee Token,,Rugpull,0,0,,,,
+2008,Moozicore,,Rugpull,0,0,,,,
+2007,Pro Coin,,Rugpull,0,0,,,,
+2006,BenzSwap,Token,Honeypot,0,0,,,,
+2005,EIFEL.Finance,Token,Honeypot,0,0,,,,
+2003,ECOMI,Token,Honeypot,0,0,,,,
+2002,Zombie Swap,Token,Honeypot,0,0,,,,
+2001,ApeShiba,Token,Honeypot,0,0,,,,
+2000,otmproject,Token,Honeypot,0,0,,,,
+1999,TWILIGHT,Token,Honeypot,0,0,,,,
+1998,BSCView,Token,Honeypot,0,0,,,,
+1997,SafeCookie,Token,Honeypot,0,0,,,,
+1996,LegendaryDOGE,Token,Honeypot,0,0,,,,
+1995,SafeCheese,Token,Honeypot,0,0,,,,
+1994,SUPPLYSWAP,Token,Honeypot,0,0,,,,
+1993,StarCat,Token,Honeypot,0,0,,,,
+1992,simpsonsidlegame,Token,Honeypot,0,0,,,,
+1991,MOONTOKEN,Token,Honeypot,0,0,,,,
+1990,MoonElevator,Token,Honeypot,0,0,,,,
+1989,PegasusCoin,Token,Honeypot,0,0,,,,
+1988,STRONGMARS,Token,Honeypot,0,0,,,,
+1987,NFTMarketplace,Token,Honeypot,0,0,,,,
+1986,SafePizza,Token,Honeypot,0,0,,,,
+1985,Icecream,Token,Honeypot,0,0,,,,
+1984,MOON WEED,Token,Honeypot,0,0,,,,
+1983,MHP88,Token,Honeypot,0,0,,,,
+1982,Dafi Protocol,Token,Honeypot,0,0,,,,
+1981,Oddz Finance,Token,Honeypot,0,0,,,,
+1980,SafePancake,Token,Honeypot,0,0,,,,
+1979,Lepricon,Token,Honeypot,0,0,,,,
+1978,BrunoMars,Token,Honeypot,0,0,,,,
+1977,Tidal Finance,Token,Honeypot,0,0,,,,
+1976,Shyft Network,Token,Honeypot,0,0,,,,
+1975,Elon Protocol,Token,Honeypot,0,0,,,,
+1974,SheepSwap.Finance,,Rugpull,0,0,,,,
+1973,MoonDeFi,Token,Honeypot,0,0,,,,
+1972,MoonNaSa,Token,Honeypot,0,0,,,,
+1971,Rainicorn,Token,Honeypot,0,0,,,,
+1970,FairCat,Token,Honeypot,0,0,,,,
+1969,lollipop,Token,Honeypot,0,0,,,,
+1968,fairy.finance,Exchange (DEX),Honeypot,0,0,,,,
+1967,Unstoppable,Token,Honeypot,0,0,,,,
+1966,Safe Nintendo,Token,Honeypot,0,0,,,,
+1965,Milkyway,Token,Honeypot,0,0,,,,
+1964,Star Shot,Token,Honeypot,0,0,,,,
+1963,APEMOONv2,Token,Honeypot,0,0,,,,
+1962,Untouchable,Token,Honeypot,0,0,,,,
+1961,SUNMOON,Token,Honeypot,0,0,,,,
+1960,ELONBLUZELLE,Token,Honeypot,0,0,,,,
+1959,BSCcommunity,Token,Honeypot,0,0,,,,
+1958,ThenaMoon,Token,Honeypot,0,0,,,,
+1957,RFI Protocol,Token,Honeypot,0,0,,,,
+1956,Beagle,Token,Honeypot,0,0,,,,
+1955,ONYX,Token,Honeypot,0,0,,,,
+1954,Turtledex Token,,Rugpull,0,0,,,,
+1952,LamboPUMP,Token,Honeypot,0,0,,,,
+1951,Goku Token,Token,Honeypot,0,0,,,,
+1950,CURLYPUFF,Token,Honeypot,0,0,,,,
+1949,PepeDog,Token,Honeypot,0,0,,,,
+1948,MPIG,Token,Honeypot,0,0,,,,
+1947,SonicSwap,Exchange (DEX),Honeypot,0,0,,,,
+1946,NFT Farm,Token,Honeypot,0,0,,,,
+1945,E=MCv2,Token,Honeypot,0,0,,,,
+1944,Casper Network,Token,Honeypot,0,0,,,,
+1943,MinerClubHM,Token,Honeypot,0,0,,,,
+1942,Stonedefi.io,Yield Aggregator,Honeypot,0,0,,,,
+1941,Boson Protocol,Token,Honeypot,0,0,,,,
+1940,Zillow,Token,Honeypot,0,0,,,,
+1939,Dextrarius Token,Token,Honeypot,0,0,,,,
+1938,Yield Goku Token,Token,Honeypot,0,0,,,,
+1937,Hoe Coin BSC,Token,Honeypot,0,0,,,,
+1936,Hoge Finance v2,Token,Honeypot,0,0,,,,
+1935,MOON FARM,Token,Honeypot,0,0,,,,
+1934,GEMCORE,Token,Honeypot,0,0,,,,
+1933,SafeSushi,Token,Honeypot,0,0,,,,
+1932,PROTOCOL PENA,Token,Honeypot,0,0,,,,
+1931,Mina Protocol,Token,Honeypot,0,0,,,,
+1930,Uniswap-V3,Token,Honeypot,0,0,,,,
+1929,ApplePie,Token,Honeypot,0,0,,,,
+1928,Convergence Protocol,Exchange (DEX),Honeypot,0,0,,,,
+1927,TomCoin,Token,Honeypot,0,0,,,,
+1926,RfiSPR,Token,Honeypot,0,0,,,,
+1925,ADRENALINE.FINANCE,Token,Honeypot,0,0,,,,
+1924,Nintendo Protocol,Token,Honeypot,0,0,,,,
+1923,DoubleDEX,Token,Honeypot,0,0,,,,
+1922,DipEater Token,Token,Honeypot,0,0,,,,
+1921,BLOWNETWORK,Token,Honeypot,0,0,,,,
+1920,Tamagochi Finance,Token,Honeypot,0,0,,,,
+1919,Tidal Token,Token,Honeypot,0,0,,,,
+1918,SafeCow,Token,Honeypot,0,0,,,,
+1917,STONES Token,Token,Honeypot,0,0,,,,
+1916,MetaChain,Token,Honeypot,0,0,,,,
+1915,Impulse,Token,Honeypot,0,0,,,,
+1914,SAFEMOON,Token,Honeypot,0,0,,,,
+1913,AntiSafeToken,Token,Honeypot,0,0,,,,
+1912,Safezone,Token,Honeypot,0,0,,,,
+1911,Critter Finance,Token,Honeypot,0,0,,,,
+1910,SafeSilent,Token,Honeypot,0,0,,,,
+1909,DoubleTRACE,Token,Honeypot,0,0,,,,
+1908,BlackHoleNetwork,Token,Honeypot,0,0,,,,
+1907,NextGEN,Token,Honeypot,0,0,,,,
+1906,OMNI,Token,Honeypot,0,0,,,,
+1905,FINANCE,Token,Honeypot,0,0,,,,
+1904,SafeAsteroid,Token,Honeypot,0,0,,,,
+1903,BurnMEW,Token,Honeypot,0,0,,,,
+1902,REEF,Token,Honeypot,0,0,,,,
+1901,FULLSAFE,Token,Honeypot,0,0,,,,
+1900,SecurityLayer,Token,Honeypot,0,0,,,,
+1899,AntiSocialClub,Token,Honeypot,0,0,,,,
+1898,SafeStarship,Token,Honeypot,0,0,,,,
+1897,HighQuality Swap,Token,Honeypot,0,0,,,,
+1896,SafeShift,Token,Honeypot,0,0,,,,
+1895,EssentialChain,Token,Honeypot,0,0,,,,
+1894,SafePegasus,Token,Honeypot,0,0,,,,
+1893,SAFEGUARD,Token,Honeypot,0,0,,,,
+1891,SafeShill,Token,Honeypot,0,0,,,,
+1890,dajal,Token,Honeypot,0,0,,,,
+1889,Stone Token,Yield Aggregator,Honeypot,0,0,,,,
+1888,SafeSound,Token,Honeypot,0,0,,,,
+1887,SafeDelore3n,Token,Honeypot,0,0,,,,
+1886,TurboScalling,Token,Honeypot,0,0,,,,
+1885,BondAppetit,Yield Aggregator,Honeypot,0,0,,,,
+1884,Mercurial.Finance,Token,Honeypot,0,0,,,,
+1883,LOCGame,Token,Honeypot,0,0,,,,
+1882,Benefit Protocol,Token,Honeypot,0,0,,,,
+1881,PIethori,Token,Honeypot,0,0,,,,
+1880,Dfyn.Network,Exchange (DEX),Honeypot,0,0,,,,
+1879,India Pale Ale,Token,Honeypot,0,0,,,,
+1878,Rocket Man,Token,Honeypot,0,0,,,,
+1877,PHOENIXTOKEN,Token,Honeypot,0,0,,,,
+1876,PAIRS,Token,Honeypot,0,0,,,,
+1875,INFINITE SPACE,Token,Honeypot,0,0,,,,
+1874,INFINITE SPACE,Token,Honeypot,0,0,,,,
+1873,NyanCat,Token,Honeypot,0,0,,,,
+1872,Fundamenta,Token,Honeypot,0,0,,,,
+1871,Callisto Network,Token,Honeypot,0,0,,,,
+1870,Toppu Inu,Token,Honeypot,0,0,,,,
+1869,Tibetan Mastiff Protocol,Token,Honeypot,0,0,,,,
+1868,SpaceX Network,Token,Honeypot,0,0,,,,
+1867,Meebits,Token,Honeypot,0,0,,,,
+1866,TheMountain,Token,Honeypot,0,0,,,,
+1865,GREEN,Token,Honeypot,0,0,,,,
+1864,EARTHBOYS,Token,Honeypot,0,0,,,,
+1863,Corgi Coin,Token,Honeypot,0,0,,,,
+1862,DeFiner,Token,Honeypot,0,0,,,,
+1861,Infinity Protocol,Token,Honeypot,0,0,,,,
+1860,Elon Dark Web,Token,Honeypot,0,0,,,,
+1859,Mercurial Finance,Token,Honeypot,0,0,,,,
+1858,Skem.finance,Token,Honeypot,0,0,,,,
+1857,Falcon 9 SpaceX Token,Token,Honeypot,0,0,,,,
+1856,TradeStars,Token,Honeypot,0,0,,,,
+1855,Muskdoge,Token,Honeypot,0,0,,,,
+1854,TAXITOKEN,Token,Honeypot,0,0,,,,
+1853,GREENTRUST,Token,Honeypot,0,0,,,,
+1852,kingofgame,Token,Honeypot,0,0,,,,
+1851,DEFIX,Exchange (DEX),Honeypot,0,0,,,,
+1850,Moon Lambo,Token,Honeypot,0,0,,,,
+1849,SpaceShuttle,Token,Honeypot,0,0,,,,
+1848,ELON ORBIT,Token,Honeypot,0,0,,,,
+1847,Toxify,Token,Honeypot,0,0,,,,
+1846,FLY,Token,Honeypot,0,0,,,,
+1845,Starlink Mission Mars,Token,Honeypot,0,0,,,,
+1844,GOOD BOY,Token,Honeypot,0,0,,,,
+1843,DogeWars,Token,Honeypot,0,0,,,,
+1842,HYDRA,Token,Honeypot,0,0,,,,
+1841,Arbitrade,Token,Honeypot,0,0,,,,
+1840,EternityProtcol,Token,Honeypot,0,0,,,,
+1839,Luminescence,Token,Honeypot,0,0,,,,
+1838,Wasder.gg,Token,Honeypot,0,0,,,,
+1837,Tokocrypto,Token,Honeypot,0,0,,,,
+1836,MoonVAPE,Token,Honeypot,0,0,,,,
+1835,d-fund.io,Token,Honeypot,0,0,,,,
+1834,MOON SURGE,Token,Honeypot,0,0,,,,
+1833,RocketElon,Token,Honeypot,0,0,,,,
+1832,Sienna (ERC20),Token,Honeypot,0,0,,,,
+1831,Rocket Doge,Token,Honeypot,0,0,,,,
+1830,MASKSWAP,Token,Honeypot,0,0,,,,
+1829,CargoX,Token,Honeypot,0,0,,,,
+1828,Anchor Protocol,Exchange (DEX),Honeypot,0,0,,,,
+1827,aardvarX,Token,Honeypot,0,0,,,,
+1826,Oiler Network,Token,Honeypot,0,0,,,,
+1825,Ispolink Token,Token,Honeypot,0,0,,,,
+1824,Bulldoge,Token,Honeypot,0,0,,,,
+1823,ELON MOONSHIP,Token,Honeypot,0,0,,,,
+1822,TheCatToken.com,Yield Aggregator,Honeypot,0,0,,,,
+1820,Dragon.Swap,Token,Honeypot,0,0,,,,
+1819,KingCZ,Token,Honeypot,0,0,,,,
+1818,Verifiably,Token,Honeypot,0,0,,,,
+1817,RUBYTOKEN,Token,Honeypot,0,0,,,,
+1816,Wilder World,Borrowing and Lending,Honeypot,0,0,,,,
+1815,Meow Moon Cat,Token,Honeypot,0,0,,,,
+1814,INTERGALACTIC,Token,Honeypot,0,0,,,,
+1813,VISERION,Token,Honeypot,0,0,,,,
+1812,ELON SNL,Token,Honeypot,0,0,,,,
+1811,LevelUpX,Token,Honeypot,0,0,,,,
+1810,Diamond Hands Elon,Token,Honeypot,0,0,,,,
+1809,Saturna,Token,Honeypot,0,0,,,,
+1808,Mozik.cc,Token,Honeypot,0,0,,,,
+1807,WAKANDATOKEN,Token,Honeypot,0,0,,,,
+1806,SafeGalaxy,Token,Honeypot,0,0,,,,
+1805,Strike Protocol,Borrowing and Lending,Honeypot,0,0,,,,
+1804,SaintElon,Token,Honeypot,0,0,,,,
+1803,Maple,Token,Honeypot,0,0,,,,
+1802,MILEY&amp;MUSK,Token,Honeypot,0,0,,,,
+1801,XSPACE,Token,Honeypot,0,0,,,,
+1800,SaintElon,Token,Honeypot,0,0,,,,
+1799,DOGE SNL,Token,Honeypot,0,0,,,,
+1798,Gelato.network,Token,Honeypot,0,0,,,,
+1797,Kitty Token,Token,Honeypot,0,0,,,,
+1796,Everest,Token,Honeypot,0,0,,,,
+1795,SafeShib,Token,Honeypot,0,0,,,,
+1794,HungryApes,Token,Honeypot,0,0,,,,
+1793,ChickenCoin,Token,Honeypot,0,0,,,,
+1792,EchoX,Token,Honeypot,0,0,,,,
+1791,TAXIfinance,Token,Honeypot,0,0,,,,
+1790,ProStarter,Token,Honeypot,0,0,,,,
+1789,Goku,Token,Honeypot,0,0,,,,
+1788,NOZOMI COIN,Token,Honeypot,0,0,,,,
+1787,Crot Finance,Token,Honeypot,0,0,,,,
+1786,The Internet Computer,Token,Honeypot,0,0,,,,
+1785,Dogelon,Token,Honeypot,0,0,,,,
+1784,delta.theta,Token,Honeypot,0,0,,,,
+1783,HellGate,Token,Honeypot,0,0,,,,
+1782,LURNA,Token,Honeypot,0,0,,,,
+1781,Apron Network,Token,Honeypot,0,0,,,,
+1780,HibikiTokyo,Token,Honeypot,0,0,,,,
+1779,icecreamland.org,Token,Honeypot,0,0,,,,
+1778,Icy Comet,Token,Honeypot,0,0,,,,
+1777,BUHO TOKEN,Token,Honeypot,0,0,,,,
+1776,Mina Protocol,Token,Honeypot,0,0,,,,
+1775,MOONBERRY,Token,Honeypot,0,0,,,,
+1774,OccamFi,Token,Honeypot,0,0,,,,
+1773,MoonWait,Token,Honeypot,0,0,,,,
+1772,Mechadog,Token,Honeypot,0,0,,,,
+1771,ApeOnly,Token,Honeypot,0,0,,,,
+1770,Saito,Token,Honeypot,0,0,,,,
+1769,SAFEBIRD,Token,Honeypot,0,0,,,,
+1768,Volcano,Token,Honeypot,0,0,,,,
+1767,Lunar Eclipse,Token,Honeypot,0,0,,,,
+1766,Adastarter,Token,Honeypot,0,0,,,,
+1765,WinMoon Token,Token,Honeypot,0,0,,,,
+1764,CYCLOPS FINANCE TREASURE,Token,Honeypot,0,0,,,,
+1763,PigMOON,Token,Honeypot,0,0,,,,
+1762,Disbalancer,Token,Honeypot,0,0,,,,
+1761,MOONCALENDA,Token,Honeypot,0,0,,,,
+1760,SAFESHIBA,Token,Honeypot,0,0,,,,
+1759,www.SafePussy.tech,Token,Honeypot,0,0,,,,
+1758,We Want a 1000XPump,Token,Honeypot,0,0,,,,
+1757,Golden Litchi Finance,Token,Honeypot,0,0,,,,
+1756,Majestic Deer,Token,Honeypot,0,0,,,,
+1755,Snow,Exchange (DEX),Honeypot,0,0,,,,
+1754,DOGEUP 100X,Token,Honeypot,0,0,,,,
+1753,TeslaCoin,Token,Honeypot,0,0,,,,
+1752,Dragon Burn Token,Token,Honeypot,0,0,,,,
+1751,Einstein Rosen Bridge,Token,Honeypot,0,0,,,,
+1750,Polkadomain Token,Token,Honeypot,0,0,,,,
+1749,Lucky Charm,Token,Honeypot,0,0,,,,
+1748,Husky Token,Token,Honeypot,0,0,,,,
+1747,Asac Coin Finance Token,Token,Honeypot,0,0,,,,
+1746,Gamma Ray Burst,Token,Honeypot,0,0,,,,
+1745,Dogzilla,Token,Honeypot,0,0,,,,
+1744,Hound Token,Token,Honeypot,0,0,,,,
+1743,FireBunny,Token,Honeypot,0,0,,,,
+1742,Collapsar,Token,Honeypot,0,0,,,,
+1741,Moon Send,Token,Honeypot,0,0,,,,
+1740,Andromeda,Token,Honeypot,0,0,,,,
+1739,Gorillaz Sanctuary,Token,Honeypot,0,0,,,,
+1738,Magnet Attraction,Token,Honeypot,0,0,,,,
+1737,Comet,Token,Honeypot,0,0,,,,
+1736,Rocket Cat,Token,Honeypot,0,0,,,,
+1735,unifarm.co,Token,Honeypot,0,0,,,,
+1734,Plethori,Token,Honeypot,0,0,,,,
+1733,Coordinape,Token,Honeypot,0,0,,,,
+1732,Xend.finance,Token,Honeypot,0,0,,,,
+1731,Dehive.finance,Token,Honeypot,0,0,,,,
+1730,Big Cheese Token,Borrowing and Lending,Honeypot,0,0,,,,
+1729,Starshot,Token,Honeypot,0,0,,,,
+1728,Pug Token,Token,Honeypot,0,0,,,,
+1727,UNIDOG,Token,Honeypot,0,0,,,,
+1726,Moon Chow,Token,Honeypot,0,0,,,,
+1725,Papillon Token,Token,Honeypot,0,0,,,,
+1724,DirtyPig,Token,Honeypot,0,0,,,,
+1723,Nova,Exchange (DEX),Honeypot,0,0,,,,
+1722,Rocket Dog,Token,Honeypot,0,0,,,,
+1721,MarsStop,Token,Honeypot,0,0,,,,
+1720,Ursa Major,Token,Honeypot,0,0,,,,
+1719,ChowChow Token,Token,Honeypot,0,0,,,,
+1718,Bulldog Token,Token,Honeypot,0,0,,,,
+1717,Payship.Finance,Token,Honeypot,0,0,,,,
+1716,Australian Safe Shepherd,Token,Honeypot,0,0,,,,
+1715,Blowfish Token,Token,Honeypot,0,0,,,,
+1714,Singularity,Token,Honeypot,0,0,,,,
+1713,KISHU INU,Token,Honeypot,0,0,,,,
+1712,Safe Inu,Token,Honeypot,0,0,,,,
+1710,Redshift,Token,Honeypot,0,0,,,,
+1709,unibox,Token,Honeypot,0,0,,,,
+1708,Lemond Protocol,Token,Honeypot,0,0,,,,
+1707,DeversiFi Token,Exchange (DEX),Honeypot,0,0,,,,
+1706,SpaceShip,Borrowing and Lending,Honeypot,0,0,,,,
+1705,SecureTheBag,Token,Honeypot,0,0,,,,
+1704,sushibox,Token,Honeypot,0,0,,,,
+1703,SafeAndromeda,Token,Honeypot,0,0,,,,
+1702,HedgeDog BSC Finance,Token,Honeypot,0,0,,,,
+1701,Polkamon.com,Token,Honeypot,0,0,,,,
+1700,unidog bsc,Token,Honeypot,0,0,,,,
+1699,HARDOX PROTOCOL,Token,Honeypot,0,0,,,,
+1698,SafeMcDc,Token,Honeypot,0,0,,,,
+1697,BubbaGump,Token,Honeypot,0,0,,,,
+1696,Worn.Finance,Token,Honeypot,0,0,,,,
+1695,Rage.fan,Token,Honeypot,0,0,,,,
+1694,unimex,Token,Honeypot,0,0,,,,
+1693,Gundam Finance BSC,Token,Honeypot,0,0,,,,
+1692,SafeComet,Token,Honeypot,0,0,,,,
+1691,MirrorFinance,Token,Honeypot,0,0,,,,
+1690,SafeCloud,Token,Honeypot,0,0,,,,
+1689,SafeSpeed,Token,Honeypot,0,0,,,,
+1688,SafeModd,Token,Honeypot,0,0,,,,
+1687,MoonDeFi,Token,Honeypot,0,0,,,,
+1686,Asset Swap,Token,Honeypot,0,0,,,,
+1685,Plasm Network,Token,Honeypot,0,0,,,,
+1684,SafeWorld,Token,Honeypot,0,0,,,,
+1683,SafeGate,Token,Honeypot,0,0,,,,
+1682,SafeUp,Token,Honeypot,0,0,,,,
+1681,SafeSpice,Token,Honeypot,0,0,,,,
+1680,SafeStreetBets,Token,Honeypot,0,0,,,,
+1679,xrpmoon,Token,Honeypot,0,0,,,,
+1678,SafePaid,Token,Honeypot,0,0,,,,
+1677,External Swap,Token,Honeypot,0,0,,,,
+1676,IZOOM.FINANCE,Token,Honeypot,0,0,,,,
+1675,SafeCell,Token,Honeypot,0,0,,,,
+1674,EXEEDME.FINANCE,Token,Honeypot,0,0,,,,
+1673,autosafe,Token,Honeypot,0,0,,,,
+1672,autosafe protocol,Token,Honeypot,0,0,,,,
+1671,SafeLien,Token,Honeypot,0,0,,,,
+1670,SafeShield,Token,Honeypot,0,0,,,,
+1669,SimpleExchange,Token,Honeypot,0,0,,,,
+1668,SafeHubble,Token,Honeypot,0,0,,,,
+1667,SafeTorn,Token,Honeypot,0,0,,,,
+1666,SAFEYFI NETWORK,Token,Honeypot,0,0,,,,
+1665,ADRENALINE.FINANCE,Token,Honeypot,0,0,,,,
+1664,SafeSun,Token,Honeypot,0,0,,,,
+1663,KASHI,Token,Honeypot,0,0,,,,
+1662,DREAMSWAP,Token,Honeypot,0,0,,,,
+1661,AntiSafeToken,Token,Honeypot,0,0,,,,
+1660,AntiSafeToken,Token,Honeypot,0,0,,,,
+1659,SpaceDEFI,Token,Honeypot,0,0,,,,
+1658,SafeHelix,Token,Honeypot,0,0,,,,
+1657,MoonCAKE Bsc,Token,Honeypot,0,0,,,,
+1656,SafeSafu,Token,Honeypot,0,0,,,,
+1655,SafeMask,Token,Honeypot,0,0,,,,
+1654,SafeGorilla,Token,Honeypot,0,0,,,,
+1653,SafeInfinity,Token,Honeypot,0,0,,,,
+1652,SAFELINK,Token,Honeypot,0,0,,,,
+1651,SAFESOFA,Token,Honeypot,0,0,,,,
+1650,REFERRALPROJECT.NETWORK,Token,Honeypot,0,0,,,,
+1649,SafeMiles,Token,Honeypot,0,0,,,,
+1647,PLUTOO,Token,Honeypot,0,0,,,,
+1646,Tripod Dao,Token,Honeypot,0,0,,,,
+1645,MEGASAFE,Token,Honeypot,0,0,,,,
+1644,SAFEPAY,Token,Honeypot,0,0,,,,
+1643,LinkPool,Token,Honeypot,0,0,,,,
+1642,SafeVice,Token,Honeypot,0,0,,,,
+1641,SpaceX Boca Chica,Token,Honeypot,0,0,,,,
+1640,Puppy Inu,Token,Honeypot,0,0,,,,
+1639,Peri Finance,Token,Honeypot,0,0,,,,
+1638,XXXRated-NFT,Token,Honeypot,0,0,,,,
+1637,CROT Finance,Token,Honeypot,0,0,,,,
+1636,ElonGate,Token,Honeypot,0,0,,,,
+1635,REAUFINANCE,Token,Honeypot,0,0,,,,
+1634,The Doge Hunter,Token,Honeypot,0,0,,,,
+1633,Sponge Doge,Token,Honeypot,0,0,,,,
+1632,LORD ELON,Token,Honeypot,0,0,,,,
+1631,Binance Fail Chain,Token,Honeypot,0,0,,,,
+1630,victoriavr,Token,Honeypot,0,0,,,,
+1629,InjectiveProtocol,Token,Honeypot,0,0,,,,
+1628,Kishu Doge Inu,Token,Honeypot,0,0,,,,
+1627,SAFESATURN,Yield Aggregator,Honeypot,0,0,,,,
+1625,Solstarter,Token,Honeypot,0,0,,,,
+1624,Evergreen,Token,Honeypot,0,0,,,,
+1623,SafeDot,Token,Honeypot,0,0,,,,
+1622,PIDGEY,Token,Honeypot,0,0,,,,
+1621,SaveFlipper,Exchange (DEX),Honeypot,0,0,,,,
+1620,French Shiba,Token,Honeypot,0,0,,,,
+1619,JizzUs,Token,Honeypot,0,0,,,,
+1618,BARK CUBAN,Token,Honeypot,0,0,,,,
+1617,Inu Doge,Token,Honeypot,0,0,,,,
+1616,SafePipe,Token,Honeypot,0,0,,,,
+1615,SafeFire,Token,Honeypot,0,0,,,,
+1614,HONEYROCKET,Token,Honeypot,0,0,,,,
+1613,QCHAIN,Token,Honeypot,0,0,,,,
+1612,SpaceXDoge1,Token,Honeypot,0,0,,,,
+1611,LABRADOR,Token,Honeypot,0,0,,,,
+1610,Winnie-the-Pot,Token,Honeypot,0,0,,,,
+1609,AlaskanDoge,Token,Honeypot,0,0,,,,
+1608,Mia Khalifa,Token,Honeypot,0,0,,,,
+1607,SHIBAMOON,Token,Honeypot,0,0,,,,
+1606,DoubleChain,Token,Honeypot,0,0,,,,
+1605,SafeAmerica,Token,Honeypot,0,0,,,,
+1604,SAFEPICK,Token,Honeypot,0,0,,,,
+1603,Zillow,Token,Honeypot,0,0,,,,
+1602,SAFEPURSE,Token,Honeypot,0,0,,,,
+1601,SAFEQCHAIN,Token,Honeypot,0,0,,,,
+1600,Secret DeFi,Token,Honeypot,0,0,,,,
+1599,SWEETPAY,Token,Honeypot,0,0,,,,
+1598,SOLAR,Token,Honeypot,0,0,,,,
+1597,Cook Protocol,Token,Honeypot,0,0,,,,
+1596,Naturel,,Rugpull,0,0,,,,
+1595,birthday token,Token,Honeypot,0,0,,,,
+1594,SAFELOAD,Token,Honeypot,0,0,,,,
+1593,Deeper Network,Token,Honeypot,0,0,,,,
+1592,KRYPTCOIN,Token,Honeypot,0,0,,,,
+1591,CryptonDUCK,Token,Honeypot,0,0,,,,
+1590,SafeStorm,Token,Honeypot,0,0,,,,
+1589,SafeFarm,Token,Honeypot,0,0,,,,
+1588,SAFEPAY,Token,Honeypot,0,0,,,,
+1587,Real RealExchange,Token,Honeypot,0,0,,,,
+1586,CrispToken,Token,Honeypot,0,0,,,,
+1585,HashStandart,Token,Honeypot,0,0,,,,
+1584,MoonSHIBA,Token,Honeypot,0,0,,,,
+1583,SafeMoonz,Token,Honeypot,0,0,,,,
+1582,SafeSpin Token,Token,Honeypot,0,0,,,,
+1581,SWATSWAP,Token,Honeypot,0,0,,,,
+1580,holdxrp,Token,Honeypot,0,0,,,,
+1579,safejembut,Token,Honeypot,0,0,,,,
+1578,BaTorrent,Token,Honeypot,0,0,,,,
+1577,GWEIMOON,Token,Honeypot,0,0,,,,
+1576,PLUTO,Token,Honeypot,0,0,,,,
+1575,FORESTTOKEN,Token,Honeypot,0,0,,,,
+1574,EITHERMOON,Token,Honeypot,0,0,,,,
+1573,Vitalik Shiba Buterin,Token,Honeypot,0,0,,,,
+1572,TESLA,Token,Honeypot,0,0,,,,
+1571,ElonSpace BSC,Token,Honeypot,0,0,,,,
+1570,Vitalik Buterin,Token,Honeypot,0,0,,,,
+1569,ROCKETMARS,Token,Honeypot,0,0,,,,
+1568,TRUE Token,Token,Honeypot,0,0,,,,
+1567,THANKS ELON,Token,Honeypot,0,0,,,,
+1566,DoucheCoin,Token,Honeypot,0,0,,,,
+1565,NoNameNetworks,Token,Honeypot,0,0,,,,
+1564,TheRealKabosu,Token,Honeypot,0,0,,,,
+1563,Laugh Out Loud,Token,Honeypot,0,0,,,,
+1562,GoldenEsse,Token,Honeypot,0,0,,,,
+1561,FUCK ELON,Token,Honeypot,0,0,,,,
+1560,Chava,Token,Honeypot,0,0,,,,
+1559,Capellix,Token,Honeypot,0,0,,,,
+1558,FUN TOKEN,Token,Honeypot,0,0,,,,
+1557,Protocol.fractal.id,Token,Honeypot,0,0,,,,
+1556,WeSpace,Token,Honeypot,0,0,,,,
+1555,PangeaOceanCleaunUp,Token,Honeypot,0,0,,,,
+1554,SpaceXDoge,Token,Honeypot,0,0,,,,
+1553,Ultra Safe,Token,Honeypot,0,0,,,,
+1552,DogelonMars,Token,Honeypot,0,0,,,,
+1551,$FUCKELON,Token,Honeypot,0,0,,,,
+1550,Chubby Akita,Token,Honeypot,0,0,,,,
+1549,PABLO FINANCE,Token,Honeypot,0,0,,,,
+1548,WEED TOKEN,Token,Honeypot,0,0,,,,
+1547,BEAR TOKEN,Token,Honeypot,0,0,,,,
+1546,Cheetah Coin,Token,Honeypot,0,0,,,,
+1545,LILDOG,Token,Honeypot,0,0,,,,
+1544,Patrigio,Token,Honeypot,0,0,,,,
+1543,SEA TOKEN,Token,Honeypot,0,0,,,,
+1542,ShinyDoge,Token,Honeypot,0,0,,,,
+1541,Glitch-Finance,Token,Honeypot,0,0,,,,
+1540,RUBY,Token,Honeypot,0,0,,,,
+1539,Nafter,Token,Honeypot,0,0,,,,
+1538,WATER TOKEN,Token,Honeypot,0,0,,,,
+1537,Nafter,Token,Honeypot,0,0,,,,
+1536,ARGOAPP,Token,Honeypot,0,0,,,,
+1535,CVL,Token,Honeypot,0,0,,,,
+1534,DOGE 2.0,Token,Honeypot,0,0,,,,
+1533,BEE TOKEN,Token,Honeypot,0,0,,,,
+1532,BITCOIN CONSUMPTION,Token,Honeypot,0,0,,,,
+1531,BEER COIN,Token,Honeypot,0,0,,,,
+1530,KNIGHT RIDER,Token,Honeypot,0,0,,,,
+1529,t.me/astracoincommunity,Token,Honeypot,0,0,,,,
+1528,KingAkita,Token,Honeypot,0,0,,,,
+1527,Ether Shiba,Token,Honeypot,0,0,,,,
+1525,Bingo Inu,Token,Honeypot,0,0,,,,
+1524,SHINKY,Token,Honeypot,0,0,,,,
+1523,SAD CAT,Token,Honeypot,0,0,,,,
+1522,Garfield Token,Token,Honeypot,0,0,,,,
+1521,t.me/DickBootyBSC,Token,Honeypot,0,0,,,,
+1520,Caterpie Finance,Token,Honeypot,0,0,,,,
+1519,HungryWorldBSC,Token,Honeypot,0,0,,,,
+1518,Shiba Inu Shih Tzu,Token,Honeypot,0,0,,,,
+1517,DOORToken,Token,Honeypot,0,0,,,,
+1516,NOZOMI,Token,Honeypot,0,0,,,,
+1515,DogeMissile,Token,Honeypot,0,0,,,,
+1514,Lucky Token,Token,Honeypot,0,0,,,,
+1513,SolarRocket,Token,Honeypot,0,0,,,,
+1512,KingShiba,Token,Honeypot,0,0,,,,
+1511,TRUMP 2024,Token,Honeypot,0,0,,,,
+1510,Glossify,Token,Honeypot,0,0,,,,
+1509,Up DeFi,Token,Honeypot,0,0,,,,
+1508,FUCK ENVIRONMENT,Token,Honeypot,0,0,,,,
+1507,MoonKind,Token,Honeypot,0,0,,,,
+1506,Windswap,Token,Honeypot,0,0,,,,
+1505,Whisky Token,Token,Honeypot,0,0,,,,
+1504,Chromance,Token,Honeypot,0,0,,,,
+1503,CHINESE,Token,Honeypot,0,0,,,,
+1502,SHIBAFARM,Token,Honeypot,0,0,,,,
+1501,EAGLE,Token,Honeypot,0,0,,,,
+1500,AstroPig,Token,Honeypot,0,0,,,,
+1499,WINE TOKEN,Token,Honeypot,0,0,,,,
+1498,Yet Another Dog Coin,Token,Honeypot,0,0,,,,
+1497,Doge&amp;Shiba,Token,Honeypot,0,0,,,,
+1496,ASTIR,Token,Honeypot,0,0,,,,
+1495,MOMAFINANCE,Token,Honeypot,0,0,,,,
+1494,Malamute Token,Token,Honeypot,0,0,,,,
+1493,Kyushu Inu,Token,Honeypot,0,0,,,,
+1492,MOAR Finance,Token,Honeypot,0,0,,,,
+1490,Golden Inu Token,Token,Honeypot,0,0,,,,
+1489,Spitz Inu Token,Token,Honeypot,0,0,,,,
+1488,Banshee Token,Token,Honeypot,0,0,,,,
+1487,Event Horizon,Token,Honeypot,0,0,,,,
+1486,Rocket Inu,Token,Honeypot,0,0,,,,
+1485,MOONINVADOR,Token,Honeypot,0,0,,,,
+1484,DogeDAO,Token,Honeypot,0,0,,0,0,
+1483,moonpirate,Token,Honeypot,0,0,,,,
+1482,Benqi Finance,"Borrowing and Lending,Stablecoin",Honeypot,0,0,,,,
+1481,Refinable,Token,Honeypot,0,0,,,,
+1480,CUTECAT,Token,Honeypot,0,0,,,,
+1479,Quantum Tunneling,Token,Honeypot,0,0,,,,
+1478,Golden Goose Token,Token,Honeypot,0,0,,,,
+1477,MOONMARS,Token,Honeypot,0,0,,,,
+1476,MoonWhale,Token,Honeypot,0,0,,,,
+1475,Busy,Token,Honeypot,0,0,,,,
+1474,Crazy Kitty,Token,Honeypot,0,0,,,,
+1473,Fish Tank,Exchange (DEX),Honeypot,0,0,,,,
+1472,Gecko Token,Token,Honeypot,0,0,,,,
+1471,Gorillaz Sunshine,Token,Honeypot,0,0,,,,
+1470,Ergosphere,Token,Honeypot,0,0,,,,
+1469,Melalie,Token,Honeypot,0,0,,,,
+1468,JiX Swap,Token,Honeypot,0,0,,,,
+1467,doremiland.info,Token,Honeypot,0,0,,,,
+1466,Poki Token,Token,Honeypot,0,0,,,,
+1465,Dragon Li Token,Token,Honeypot,0,0,,,,
+1464,Yuki Inu Token,Token,Honeypot,0,0,,,,
+1463,Kleeka Inu,Token,Honeypot,0,0,,,,
+1462,Penguins Sanctuary,Token,Honeypot,0,0,,,,
+1461,Meme Coin,Token,Honeypot,0,0,,,,
+1460,Chicken Soup Protocol,Token,Honeypot,0,0,,,,
+1459,RocketDoge,Token,Honeypot,0,0,,,,
+1458,GOLDMind.finance,Token,Honeypot,0,0,,,,
+1457,PALM - yieldbay.finance,Token,Honeypot,0,0,,,,
+1456,eBITScan.finance,Token,Honeypot,0,0,,,,
+1455,SAFESHITCOIN,Token,Honeypot,0,0,,,,
+1454,Snoop Doge,Token,Honeypot,0,0,,,,
+1453,Puffins Paradise,Token,Honeypot,0,0,,,,
+1452,JUMPFROG,Token,Honeypot,0,0,,,,
+1451,FairDoge,Token,Honeypot,0,0,,,,
+1450,Kitten.finance,Token,Honeypot,0,0,,,,
+1449,Digital Reserve Currency,Token,Honeypot,0,0,,,,
+1448,ULTRADOGE,Token,Honeypot,0,0,,,,
+1447,Quark,Token,Honeypot,0,0,,,,
+1446,Treasure Box,Token,Honeypot,0,0,,,,
+1445,CUMROCKET CRYPTO,Token,Honeypot,0,0,,,,
+1444,Shibazilla,Token,Honeypot,0,0,,,,
+1443,Jigstack.org,Token,Honeypot,0,0,,,,
+1442,Hord.App,Token,Honeypot,0,0,,,,
+1441,Psycho Inu,Token,Honeypot,0,0,,,,
+1440,Puppy Token,Token,Honeypot,0,0,,,,
+1439,Slow Loris Token,Token,Honeypot,0,0,,,,
+1438,StackOS,Token,Honeypot,0,0,,,,
+1437,BSCBOOM,Token,Honeypot,0,0,,,,
+1436,MEGAMOON,Token,Honeypot,0,0,,,,
+1435,Big Chungus,Token,Honeypot,0,0,,,,
+1434,Elon Musk Moon Token,Token,Honeypot,0,0,,,,
+1433,Sienna Network,Token,Honeypot,0,0,,,,
+1432,InfinityDoge,Token,Honeypot,0,0,,,,
+1431,Shiga Inu,Token,Honeypot,0,0,,,,
+1430,Aichi Inu,Token,Honeypot,0,0,,,,
+1429,Moon Cat,Token,Honeypot,0,0,,,,
+1428,Electric Car Tesla,Token,Honeypot,0,0,,,,
+1426,Elon SpaceEX,Token,Honeypot,0,0,,,,
+1425,Yolo Token,Token,Honeypot,0,0,,,,
+1424,BitMusk,Token,Honeypot,0,0,,,,
+1423,Time Dilation,Token,Honeypot,0,0,,,,
+1422,Full Moon,Token,Honeypot,0,0,,,,
+1421,MarsBank,Token,Honeypot,0,0,,,,
+1420,GreenLonMusk,Token,Honeypot,0,0,,,,
+1419,Giant Panda Token,Token,Honeypot,0,0,,,,
+1418,1MILNFT,Token,Honeypot,0,0,,,,
+1417,Green Energy Tesla,Token,Honeypot,0,0,,,,
+1416,ElonMuskrat,Token,Honeypot,0,0,,,,
+1414,German Shepherd,Token,Honeypot,0,0,,,,
+1413,Kurilian Protocol,Token,Honeypot,0,0,,,,
+1412,Alphr Finance,Token,Honeypot,0,0,,,,
+1411,Smiley Face,Token,Honeypot,0,0,,,,
+1410,UnoRe,Token,Honeypot,0,0,,,,
+1409,Monkey Island,Token,Honeypot,0,0,,,,
+1408,Safe Sex,Token,Honeypot,0,0,,,,
+1407,Atmosphere,Token,Honeypot,0,0,,,,
+1406,Cartoon Network,Token,Honeypot,0,0,,,,
+1405,supershiba,Token,Honeypot,0,0,,,,
+1404,SAFESATURN,Yield Aggregator,Honeypot,0,0,,,,
+1403,DINAR PROTOCOL,Token,Honeypot,0,0,,,,
+1402,PESO NETWORK,Token,Honeypot,0,0,,,,
+1401,PESO NETWORK,Token,Honeypot,0,0,,,,
+1400,ELONMARS,Token,Honeypot,0,0,,,,
+1399,MerchDAO,Token,Honeypot,0,0,,0,0,
+1398,Delta Financial,Token,Honeypot,0,0,,,,
+1397,SafePlay Token,Token,Honeypot,0,0,,,,
+1396,SafeSolace Token,Token,Honeypot,0,0,,,,
+1395,SafeMeta,Token,Honeypot,0,0,,,,
+1394,Evergreen,Token,Honeypot,0,0,,,,
+1393,Survival Swap Token,Token,Honeypot,0,0,,,,
+1392,PortableChain,Token,Honeypot,0,0,,,,
+1391,DoubleFinance,Token,Honeypot,0,0,,,,
+1390,Safeenergy,Token,Honeypot,0,0,,,,
+1389,SafeFinance,Token,Honeypot,0,0,,,,
+1388,PunkHats,Token,Honeypot,0,0,,,,
+1387,SafeRetro,Token,Honeypot,0,0,,,,
+1386,SafeStack,Token,Honeypot,0,0,,,,
+1385,LapuntuToken,Token,Honeypot,0,0,,,,
+1384,Instacoin,Token,Honeypot,0,0,,,,
+1383,BeverlyFiks,Token,Honeypot,0,0,,,,
+1382,Solstarter,Token,Honeypot,0,0,,,,
+1381,SAFERARI,Token,Honeypot,0,0,,,,
+1380,MoonAkita Inu,Token,Honeypot,0,0,,,,
+1379,SIXNETWORK,Token,Honeypot,0,0,,,,
+1378,MonkeyDEX,Token,Honeypot,0,0,,,,
+1377,BUNNY DAO,Token,Honeypot,0,0,,,,
+1376,SAFUCOIN,Token,Honeypot,0,0,,,,
+1375,SAODWINDEXTOKEN,Token,Honeypot,0,0,,,,
+1374,SAFEWHALE,Token,Honeypot,0,0,,,,
+1373,Elon Rocket,Token,Honeypot,0,0,,,,
+1372,WOK.FARM,Token,Honeypot,0,0,,,,
+1371,SafePOODLE,Token,Honeypot,0,0,,,,
+1370,Builder Finance,Token,Honeypot,0,0,,,,
+1369,SAFEFISH,Token,Honeypot,0,0,,,,
+1368,SafeQuasiStar,Token,Honeypot,0,0,,,,
+1367,SafeMario Bros Bsc,Token,Honeypot,0,0,,,,
+1366,CORAL,Token,Honeypot,0,0,,,,
+1365,AnyDEX,Token,Honeypot,0,0,,,,
+1364,SpaceNix,Token,Honeypot,0,0,,,,
+1363,SAFEWAY,Token,Honeypot,0,0,,,,
+1362,SAFEBUNNY,Token,Honeypot,0,0,,,,
+1361,Solid Swap Token,Token,Honeypot,0,0,,,,
+1360,Porto Token,Token,Honeypot,0,0,,,,
+1359,Voodoo,Token,Honeypot,0,0,,,,
+1358,NanoChain,Token,Honeypot,0,0,,,,
+1357,NanoChain,Token,Honeypot,0,0,,,,
+1356,SAFEDONNUT,Token,Honeypot,0,0,,,,
+1355,UBERMOON,Token,Honeypot,0,0,,,,
+1354,SAFEBOZON,Token,Honeypot,0,0,,,,
+1353,ELONSAFE,Token,Honeypot,0,0,,,,
+1352,SAFEBOT,Token,Honeypot,0,0,,,,
+1351,SafeReason Token,Token,Honeypot,0,0,,,,
+1350,Boson Token,Token,Honeypot,0,0,,,,
+1349,EXTREME,Token,Honeypot,0,0,,,,
+1348,LaToken,Token,Honeypot,0,0,,,,
+1347,Arbitrage Bot,Token,Honeypot,0,0,,,,
+1346,RUGBOT,Token,Honeypot,0,0,,,,
+1345,ShineFinance,Token,Honeypot,0,0,,,,
+1344,GrillCoin,Token,Honeypot,0,0,,,,
+1343,Virax Coin,Token,Honeypot,0,0,,,,
+1342,TROJAN,Token,Honeypot,0,0,,,,
+1341,Tidal Finance,Token,Honeypot,0,0,,,,
+1340,GanGnamChain,Token,Honeypot,0,0,,,,
+1339,Security Check Token,Token,Honeypot,0,0,,,,
+1338,Farrow Token,Token,Honeypot,0,0,,,,
+1337,Humble,Token,Honeypot,0,0,,,,
+1336,CrossASR,Token,Honeypot,0,0,,,,
+1335,CoilSwap,Token,Honeypot,0,0,,,,
+1334,COCOS,Token,Honeypot,0,0,,,,
+1333,AutoAction Token,Token,Honeypot,0,0,,,,
+1332,GripFinance,Token,Honeypot,0,0,,,,
+1331,NILONFINANCE,Token,Honeypot,0,0,,,,
+1330,NoxCommunications,Token,Honeypot,0,0,,,,
+1329,SafeJinx,Token,Honeypot,0,0,,,,
+1328,SafeMaze,Token,Honeypot,0,0,,,,
+1327,Travel Consulting,Token,Honeypot,0,0,,,,
+1326,Haas.Finance,Token,Honeypot,0,0,,,,
+1325,ChainLab,Token,Honeypot,0,0,,,,
+1324,LiptonSWAP,Token,Honeypot,0,0,,,,
+1323,SAFEMYANMAR,Token,Honeypot,0,0,,,,
+1322,WooToken,Exchange (DEX),Honeypot,0,0,,,,
+1321,WooToken,Exchange (DEX),Honeypot,0,0,,,,
+1320,Stimpack,Token,Honeypot,0,0,,,,
+1319,SafeSky,Token,Honeypot,0,0,,,,
+1318,ParaDEX,Token,Honeypot,0,0,,,,
+1317,Instatoken,Token,Honeypot,0,0,,,,
+1316,HighVacToken,Token,Honeypot,0,0,,,,
+1315,MetaLEX,Token,Honeypot,0,0,,,,
+1314,autobots,Token,Honeypot,0,0,,,,
+1313,MoneyChain,Token,Honeypot,0,0,,,,
+1312,ElonTrust,Token,Honeypot,0,0,,,,
+1311,SafeCurve,Token,Honeypot,0,0,,,,
+1310,LocalExchange,Token,Honeypot,0,0,,,,
+1309,LimewireSwap,Token,Honeypot,0,0,,,,
+1307,cybermoon,Token,Honeypot,0,0,,,,
+1306,ETRADE,Token,Honeypot,0,0,,,,
+1305,SmartGEX,Token,Honeypot,0,0,,,,
+1304,Polaroid,Token,Honeypot,0,0,,,,
+1303,ELONSWAP.ORG,Token,Honeypot,0,0,,,,
+1302,Hotstar Finance,Token,Honeypot,0,0,,,,
+1301,Casper Network,Token,Honeypot,0,0,,,,
+1300,TATGAS,Token,Honeypot,0,0,,,,
+1299,LIGHT LUNAR PROTOCOL,Token,Honeypot,0,0,,,,
+1298,MoonExpress,Token,Honeypot,0,0,,,,
+1297,Pumpamental,Token,Honeypot,0,0,,,,
+1296,SafeLucky,Token,Honeypot,0,0,,,,
+1295,jackma,Token,Honeypot,0,0,,,,
+1294,WAPToken,Token,Honeypot,0,0,,,,
+1293,ClubMiner,Token,Honeypot,0,0,,,,
+1292,SilentExpress,Token,Honeypot,0,0,,,,
+1291,MinerClub,Token,Honeypot,0,0,,,,
+1290,SwayFinance,Token,Honeypot,0,0,,,,
+1289,SafeNeptuneBSC,Token,Honeypot,0,0,,,,
+1288,ELONFLY,Token,Honeypot,0,0,,,,
+1287,Private Token Offering,Token,Honeypot,0,0,,,,
+1286,One SG,Token,Honeypot,0,0,,,,
+1285,BIRDE,Token,Honeypot,0,0,,,,
+1284,siphonfinance,Token,Honeypot,0,0,,,,
+1283,Chunky Inu,Token,Honeypot,0,0,,,,
+1282,SafeRise,Exchange (DEX),Honeypot,0,0,,,,
+1281,Internet Computer,Token,Honeypot,0,0,,,,
+1280,SMOKE TOKEN,Token,Honeypot,0,0,,,,
+1279,FLOWER TOKEN,Token,Honeypot,0,0,,,,
+1278,MoonBois,Token,Honeypot,0,0,,,,
+1277,FOX TOKEN,Token,Honeypot,0,0,,,,
+1276,CHOWINU,Token,Honeypot,0,0,,,,
+1275,KISHUSWAP,Token,Honeypot,0,0,,,,
+1274,INUSWAP,Token,Honeypot,0,0,,,,
+1273,Maxxi Protocol,Token,Honeypot,0,0,,,,
+1272,SAFEMOONSWAP,Token,Honeypot,0,0,,,,
+1271,VAVAToken,Token,Honeypot,0,0,,,,
+1270,MulletCoinClub,Token,Honeypot,0,0,,,,
+1269,TasteNFT,Token,Honeypot,0,0,,,,
+1268,Golden Pig Moon,Token,Honeypot,0,0,,,,
+1267,ENIGMA TOKEN,Token,Honeypot,0,0,,,,
+1266,JAGUAR,Token,Honeypot,0,0,,,,
+1265,SHIBACOIN,Token,Honeypot,0,0,,,,
+1264,T-Rex,Token,Honeypot,0,0,,,,
+1263,KNIGHT TOKEN,Exchange (DEX),Honeypot,0,0,,,,
+1262,AERION,Token,Honeypot,0,0,,,,
+1261,IRON TOKEN,Stablecoin,Honeypot,0,0,,,,
+1260,SHIOGE INU,Token,Honeypot,0,0,,,,
+1259,X1000 ONLY,Token,Honeypot,0,0,,,,
+1258,LuckyDoge,Token,Honeypot,0,0,,,,
+1257,Faraland - Battle of Crystals,Token,Honeypot,0,0,,,,
+1256,GDRAGON,Token,Honeypot,0,0,,,,
+1255,KumaInu,Token,Honeypot,0,0,,,,
+1254,WhereLambo,Token,Honeypot,0,0,,,,
+1253,GDOGE,Token,Honeypot,0,0,,,,
+1252,JindoInu,Token,Honeypot,0,0,,,,
+1251,Alaskan,Token,Honeypot,0,0,,,,
+1250,GOATMOON,Token,Honeypot,0,0,,,,
+1249,GoatCoin,Token,Honeypot,0,0,,,,
+1248,DogPoo,Token,Honeypot,0,0,,,,
+1247,CatzCoin,Token,Honeypot,0,0,,,,
+1246,SkyDog,Token,Honeypot,0,0,,,,
+1245,Dasani,Token,Honeypot,0,0,,,,
+1244,STARBOY,Token,Honeypot,0,0,,,,
+1243,YOOSHI,Token,Honeypot,0,0,,,,
+1242,SafeMEME,Token,Honeypot,0,0,,,,
+1241,TokenFox,Token,Honeypot,0,0,,,,
+1240,NEPTUNE Token,Token,Honeypot,0,0,,,,
+1239,WOODEN Token,Token,Honeypot,0,0,,,,
+1238,GEMROCKET,Token,Honeypot,0,0,,,,
+1237,DOGELD TRUMP,Token,Honeypot,0,0,,,,
+1236,MILK TOKEN,Exchange (DEX),Honeypot,0,0,,,,
+1235,ELON INU,Token,Honeypot,0,0,,,,
+1234,Moon Scatter,Token,Honeypot,0,0,,,,
+1233,HuskyMoon,Token,Honeypot,0,0,,,,
+1232,MingHua,Token,Honeypot,0,0,,,,
+1231,Akitoge Inu,Token,Honeypot,0,0,,,,
+1230,Transaction Control Protocol,Token,Honeypot,0,0,,,,
+1229,NOZOMI,Token,Honeypot,0,0,,,,
+1228,FUCKELON,Token,Honeypot,0,0,,,,
+1227,Eloge Inu,Token,Honeypot,0,0,,,,
+1226,MoonFly,Token,Honeypot,0,0,,,,
+1225,JaguarMOON,Token,Honeypot,0,0,,,,
+1224,MoonDegenerates,Token,Honeypot,0,0,,,,
+1223,SNAKE TOKEN,Token,Honeypot,0,0,,,,
+1222,SHIBA PLATINUM,Token,Honeypot,0,0,,,,
+1221,SHIBA BAG,Exchange (DEX),Honeypot,0,0,,,,
+1220,DogeStar,Token,Honeypot,0,0,,,,
+1219,TERA TOKEN,Token,Honeypot,0,0,,,,
+1218,GIGABERLIN,Token,Honeypot,0,0,,,,
+1217,KreamPie,Token,Honeypot,0,0,,,,
+1216,MoonChain,Token,Honeypot,0,0,,,,
+1215,TIGER,Token,Honeypot,0,0,,,,
+1214,ElonCash,Token,Honeypot,0,0,,,,
+1213,PIKE TOKEN,Token,Honeypot,0,0,,,,
+1212,OliveOptions,Token,Honeypot,0,0,,,,
+1211,PirateElon,Token,Honeypot,0,0,,,,
+1210,LION,Token,Honeypot,0,0,,,,
+1209,mozik,Token,Honeypot,0,0,,,,
+1208,PANKY TOKEN,Token,Honeypot,0,0,,,,
+1207,Pinknode,Token,Honeypot,0,0,,,,
+1206,KodaRobotDog Token,Token,Honeypot,0,0,,,,
+1205,YieldShiba.com,Token,Honeypot,0,0,,,,
+1204,Starbase Launch Pad,Token,Honeypot,0,0,,,,
+1203,E-Coin,Token,Honeypot,0,0,,,,
+1202,HAWK TOKEN,Token,Honeypot,0,0,,,,
+1201,COOM,Token,Honeypot,0,0,,,,
+1200,MONKEY,Token,Honeypot,0,0,,,,
+1199,ELEPHANT,Exchange (DEX),Honeypot,0,0,,,,
+1197,Polkally,Token,Honeypot,0,0,,,,
+1196,SAFEPUP TOKEN,Token,Honeypot,0,0,,,,
+1195,CleanEnergyToken,Token,Honeypot,0,0,,,,
+1194,IDEA Token,Token,Honeypot,0,0,,,,
+1193,DipBitcoin,Token,Honeypot,0,0,,,,
+1192,FomoBaggins,Token,Honeypot,0,0,,,,
+1191,NeverGonnaRugYouUp,Token,Honeypot,0,0,,,,
+1190,LETHE Token,Token,Honeypot,0,0,,,,
+1189,GGININDER,Token,Honeypot,0,0,,,,
+1188,TeslaModelS Plaid,Token,Honeypot,0,0,,,,
+1187,ASTROSTONKS,Token,Honeypot,0,0,,,,
+1186,SupHerbs,Token,Honeypot,0,0,,,,
+1185,ShinyShiba,Token,Honeypot,0,0,,,,
+1184,BRONZE Token,Token,Honeypot,0,0,,,,
+1183,Shuby Inu,Token,Honeypot,0,0,,,,
+1182,MoonGiraffe,Token,Honeypot,0,0,,,,
+1181,MAMASHIBA,Token,Honeypot,0,0,,,,
+1180,Smells Like Updoge,Token,Honeypot,0,0,,,,
+1179,RUSHMOON,Token,Honeypot,0,0,,,,
+1178,FULLMOON,Exchange (DEX),Honeypot,0,0,,,,
+1177,Kwikswap,Exchange (DEX),Honeypot,0,0,,,,
+1176,NETVRK,Token,Honeypot,0,0,,,,
+1175,Kiju Inu,Token,Honeypot,0,0,,,,
+1174,HACHIKO INU,Token,Honeypot,0,0,,,,
+1173,BOMB Token,Exchange (DEX),Honeypot,0,0,,,,
+1172,BULLRUN,Token,Honeypot,0,0,,,,
+1171,OnlyFans,Token,Honeypot,0,0,,,,
+1170,SAFEOXYGEN Token,Token,Honeypot,0,0,,,,
+1169,Kimchi Inu,Token,Honeypot,0,0,,,,
+1168,Kobe,Token,Honeypot,0,0,,,,
+1167,ORANGE TOKEN,Token,Honeypot,0,0,,,,
+1166,NFT ECO,Token,Honeypot,0,0,,,,
+1165,BOGDANOFF,,Rugpull,0,0,,,,
+1164,Papa Elon,Token,Honeypot,0,0,,,,
+1163,krosschain.app,Token,Honeypot,0,0,,,,
+1162,Eloneum Token,Token,Honeypot,0,0,,,,
+1161,VitalikDoge,Token,Honeypot,0,0,,,,
+1160,COCACOLA Comunity,Token,Honeypot,0,0,,,,
+1159,Impala Inu,Token,Honeypot,0,0,,,,
+1158,David Guetta NFT,Token,Honeypot,0,0,,,,
+1157,FUCK MUSK,Token,Honeypot,0,0,,,,
+1156,BillGates,Token,Honeypot,0,0,,,,
+1155,Porn Doge,Token,Honeypot,0,0,,,,
+1154,World of Musk,Token,Honeypot,0,0,,,,
+1153,Dogewin,Token,Honeypot,0,0,,,,
+1152,Peruvian Coke,Token,Honeypot,0,0,,,,
+1151,Golden Retriever,Token,Honeypot,0,0,,,,
+1150,Egg Plant Token,Token,Honeypot,0,0,,,,
+1149,The Crypto Prophecies,Token,Honeypot,0,0,,,,
+1148,Dogs Playing Poker,Token,Honeypot,0,0,,,,
+1147,Smoothy.Finance,Token,Honeypot,0,0,,,,
+1146,FullSun,Token,Honeypot,0,0,,,,
+1145,Mochi.market,Token,Honeypot,0,0,,,,
+1144,SuperMoon Token,Token,Honeypot,0,0,,,,
+1143,Ares Protocol,Token,Honeypot,0,0,,,,
+1142,Kianite.co,Token,Honeypot,0,0,,,,
+1141,BullsDrop,Token,Honeypot,0,0,,,,
+1140,STAR WARS ETH PROTOCOL,Token,Honeypot,0,0,,,,
+1139,Pudgy Token,Token,Honeypot,0,0,,,,
+1138,HANNIBAL LECTOR PROTOCOL,Token,Honeypot,0,0,,,,
+1137,Inu Token,Token,Honeypot,0,0,,,,
+1136,Floyd Crypto Mayweather,Token,Honeypot,0,0,,,,
+1135,Coronal Mass Ejection,Token,Honeypot,0,0,,,,
+1134,Lion King Token,Token,Honeypot,0,0,,,,
+1133,SATANS PLAYHOUSE,Token,Honeypot,0,0,,,,
+1132,Bull,Token,Honeypot,0,0,,,,
+1131,Saito.io,Token,Honeypot,0,0,,,,
+1130,TakuraInu,Token,Honeypot,0,0,,,,
+1129,Space Porn Token,Stablecoin,Honeypot,0,0,,,,
+1127,SHIBA PROTOCOL,Token,Honeypot,0,0,,,,
+1126,UniFarm,Token,Honeypot,0,0,,,,
+1125,BucksCake,Token,Honeypot,0,0,,,,
+1124,Smoothy Finance,Token,Honeypot,0,0,,,,
+1123,HoneyMoon,Token,Honeypot,0,0,,,,
+1122,Oracle Protocol,Exchange (DEX),Honeypot,0,0,,,,
+1121,Monkey Token,Token,Honeypot,0,0,,,,
+1120,TheAPIS,Token,Honeypot,0,0,,,,
+1119,Flare,Exchange (DEX),Honeypot,0,0,,,,
+1118,LunarLaunchProject,Token,Honeypot,0,0,,,,
+1117,Zevia,Token,Honeypot,0,0,,,,
+1116,BitLink,Token,Honeypot,0,0,,,,
+1115,AquafiProtocol,Token,Honeypot,0,0,,,,
+1114,TachyonProtocol,Token,Honeypot,0,0,,,,
+1113,NixMoon,Token,Honeypot,0,0,,,,
+1112,EpsilonFinance,Token,Honeypot,0,0,,,,
+1111,Legends of Crypto,Token,Honeypot,0,0,,,,
+1110,Solanium.io,Token,Honeypot,0,0,,,,
+1109,Safe World Elon,Token,Honeypot,0,0,,,,
+1108,GOKUBSC,Token,Honeypot,0,0,,,,
+1107,Parental Advisory Token,Token,Honeypot,0,0,,,,
+1106,SunvaChain,Token,Honeypot,0,0,,,,
+1105,ValueNFT,Token,Honeypot,0,0,,,,
+1104,Pink Panther Protocol,Token,Honeypot,0,0,,,,
+1103,SmartFinance,Token,Honeypot,0,0,,,,
+1102,ElonDash,Token,Honeypot,0,0,,,,
+1101,DEXTrust.Finance,Token,Honeypot,0,0,,,,
+1100,World Of Warcraft,Exchange (DEX),Honeypot,0,0,,,,
+1099,Changify,Token,Honeypot,0,0,,,,
+1098,PressureFinance,Token,Honeypot,0,0,,,,
+1097,BlackHole.BLACK Governance Token,Token,Honeypot,0,0,,,,
+1096,Elon Doge,Token,Honeypot,0,0,,,,
+1095,Travel Coin Community,Token,Honeypot,0,0,,,,
+1094,UniverseDoge,Token,Honeypot,0,0,,,,
+1093,DogeFather,Token,Honeypot,0,0,,,,
+1092,Safecare,Token,Honeypot,0,0,,,,
+1091,Dogefather,Token,Honeypot,0,0,,,,
+1090,SPACEPENGUIN,Exchange (DEX),Honeypot,0,0,,,,
+1089,SafeDogeFather,Token,Honeypot,0,0,,,,
+1088,MoonPay,Token,Honeypot,0,0,,,,
+1087,Hello Kitty Protocol,Token,Honeypot,0,0,,,,
+1086,TACHYON,Token,Honeypot,0,0,,,,
+1085,Instaswap,Token,Honeypot,0,0,,,,
+1084,Da Vinci Coin,Token,Honeypot,0,0,,,,
+1083,EricCartman,Token,Honeypot,0,0,,,,
+1082,Counter Strike Community,Token,Honeypot,0,0,,,,
+1081,DogeMother,Token,Honeypot,0,0,,,,
+1080,LIMEWAX PROTOCOL,Token,Honeypot,0,0,,,,
+1078,Larafinance,Token,Honeypot,0,0,,,,
+1077,NeutrinoProtocol,Token,Honeypot,0,0,,,,
+1076,LUNACAT,Token,Honeypot,0,0,,,,
+1074,Atomic Bomb,Token,Honeypot,0,0,,,,
+1073,Unmarshal.io,Token,Honeypot,0,0,,,,
+1072,Ramifi.org,Borrowing and Lending,Honeypot,0,0,,,,
+1071,ELONCAKE,Token,Honeypot,0,0,,,,
+1070,Forcedao.com,Token,Honeypot,0,0,,,,
+1069,SafeSuperHeavy,Token,Honeypot,0,0,,,,
+1068,Rage.Fan,Token,Honeypot,0,0,,,,
+1067,MoonDust,Token,Honeypot,0,0,,,,
+1066,OzarkToken,Token,Honeypot,0,0,,,,
+1065,Polkalokr,Token,Honeypot,0,0,,,,
+1064,Fei protocol,Token,Honeypot,0,0,,,,
+1063,SeaGroxCoin,Token,Honeypot,0,0,,,,
+1062,SafeCat,Token,Honeypot,0,0,,,,
+1061,SHOPEEPAY,Token,Honeypot,0,0,,,,
+1060,REAPit,Token,Honeypot,0,0,,,,
+1059,TESLAFARM.FINANCE,Token,Honeypot,0,0,,,,
+1058,SpaceMoon,Token,Honeypot,0,0,,,,
+1057,SAFEMARS,Token,Honeypot,0,0,,,,
+1056,SaltYield.finance,Token,Honeypot,0,0,,,,
+1055,TILDA and Co Token,Token,Honeypot,0,0,,,,
+1054,Coconut finance,Token,Honeypot,0,0,,,,
+1053,TAKE OF ELON,Token,Honeypot,0,0,,,,
+1052,Tribute.finance,Token,Honeypot,0,0,,,,
+1051,Zona Indonesia,Token,Honeypot,0,0,,,,
+1050,StudToken,Token,Honeypot,0,0,,,,
+1048,EVER MOON,Token,Honeypot,0,0,,,,
+1047,GoalTimeN Finance,Token,Honeypot,0,0,,,,
+1046,KINGOFREFLECT,Token,Honeypot,0,0,,,,
+1045,ElonTrade 100x,Token,Honeypot,0,0,,,,
+1044,OminousToken,Token,Honeypot,0,0,,,,
+1043,NoCapFax COIN,Token,Honeypot,0,0,,,,
+1042,KGBCoin,Token,Honeypot,0,0,,,,
+1041,DieselPumpToken,Token,Honeypot,0,0,,,,
+1040,SafeFLM,Token,Honeypot,0,0,,,,
+1039,SpriteXFinance,Token,Honeypot,0,0,,,,
+1037,SpeedMOON,Token,Honeypot,0,0,,,,
+1036,7seven Finance,Token,Honeypot,0,0,,,,
+1035,7finance.io,Token,Honeypot,0,0,,,,
+1034,SAFEHarvest,Token,Honeypot,0,0,,,,
+1033,SafeBeer,Token,Honeypot,0,0,,,,
+1032,ThugLife,Token,Honeypot,0,0,,,,
+1031,SafeTonyStark Bsc,Token,Honeypot,0,0,,,,
+1030,SolaceToken,Token,Honeypot,0,0,,,,
+1029,SafeTeslaCoil,Token,Honeypot,0,0,,,,
+1028,Polka Ventures,Token,Honeypot,0,0,,,,
+1027,QuickMOON,Token,Honeypot,0,0,,,,
+1026,MoonStreetBets,Token,Honeypot,0,0,,,,
+1025,ElonFunds,Token,Honeypot,0,0,,,,
+1024,SAFEEARTH,Token,Honeypot,0,0,,,,
+1023,MoonWalkers,Token,Honeypot,0,0,,,,
+1022,MOONXV,Token,Honeypot,0,0,,,,
+1021,SAFEMOZART,Token,Honeypot,0,0,,,,
+1019,SubFinance,Token,Honeypot,0,0,,,,
+1018,JengaHepasus,Token,Honeypot,0,0,,,,
+1017,yTrio,Token,Honeypot,0,0,,,,
+1016,ANOTHER,Token,Honeypot,0,0,,,,
+1015,NovaFinance,Token,Honeypot,0,0,,,,
+1014,SAFEWAVE,Token,Honeypot,0,0,,,,
+1013,Rocket Farm,Token,Honeypot,0,0,,,,
+1011,Blast Token,Token,Honeypot,0,0,,,,
+1010,SilentFarm,Token,Honeypot,0,0,,,,
+1009,SafeRedux,Token,Honeypot,0,0,,,,
+1008,SlothFinance,Token,Honeypot,0,0,,,,
+1007,Coinlix,Token,Honeypot,0,0,,,,
+1006,GradeFarm,Token,Honeypot,0,0,,,,
+1005,Nuclear Product,Token,Honeypot,0,0,,,,
+1004,MaxFarm,Token,Honeypot,0,0,,,,
+1003,safe-x.space,Token,Honeypot,0,0,,,,
+1002,PhenoToken.Finance,Token,Honeypot,0,0,,,,
+1001,Torchic,,Rugpull,0,0,,,,
+1000,Moon Ore,Borrowing and Lending,Honeypot,0,0,,,,
+999,DETA FINANCE,Token,Honeypot,0,0,,,,
+998,Asteroid Farm,Token,Honeypot,0,0,,,,
+997,SAFELAWN,Token,Honeypot,0,0,,,,
+996,Golden Moon,Token,Honeypot,0,0,,,,
+995,SUGAR,Token,Honeypot,0,0,,,,
+994,ELONSPIRIT,Token,Honeypot,0,0,,,,
+993,KINGLER,Token,Honeypot,0,0,,,,
+992,SAFEDOT,Token,Honeypot,0,0,,,,
+991,ELONBSC,Token,Honeypot,0,0,,,,
+990,SAFE SMART,Token,Honeypot,0,0,,,,
+989,SAFEPAID,Token,Honeypot,0,0,,,,
+988,SafeEden,Token,Honeypot,0,0,,,,
+987,HavaxToken,Token,Honeypot,0,0,,,,
+986,ZirgonYield,Token,Honeypot,0,0,,,,
+985,SafeZeta,Token,Honeypot,0,0,,,,
+984,xmars,Token,Honeypot,0,0,,,,
+983,Schmeckles,Token,Honeypot,0,0,,,,
+982,COPE,Token,Honeypot,0,0,,,,
+981,rewardiqa,Token,Honeypot,0,0,,,,
+980,Rabbit Swap,Exchange (DEX),Honeypot,0,0,,,,
+979,benchmars protocol,Token,Honeypot,0,0,,,,
+978,MoonFEG Token,Token,Honeypot,0,0,,,,
+977,Auditore,Token,Honeypot,0,0,,,,
+976,KURMA,Token,Honeypot,0,0,,,,
+975,Mommy Milkers,Token,Honeypot,0,0,,,,
+974,Golden Mining GAS,Token,Honeypot,0,0,,,,
+973,GemNFT,Token,Honeypot,0,0,,,,
+972,Polkamon,Token,Honeypot,0,0,,,,
+971,BraveHeart TOKEN,Token,Honeypot,0,0,,,,
+970,Safewog,Token,Honeypot,0,0,,,,
+969,24Hours,Token,Honeypot,0,0,,,,
+968,Cockzilla,Token,Honeypot,0,0,,,,
+967,GamyFi,Token,Honeypot,0,0,,,,
+966,Elon Moon,Token,Honeypot,0,0,,,,
+965,Jesus Doge,Token,Honeypot,0,0,,,,
+964,Potato,Token,Honeypot,0,0,,,,
+963,FLORIDA,Token,Honeypot,0,0,,,,
+961,Muk Finance,Token,Honeypot,0,0,,,,
+960,Redbean Token,Token,Honeypot,0,0,,,,
+959,600X,Token,Honeypot,0,0,,,,
+957,HolyMoon,Token,Honeypot,0,0,,,,
+956,KoinChurch,Token,Honeypot,0,0,,,,
+955,BSCstarter,Token,Honeypot,0,0,,,,
+954,WOO,Exchange (DEX),Honeypot,0,0,,,,
+953,CRYPTO MOON SHOTS,Token,Honeypot,0,0,,,,
+952,SpaceGoat,Token,Honeypot,0,0,,,,
+951,Melon Musk,Token,Honeypot,0,0,,,,
+950,TogetherWeStand,Token,Honeypot,0,0,,,,
+949,Rabbit Finance,Borrowing and Lending,Honeypot,0,0,,,,
+948,Real Madrid FC,Token,Honeypot,0,0,,,,
+947,ShibaBTC,Token,Honeypot,0,0,,,,
+946,SAFE SHIBA,Exchange (DEX),Honeypot,0,0,,,,
+945,META,Token,Honeypot,0,0,,,,
+944,Smaugs,Token,Honeypot,0,0,,,,
+943,Lucky Coin,Token,Honeypot,0,0,,,,
+942,Paralink Network,Token,Honeypot,0,0,,,,
+941,RocketAkita,Token,Honeypot,0,0,,,,
+940,DIAMOND,Token,Honeypot,0,0,,,,
+939,GO,Token,Honeypot,0,0,,,,
+938,COFFEE MOON,Token,Honeypot,0,0,,,,
+937,AppleFive,Token,Honeypot,0,0,,,,
+936,Virgin Elon,Token,Honeypot,0,0,,,,
+935,Jade Currency,Token,Honeypot,0,0,,,,
+934,RocketShip,Token,Honeypot,0,0,,,,
+933,PoopyFinance,Token,Honeypot,0,0,,,,
+932,Step Finance,Token,Honeypot,0,0,,,,
+930,GUCCI,Token,Honeypot,0,0,,,,
+929,PROJECT LION,Token,Honeypot,0,0,,,,
+928,Squirtle,Token,Honeypot,0,0,,,,
+927,Brainstorm,Token,Honeypot,0,0,,,,
+926,Moony Farm,Token,Honeypot,0,0,,,,
+925,NFTLogy,Token,Honeypot,0,0,,,,
+924,NeptuneWallet,Token,Honeypot,0,0,,,,
+923,Wu-Tang Financial,Token,Honeypot,0,0,,,,
+922,Vulcano,Token,Honeypot,0,0,,,,
+921,Diamond Hands Inu,Token,Honeypot,0,0,,,,
+920,FUTURE,Token,Honeypot,0,0,,,,
+919,Antares,Token,Honeypot,0,0,,,,
+918,Pinknode,Token,Honeypot,0,0,,,,
+917,Stratos,Token,Honeypot,0,0,,,,
+916,PI NETWORK TOKEN,Token,Honeypot,0,0,,,,
+915,KING TRUMP,Token,Honeypot,0,0,,,,
+914,New Deep Thots,Token,Honeypot,0,0,,,,
+913,SPACEDOGE,Token,Honeypot,0,0,,,,
+912,BathroomSwap,Token,Honeypot,0,0,,,,
+911,BitDoge,Token,Honeypot,0,0,,,,
+910,Pigg Token,Token,Honeypot,0,0,,,,
+909,SonicSpeed,Exchange (DEX),Honeypot,0,0,,,,
+908,Jaku Inu,Token,Honeypot,0,0,,,,
+907,HARDBALL,Token,Honeypot,0,0,,,,
+906,MarsLanding,Token,Honeypot,0,0,,,,
+905,EMACITY TOKEN,Token,Honeypot,0,0,,,,
+904,Freela,Token,Honeypot,0,0,,,,
+903,Coffee Shop DAO,Token,Honeypot,0,0,,0,0,
+902,DogeStar,Token,Honeypot,0,0,,,,
+901,SafeTed,Token,Honeypot,0,0,,,,
+900,DuckCoin,Token,Honeypot,0,0,,,,
+899,Glitch,Token,Honeypot,0,0,,,,
+898,LIGMA,Token,Honeypot,0,0,,,,
+897,SkyRocket,Token,Honeypot,0,0,,,,
+896,HungryShiba,Token,Honeypot,0,0,,,,
+895,SpaceXDoge,Token,Honeypot,0,0,,,,
+894,SPEEDDAO,Token,Honeypot,0,0,,,,
+893,taxi Finance,Token,Honeypot,0,0,,,,
+892,DwayneCoin,Token,Honeypot,0,0,,,,
+891,BongWeedCoin,Token,Honeypot,0,0,,,,
+890,1000xCoin,Token,Honeypot,0,0,,,,
+889,Centrifuge,Token,Honeypot,0,0,,,,
+888,DIAMOND FUCKING HANDS,Token,Honeypot,0,0,,,,
+887,SAFEMOONSHOT,Token,Honeypot,0,0,,,,
+886,Koshka Miu,Token,Honeypot,0,0,,,,
+885,LEASHSWAP,Token,Honeypot,0,0,,,,
+884,Sphynx Token,Token,Honeypot,0,0,,,,
+883,Shibaboss,Token,Honeypot,0,0,,,,
+882,Sakura Inu,Token,Honeypot,0,0,,,,
+881,BinanceInu.Bep20,Token,Honeypot,0,0,,,,
+880,NFT GEM,Token,Honeypot,0,0,,,,
+879,SparkEnergy,Token,Honeypot,0,0,,,,
+878,Strawberry,Token,Honeypot,0,0,,,,
+877,PhutureProtocol,Token,Honeypot,0,0,,,,
+876,LGBTToken,Token,Honeypot,0,0,,,,
+875,dmoon.finance,Token,Honeypot,0,0,,,,
+874,GAYSHIBA,Token,Honeypot,0,0,,,,
+873,NeuroChain,Token,Honeypot,0,0,,,,
+872,Forest token,Token,Honeypot,0,0,,,,
+871,Elon&#x27;s Gay For Doge,Token,Honeypot,0,0,,,,
+870,dogejavu.com,Token,Honeypot,0,0,,,,
+869,SnoopToken,Token,Honeypot,0,0,,,,
+868,Ethereum 2.0,Token,Honeypot,0,0,,,,
+867,Moonpad,Token,Honeypot,0,0,,,,
+866,Tara Inu,Token,Honeypot,0,0,,,,
+865,DogeRoulette,Token,Honeypot,0,0,,,,
+864,NINJA CAT,Token,Honeypot,0,0,,,,
+863,FudderElon,Token,Honeypot,0,0,,,,
+862,SmartShiba,Token,Honeypot,0,0,,,,
+861,SpheriumFinance,Token,Honeypot,0,0,,,,
+860,NYANINU,Token,Honeypot,0,0,,,,
+859,GalaxyToken,Token,Honeypot,0,0,,,,
+858,eTHEREUMGIRL,Token,Honeypot,0,0,,,,
+857,NFTbs,Token,Honeypot,0,0,,,,
+856,SpaceXDeimos,Token,Honeypot,0,0,,,,
+855,slashprotocol.com,Token,Honeypot,0,0,,,,
+854,OceanEx,Token,Honeypot,0,0,,,,
+853,STARTFI,Token,Honeypot,0,0,,,,
+852,BENQi,Token,Honeypot,0,0,,,,
+851,PolarisFinance,Token,Honeypot,0,0,,,,
+850,Atomas,Token,Honeypot,0,0,,,,
+849,Sushi Finance,"Borrowing and Lending,Exchange (DEX)",Honeypot,0,0,,,,
+848,MK,Token,Honeypot,0,0,,,,
+847,XenonFinance,Token,Honeypot,0,0,,,,
+846,CereNetwork,Token,Honeypot,0,0,,,,
+845,SaitoToken,Token,Honeypot,0,0,,,,
+844,SB,Token,Honeypot,0,0,,,,
+843,Darth Vader Token,Token,Honeypot,0,0,,,,
+841,infinityElon,Token,Honeypot,0,0,,,,
+840,XFai,Token,Honeypot,0,0,,,,
+839,MW,Token,Honeypot,0,0,,,,
+838,Everest,Token,Honeypot,0,0,,,,
+837,MoonRobin,Token,Honeypot,0,0,,,,
+836,Shining Stars Token,Token,Honeypot,0,0,,,,
+835,EASYFEEDBACK,Token,Honeypot,0,0,,,,
+834,TokenFomo.pro,Token,Honeypot,0,0,,,,
+833,DerioxDefi,Token,Honeypot,0,0,,,,
+832,UMBRELLA,Token,Honeypot,0,0,,,,
+831,Infinity Cat,Token,Honeypot,0,0,,,,
+828,QixiSwap,Token,Honeypot,0,0,,,,
+827,Covalent,Token,Honeypot,0,0,,,,
+826,EasterEgg,Token,Honeypot,0,0,,,,
+825,FujiProtocol,Token,Honeypot,0,0,,,,
+824,TerrainNFT,Token,Honeypot,0,0,,,,
+822,NAOS Finance,Borrowing and Lending,Honeypot,0,0,,,,
+820,Media Network,Token,Honeypot,0,0,,,,
+819,Horse Protocol,Token,Honeypot,0,0,,,,
+818,LamboToken,Token,Honeypot,0,0,,,,
+817,HerionProtocol,Token,Honeypot,0,0,,,,
+816,DOGE PARTY,Token,Honeypot,0,0,,,,
+815,Librex,Token,Honeypot,0,0,,,,
+814,IPX,Token,Honeypot,0,0,,,,
+813,Moon Fox Community,Token,Honeypot,0,0,,,,
+812,RedefinexProtocol,Token,Honeypot,0,0,,,,
+810,Dojecoin,Token,Honeypot,0,0,,,,
+809,SpaceX Starlink,Token,Honeypot,0,0,,,,
+808,NFTify.Network,Token,Honeypot,0,0,,,,
+807,The Doge Godfather,Token,Honeypot,0,0,,,,
+806,DNA TOKEN,Token,Honeypot,0,0,,,,
+805,Elon Payment Ecosystem,Token,Honeypot,0,0,,,,
+804,CrossPad,Token,Honeypot,0,0,,,,
+803,Don-Key.finance,Borrowing and Lending,Honeypot,0,0,,,,
+802,makiswap.com,Exchange (DEX),Honeypot,0,0,,,,
+801,Peanut Butter,Token,Honeypot,0,0,,,,
+800,Meow Token,Exchange (DEX),Honeypot,0,0,,,,
+799,Lever Network,Token,Honeypot,0,0,,,,
+798,Maple.Finance,Token,Honeypot,0,0,,,,
+795,Sienna.Network,Token,Honeypot,0,0,,,,
+794,Skrill DOGE,Token,Honeypot,0,0,,,,
+793,ElonStar,Token,Honeypot,0,0,,,,
+792,Bring.finance,Token,Honeypot,0,0,,,,
+791,Tokka Inu,Token,Honeypot,0,0,,,,
+790,Umbrella,Token,Honeypot,0,0,,,,
+789,NyanDoge,Token,Honeypot,0,0,,,,
+788,The Dragon Father,Token,Honeypot,0,0,,,,
+787,Elon Payment Ecosystem,Token,Honeypot,0,0,,,,
+786,London X Protocol,Token,Honeypot,0,0,,,,
+785,NUKE INU,Token,Honeypot,0,0,,,,
+784,Oportunity Token,Token,Honeypot,0,0,,,,
+783,SUPERCYCLE,Token,Honeypot,0,0,,,,
+782,Doggy Token,Token,Honeypot,0,0,,,,
+781,SolstarterToken,Token,Honeypot,0,0,,,,
+780,ElonFinance,Token,Honeypot,0,0,,,,
+779,DOGE ROCKET,Token,Honeypot,0,0,,,,
+778,Mother Of Dragon,Token,Honeypot,0,0,,,,
+777,Moon Mission Elon,Token,Honeypot,0,0,,,,
+776,IronyMan,Token,Honeypot,0,0,,,,
+775,PurpleGoat,Token,Honeypot,0,0,,,,
+774,GrumpyDoge,Token,Honeypot,0,0,,,,
+773,XDAICHAIN,Token,Honeypot,0,0,,,,
+772,Tentrix,Token,Honeypot,0,0,,,,
+771,NoCapCoin,Token,Honeypot,0,0,,,,
+770,Stability Protocol,Token,Honeypot,0,0,,,,
+769,ForTheWin,Token,Honeypot,0,0,,,,
+768,Binance-Peg VeChain,Token,Honeypot,0,0,,,,
+767,Crypto Puzzles,Token,Honeypot,0,0,,,,
+766,Space X Crew,Token,Honeypot,0,0,,,,
+765,MEMElonMusk,Token,Honeypot,0,0,,,,
+764,Concordium,Token,Honeypot,0,0,,,,
+762,gorillapump.net,Token,Honeypot,0,0,,,,
+761,SafeMoon,Token,Honeypot,0,0,,,,
+759,white.finance,,Rugpull,0,0,,,,
+758,RiserDefi.com,Token,Honeypot,0,0,,,,
+757,ElonHODL Token,Token,Honeypot,0,0,,,,
+756,BSC HOTEL,Token,Honeypot,0,0,,,,
+755,SafeForever,Token,Honeypot,0,0,,,,
+754,bscgames.win,Token,Honeypot,0,0,,,,
+753,TILY,Token,Honeypot,0,0,,,,
+752,MOON1000X,Token,Honeypot,0,0,,,,
+751,XDEFILABS,Token,Honeypot,0,0,,,,
+750,Instantly,Token,Honeypot,0,0,,,,
+748,GOSWAP.IO,Token,Honeypot,0,0,,,,
+747,Mars Ore,Token,Honeypot,0,0,,,,
+746,EXODUS,Token,Honeypot,0,0,,,,
+745,ELONSPACE,Token,Honeypot,0,0,,,,
+744,LastOutFirstWin,Token,Honeypot,0,0,,,,
+743,Quantum Farm,Token,Honeypot,0,0,,,,
+742,RedSWAP,Token,Honeypot,0,0,,,,
+741,ADRENALINE.FINANCE,Token,Honeypot,0,0,,,,
+740,mooncake,Token,Honeypot,0,0,,,,
+739,WenMoon,Token,Honeypot,0,0,,,,
+738,Governor Network,Token,Honeypot,0,0,,,,
+737,Charged Particles Protocol,Token,Honeypot,0,0,,,,
+736,Shozo Inu,Token,Honeypot,0,0,,,,
+735,PandoraBSC,Token,Honeypot,0,0,,,,
+734,NYAN INU,Token,Honeypot,0,0,,,,
+732,safeokko,Token,Honeypot,0,0,,,,
+731,melonmars,Token,Honeypot,0,0,,,,
+730,WhiteX Finance,Token,Honeypot,0,0,,,,
+729,Quick Grow,Token,Honeypot,0,0,,,,
+728,BERSERK Token,Token,Honeypot,0,0,,,,
+727,nintendo chain network,Token,Honeypot,0,0,,,,
+726,UNIONJACK - BSC,Borrowing and Lending,Honeypot,0,0,,,,
+725,NEOBUX,Token,Honeypot,0,0,,,,
+724,ELONEBULA,Token,Honeypot,0,0,,,,
+722,Cosmos Finance,Token,Honeypot,0,0,,,,
+721,Bombic Finance,Token,Honeypot,0,0,,,,
+720,SAFEFEG,Token,Honeypot,0,0,,,,
+719,LITECOIN STANDAR HASRATE TOKEN,Token,Honeypot,0,0,,,,
+718,BraveToken,Token,Honeypot,0,0,,,,
+717,RollFinance,Token,Honeypot,0,0,,,,
+716,APPLEJUICE.FINANCE,Token,Honeypot,0,0,,,,
+715,Moon RUNE,Token,Honeypot,0,0,,,,
+714,RevertFinance Token,Token,Honeypot,0,0,,,,
+713,Sollet,Token,Honeypot,0,0,,,,
+712,RebirthFarm.io,Token,Honeypot,0,0,,,,
+711,SafeCatch,Token,Honeypot,0,0,,,,
+710,ElonSafu,Token,Honeypot,0,0,,,,
+709,shibalabs,Token,Honeypot,0,0,,,,
+708,NASA Farm,Token,Honeypot,0,0,,,,
+707,elonrugs,Token,Honeypot,0,0,,,,
+706,DangerARK,Token,Honeypot,0,0,,,,
+705,Luxury Finance,Token,Honeypot,0,0,,,,
+704,saferipple,Token,Honeypot,0,0,,,,
+703,VanillaUnicorn,Token,Honeypot,0,0,,,,
+702,ElonGain 1000X,Token,Honeypot,0,0,,,,
+701,ASAPfarm,Token,Honeypot,0,0,,,,
+699,dogemars,Token,Honeypot,0,0,,,,
+698,BarTown BSC,Token,Honeypot,0,0,,,,
+697,SafeMarket Token,Token,Honeypot,0,0,,,,
+696,StringFinance.io,Token,Honeypot,0,0,,,,
+695,EXPER,Token,Honeypot,0,0,,,,
+694,CosmosCoin,Token,Honeypot,0,0,,,,
+693,ELONTRUSTED,Token,Honeypot,0,0,,,,
+692,HAHAHA GO SAFE TOKENS,Token,Honeypot,0,0,,,,
+691,Crypto Farm,Token,Honeypot,0,0,,,,
+690,NiiFi,Token,Honeypot,0,0,,,,
+689,Lossless,Token,Honeypot,0,0,,,,
+688,EA Sports Token,Token,Honeypot,0,0,,,,
+687,MarsRocket,Token,Honeypot,0,0,,,,
+686,GBull,Token,Honeypot,0,0,,,,
+685,TacoSwap,Token,Honeypot,0,0,,,,
+684,SUNLIGHT PROTOCOL,Token,Honeypot,0,0,,,,
+683,incidentCovid,Token,Honeypot,0,0,,,,
+682,SafeCeti,Token,Honeypot,0,0,,,,
+681,Ethereum SHIBA,Token,Honeypot,0,0,,,,
+680,Dexlab,Token,Honeypot,0,0,,,,
+679,polyMAX,Token,Honeypot,0,0,,,,
+678,Ethereum KISHU,Token,Honeypot,0,0,,,,
+677,SpacePiggy,Token,Honeypot,0,0,,,,
+676,BWare Token,Token,Honeypot,0,0,,,,
+675,NFTD Protocol,Token,Honeypot,0,0,,,,
+674,KarateInu,Token,Honeypot,0,0,,,,
+673,RocketBanana,Token,Honeypot,0,0,,,,
+672,animecutties,Token,Honeypot,0,0,,,,
+671,BlueOrigin,Token,Honeypot,0,0,,,,
+670,SmartRush,Token,Honeypot,0,0,,,,
+669,SolanaSwap,Token,Honeypot,0,0,,,,
+668,POOL SIDE DAO,Token,Honeypot,0,0,,,,
+667,TOKO TOKEN,Token,Honeypot,0,0,,,,
+666,Nifty's,Token,Honeypot,0,0,,,,
+665,Mango.Finance,Token,Honeypot,0,0,,,,
+664,nebula,Token,Honeypot,0,0,,,,
+663,Mewtwo Token,Token,Honeypot,0,0,,,,
+662,Corgo,Yield Aggregator,Honeypot,0,0,,,,
+661,moonfeg,Token,Honeypot,0,0,,,,
+660,Unmarshal Token,Token,Honeypot,0,0,,,,
+659,Ultrasafe,Token,Honeypot,0,0,,,,
+658,Halleys Comet,Token,Honeypot,0,0,,,,
+657,SafeNaruto Token,Token,Honeypot,0,0,,,,
+656,Cook Token,Token,Honeypot,0,0,,,,
+655,BOWL,Token,Honeypot,0,0,,,,
+654,MoonX2,Token,Honeypot,0,0,,,,
+653,Ethereum Apex,Token,Honeypot,0,0,,,,
+652,Iron Mars,Token,Honeypot,0,0,,,,
+651,Polkacomma,Token,Honeypot,0,0,,,,
+650,One,Token,Honeypot,0,0,,,,
+649,NFTQR,Token,Honeypot,0,0,,,,
+648,NFTQR,Token,Honeypot,0,0,,,,
+647,KingCorgi,Token,Honeypot,0,0,,,,
+646,MoonSheet,Token,Honeypot,0,0,,,,
+645,Post Malone Coin,Token,Honeypot,0,0,,,,
+644,Fear NFTs,Token,Honeypot,0,0,,,,
+643,SafeNuclear,Token,Honeypot,0,0,,,,
+642,Bafe.io,Token,Honeypot,0,0,,,,
+641,ElonRocket,Token,Honeypot,0,0,,,,
+640,FakeTaxi,Token,Honeypot,0,0,,,,
+639,Hot Cookies,Token,Honeypot,0,0,,,,
+638,KingSwap,Token,Honeypot,0,0,,,,
+637,HolderFinance,Token,Honeypot,0,0,,,,
+636,SunDoge Inu,Token,Honeypot,0,0,,,,
+635,Fei Tribe,Token,Honeypot,0,0,,,,
+634,Solanium,Token,Honeypot,0,0,,,,
+633,HOPE,Exchange (DEX),Honeypot,0,0,,,,
+632,Tribe,Token,Honeypot,0,0,,,,
+631,PI NETWORK,Token,Honeypot,0,0,,,,
+630,PostMaloneCoin,Token,Honeypot,0,0,,,,
+629,OKPay Finance,Token,Honeypot,0,0,,,,
+628,CHRONOSFINANCE,Token,Honeypot,0,0,,,,
+627,Shiba Toy,Token,Honeypot,0,0,,,,
+626,Sanindo Inu,Token,Honeypot,0,0,,,,
+625,Dot.Finance,Token,Honeypot,0,0,,,,
+624,GOOSE FINANCE,Token,Honeypot,0,0,,,,
+623,Artillery,Token,Honeypot,0,0,,,,
+622,TERMINU,Token,Honeypot,0,0,,,,
+621,Formation Finance,Token,Honeypot,0,0,,,,
+620,Pharaoh Cat,Token,Honeypot,0,0,,,,
+619,Nagasaki Shiba,Token,Honeypot,0,0,,,,
+618,Shiba Donut,Token,Honeypot,0,0,,,,
+617,Excavator,Exchange (DEX),Honeypot,0,0,,,,
+616,NFTify,Token,Honeypot,0,0,,,,
+615,Shiba Moon,Token,Honeypot,0,0,,,,
+614,GEMSTONE,Token,Honeypot,0,0,,,,
+613,Yokohama Inu,Token,Honeypot,0,0,,,,
+612,ZIDDLE,Token,Honeypot,0,0,,,,
+611,VentureCoin,Token,Honeypot,0,0,,,,
+610,Bugs Bunny,Token,Honeypot,0,0,,,,
+609,CryptionNetwork,Exchange (DEX),Honeypot,0,0,,,,
+608,FTX Arena,Exchange (DEX),Honeypot,0,0,,,,
+607,Universe of Inu,Token,Honeypot,0,0,,,,
+606,ROTTWEILER INU,Token,Honeypot,0,0,,,,
+605,Houbi Arena,Token,Honeypot,0,0,,,,
+604,NFT.Music,Token,Honeypot,0,0,,,,
+603,Ethereum Burger,Token,Honeypot,0,0,,,,
+602,spacedogedollar.com,Token,Honeypot,0,0,,,,
+601,Moon Inu Shiba,Token,Honeypot,0,0,,,,
+600,HODLEPUFF,Token,Honeypot,0,0,,,,
+599,SKYMARS,Token,Honeypot,0,0,,,,
+598,CunInu,Token,Honeypot,0,0,,,,
+597,Wrapped AMC,Token,Honeypot,0,0,,,,
+596,KingRoyal,Token,Honeypot,0,0,,,,
+595,epns.io,Token,Honeypot,0,0,,,,
+594,Lazy.com,Token,Honeypot,0,0,,,,
+593,MONKEY,Token,Honeypot,0,0,,,,
+592,FuckELON Finance,Token,Honeypot,0,0,,,,
+591,phuture.finance,Token,Honeypot,0,0,,,,
+590,ArgonNetwork,Token,Honeypot,0,0,,,,
+589,shibamiami.cloud,Token,Honeypot,0,0,,,,
+588,Misa Inu,Token,Honeypot,0,0,,,,
+587,STARLINK ELON MUSK,Token,Honeypot,0,0,,,,
+586,Nemo Inu,Token,Honeypot,0,0,,,,
+585,OwlnTools,Token,Honeypot,0,0,,,,
+584,TubbyCoin,Token,Honeypot,0,0,,,,
+583,TerraCycle,,Rugpull,0,0,,,,
+582,yLiquidate,,Rugpull,0,0,,,,
+581,Sunder Protocol,,Rugpull,0,0,,,,
+579,MyokoSwap Token,Token,Honeypot,0,0,,,,
+578,Cooktail Inu,Token,Honeypot,0,0,,,,
+577,Yearn-V3,Token,Honeypot,0,0,,,,
+576,WoodPecker,Token,Honeypot,0,0,,,,
+575,koinuinu.finance,Token,Honeypot,0,0,,,,
+574,MoonShard,Token,Honeypot,0,0,,,,
+573,komainu.finance,Token,Honeypot,0,0,,,,
+572,AstroCum,Token,Honeypot,0,0,,,,
+571,Doge Gang Inu,Token,Honeypot,0,0,,,,
+570,JUST FAIR LAUNCH,Token,Honeypot,0,0,,,,
+569,Baloo Inu,Token,Honeypot,0,0,,,,
+568,Safe-Me Finance,Token,Honeypot,0,0,,,,
+567,DeFi Wonderland,Token,Honeypot,0,0,,,,
+566,1Million,Token,Honeypot,0,0,,,,
+565,Cere Network,Token,Honeypot,0,0,,,,
+564,RAZE Network,Token,Honeypot,0,0,,,,
+563,CoreSwap.finance,Token,Honeypot,0,0,,,,
+562,rock solid  Vaults,Token,Honeypot,0,0,,,,
+561,ElonFrog,Token,Honeypot,0,0,,,,
+560,gamee.com,Token,Honeypot,0,0,,,,
+559,SafeAurora,Token,Honeypot,0,0,,,,
+558,The Dragon Godfather,Token,Honeypot,0,0,,,,
+557,Splashdown Of Dragon,Token,Honeypot,0,0,,,,
+556,Polylastic,Token,Honeypot,0,0,,,,
+555,Captain,Token,Honeypot,0,0,,,,
+554,Space Inu,,Rugpull,0,0,,,,
+553,MoonSquirrel,Token,Honeypot,0,0,,,,
+552,TrustPad,Token,Honeypot,0,0,,,,
+551,LODE Finance,Token,Honeypot,0,0,,,,
+550,PolkaRare,Token,Honeypot,0,0,,,,
+549,The Doge Space X,Token,Honeypot,0,0,,,,
+548,KimJongMoon,Token,Honeypot,0,0,,,,
+547,Chow Inu,Token,Honeypot,0,0,,,,
+546,SPACE GEM,Token,Honeypot,0,0,,,,
+545,Biohazard,Token,Honeypot,0,0,,,,
+544,ACID RAIN,Token,Honeypot,0,0,,,,
+543,DogeFinance,,Rugpull,0,0,,,,
+542,Enlighten,Token,Honeypot,0,0,,,,
+541,WhiteNova,Token,Honeypot,0,0,,,,
+540,FUTURE,Token,Honeypot,0,0,,,,
+539,Ukawa Inu,,Rugpull,0,0,,,,
+538,EPIC TRACTOR,Token,Honeypot,0,0,,,,
+537,Hanzo inu,Token,Honeypot,0,0,,,,
+536,CERBERUS,Token,Honeypot,0,0,,,,
+535,JeffBezos,Token,Honeypot,0,0,,,,
+534,BullMoon,Token,Honeypot,0,0,,,,
+533,Pizza Coin,,Rugpull,0,0,,,,
+531,GateFinance,Token,Honeypot,0,0,,,,
+530,AMAZON,Token,Honeypot,0,0,,,,
+529,PORNHUB,Token,Honeypot,0,0,,,,
+528,Musk Inu,,Rugpull,0,0,,,,
+527,Galaxy,Token,Honeypot,0,0,,,,
+525,GasPay,Token,Honeypot,0,0,,,,
+524,Bunny Token,,Rugpull,0,0,,,,
+523,BlackPool,Token,Honeypot,0,0,,,,
+521,Defi For Inu,Token,Honeypot,0,0,,,,
+520,MoonkeyKong,Token,Honeypot,0,0,,,,
+519,Matcha,,Rugpull,0,0,,,,
+518,Pizza finance,Borrowing and Lending,Rugpull,0,0,,,,
+517,Bob`s repair,,Rugpull,0,0,,,,
+516,SHINYSHIBA,Token,Honeypot,0,0,,,,
+515,NFTDragonBall,Token,Honeypot,0,0,,,,
+514,MS,Token,Honeypot,0,0,,,,
+513,ALPHA WOLF,Token,Honeypot,0,0,,,,
+512,Dogeta Inu,Token,Honeypot,0,0,,,,
+511,Mooswap,Borrowing and Lending,Rugpull,0,0,,,,
+510,bitqy,,Rugpull,0,0,,,,
+509,Yieldby.finance,,Rugpull,0,0,,,,
+508,ShipChain,,Rugpull,0,0,,,,
+507,Titanium BAR,,Rugpull,0,0,,,,
+506,Enigma,,Rugpull,0,0,,,,
+505,PlexCoin,Exchange (DEX),Rugpull,0,0,,,,
+503,Shivers,,Rugpull,0,0,,,,
+502,Ethereum Metamask,,Rugpull,0,0,,,,
+501,Eristica token,,Rugpull,0,0,,,,
+500,Mosaic,,Rugpull,0,0,,,,
+499,sXRP,,Rugpull,0,0,,,,
+498,XSwap,,Rugpull,0,0,,,,
+497,Centra,,Rugpull,0,0,,,,
+496,Veritaseum,,Rugpull,0,0,,,,
+495,Kore,,Rugpull,0,0,,,,
+494,Gladius Token,,Rugpull,0,0,,,,
+493,Bezop,,Rugpull,0,0,,,,
+492,Hatch DAO,,Rugpull,0,0,,0,0,2020-10-11
+491,padthai.finance,,Rugpull,0,0,,,,
+490,Sether,,Rugpull,0,0,,,,
+489,ghostshiba.xyz,Token,Honeypot,0,0,,,,
+488,Sansho Inu,Token,Honeypot,0,0,,,,
+487,ANONYMOUS,Token,Honeypot,0,0,,,,
+486,Shiba Diamond,Exchange (DEX),Honeypot,0,0,,,,
+485,Kenshi Inu,Token,Honeypot,0,0,,,,
+484,Croco Inu,Token,Honeypot,0,0,,,,
+483,FormationFi,,Rugpull,0,0,,,,
+482,Onlygreen,,Rugpull,0,0,,,,
+481,uglyinu.io,,Rugpull,0,0,,,,
+480,Stratos Network,,Rugpull,0,0,,,,
+479,Bonny Network,,Rugpull,0,0,,,,
+478,RocketInu,Token,Honeypot,0,0,,,,
+477,Starlink Token,,Rugpull,0,0,,,,
+476,DRAGON SWAP,,Rugpull,0,0,,,,
+475,Anonymus Inu,,Rugpull,0,0,,,,
+474,EthereumMoon,,Rugpull,0,0,,,,
+473,DiamondHands,,Rugpull,0,0,,,,
+472,KingAkita,Token,Honeypot,0,0,,,,
+471,Bonu Inu,,Rugpull,0,0,,,,
+470,Goose Inu,,Rugpull,0,0,,,,
+469,Crytocurency.Ai,,Rugpull,0,0,,,,
+468,Bitboy Inu,,Rugpull,0,0,,,,
+467,Volcano Money,,Rugpull,0,0,,,,
+466,MilitaryDoge,,Rugpull,0,0,,,,
+465,Dino Inu,Exchange (DEX),Rugpull,0,0,,,,
+464,GABECOIN,,Rugpull,0,0,,,,
+463,Jejudoge V2,,Rugpull,0,0,,,,
+462,Neo Shiba,,Rugpull,0,0,,,,
+461,Supreme Inu,,Rugpull,0,0,,,,
+460,YisusShiba,,Rugpull,0,0,,,,
+459,Wrapped Ultra Sound Money,,Rugpull,0,0,,,,
+458,PugDog Inu,,Rugpull,0,0,,,,
+456,Fisa Inu,,Rugpull,0,0,,,,
+455,Ethereum Cate,,Rugpull,0,0,,,,
+454,MoonDate,,Rugpull,0,0,,,,
+453,Ethelon Finance,,Rugpull,0,0,,,,
+452,Akashi Inu,,Rugpull,0,0,,,,
+451,Hoge Inu,,Rugpull,0,0,,,,
+450,Gitcoin,,Rugpull,0,0,,,,
+449,Hypernova,,Rugpull,0,0,,,,
+448,7/20/21,,Rugpull,0,0,,,,
+447,DragonBite,,Rugpull,0,0,,,,
+446,Bat Inu,,Rugpull,0,0,,,,
+445,ethereum-ultra.com,,Rugpull,0,0,,,,
+444,Pluto Rocket Finance,,Rugpull,0,0,,,,
+443,Green Swap,,Rugpull,0,0,,,,
+442,GamerX,,Rugpull,0,0,,,,
+441,EthereumSpacex,,Rugpull,0,0,,,,
+440,CoomRocket,,Rugpull,0,0,,,,
+439,Paragon,,Rugpull,0,0,,,,
+438,Hisho Inu,,Rugpull,0,0,,,,
+436,HOTDOGSWAP.ORG,,Rugpull,0,0,,,,
+435,Shopin,,Rugpull,0,0,,,,
+434,IYF.finance,,Rugpull,0,0,,,,
+433,Xfinance,,Rugpull,0,0,,,,
+432,Dropil,,Rugpull,0,0,,,,
+429,Truample,,Rugpull,0,0,,,,
+428,Gains Farm,,Rugpull,0,0,,,,
+427,PiggyBank,,Rugpull,0,0,,,,
+426,Faraland,,Rugpull,0,0,,,,
+425,ASG Token,,Rugpull,0,0,,,,
+424,Moonfarm Finance,,Rugpull,0,0,,,,
+423,AirToken,,Rugpull,0,0,,,,
+422,Tuckoo Finance,,Rugpull,0,0,,,,
+421,FLUFFYSHIBA,,Rugpull,0,0,,,,
+420,TravelCake,,Rugpull,0,0,,,,
+419,Jejudoge V2,,Rugpull,0,0,,,,
+418,YUMMYSHIBA,,Rugpull,0,0,,,,
+417,Yfi.mobi,,Rugpull,0,0,,,,
+416,SHIBASWAP,Token,Honeypot,0,0,,,,
+415,Zombie Shiba,,Rugpull,0,0,,,,
+414,AL PACINU,,Rugpull,0,0,,,,
+413,PolySnow,,Rugpull,0,0,,,,
+412,JamTruAdr4,,Rugpull,0,0,,,,
+411,JamTruAdr2,,Rugpull,0,0,,,,
+410,JamTruAdr3,,Rugpull,0,0,,,,
+409,SALT,,Rugpull,0,0,,,,
+408,JamTruAdr,,Rugpull,0,0,,,,
+406,HoDooi,,Rugpull,0,0,,,,
+405,Yearn Prometheus,,Rugpull,0,0,,,,
+404,Goblin Town,,Rugpull,0,0,,,,
+403,NOVASHIBA.COM,Exchange (DEX),Rugpull,0,0,,,,
+402,Moonwalk,,Rugpull,0,0,,,,
+401,Nabox,,Rugpull,0,0,,,,
+400,Fuck Thanos,,Rugpull,0,0,,,,
+399,SpaceX Token,Token,Honeypot,0,0,,,,
+397,Data Transaction Token,,Rugpull,0,0,,,,
+396,RocketShiba,Token,Honeypot,0,0,,,,
+395,Little Mouse,,Rugpull,0,0,,,,
+394,Unikoin Gold,,Rugpull,0,0,,,,
+393,Tierion,,Rugpull,0,0,,,,
+391,Uranus Token,,Rugpull,0,0,,,,
+390,Karura,,Rugpull,0,0,,,,
+389,Virus,,Rugpull,0,0,,,,
+388,DTP,,Rugpull,0,0,,,,
+387,SmartChainScan,,Rugpull,0,0,,,,
+386,Gigachad Kishu,Token,Honeypot,0,0,,,,
+385,CoinCoin,,Rugpull,0,0,,,,
+384,ICONFoundation,,Rugpull,0,0,,,,
+383,Wealthfront,,Rugpull,0,0,,,,
+382,ANT1GOON,,Rugpull,0,0,,,,
+381,LordShiba,Token,Honeypot,0,0,,,,
+380,Instadapp,Token,Honeypot,0,0,,,,
+379,ISTARDUST,Token,Honeypot,0,0,,,,
+378,DOGEMASK,Token,Honeypot,0,0,,,,
+377,EverLife,Token,Honeypot,0,0,,,,
+375,ICOS,,Other,0,0,,,,
+374,FLiK,,Other,0,0,,,,
+373,Oyster,,Other,0,0,,,,
+371,AstroDoge,Token,Honeypot,0,0,,,,
+370,DRAGON INU,Token,Honeypot,0,0,,,,
+369,GoldenShiba,Token,Honeypot,0,0,,,,
+368,MoonMiner,Token,Honeypot,0,0,,,,
+367,CatRocket,Token,Honeypot,0,0,,,,
+366,CosmoKitty,Token,Honeypot,0,0,,,,
+365,Binance-Peg Polygon,Token,Honeypot,0,0,,,,
+363,BitSpawn Token,Token,Honeypot,0,0,,,,
+362,Defi Land,Borrowing and Lending,Honeypot,0,0,,,,
+361,Human Protocol,Token,Honeypot,0,0,,,,
+360,GoldenDoge,Token,Honeypot,0,0,,,,
+359,Saiba Neko,Token,Honeypot,0,0,,,,
+358,BitClave,Yield Aggregator,Other,0,0,,,,
+357,Neptun,Token,Honeypot,0,0,,,,
+356,Hex-Mex,Exchange (DEX),Honeypot,0,0,,,,
+355,plex,Token,Honeypot,0,0,,,,
+354,ZUMBA MARS,Token,Honeypot,0,0,,,,
+353,PolyTools,Token,Honeypot,0,0,,,,
+352,WD,Token,Honeypot,0,0,,,,
+351,UglyInu,Token,Honeypot,0,0,,,,
+350,MoonRabit,Token,Honeypot,0,0,,,,
+349,SuperSonicShiba,Token,Honeypot,0,0,,,,
+348,HEXICO,Token,Honeypot,0,0,,,,
+347,Burn,Token,Honeypot,0,0,,,,
+345,Platinum Coin,Token,Honeypot,0,0,,,,
+344,Knight,Token,Honeypot,0,0,,,,
+343,Pera Finance,Token,Honeypot,0,0,,,,
+342,CSHIBA,Token,Honeypot,0,0,,,,
+341,MoonRise,Token,Honeypot,0,0,,,,
+340,PulseChain,Token,Honeypot,0,0,,,,
+339,MoonSquad,Token,Honeypot,0,0,,,,
+338,AmpChain,Token,Honeypot,0,0,,,,
+337,Player 2,Token,Honeypot,0,0,,,,
+336,OnlyFanGirls,Token,Honeypot,0,0,,,,
+335,TIKI,Token,Honeypot,0,0,,,,
+334,2Crazy,Token,Honeypot,0,0,,,,
+333,OniChan,Token,Honeypot,0,0,,,,
+332,RAICHU TOKEN | raichutoken.com,Token,Honeypot,0,0,,,,
+331,Shiba Inu Bone,Exchange (DEX),Honeypot,0,0,,,,
+330,MoneyWulf,Token,Honeypot,0,0,,,,
+329,PepeRise,Token,Honeypot,0,0,,,,
+328,DogeLord,Token,Honeypot,0,0,,,,
+327,Papito,Token,Honeypot,0,0,,,,
+325,ShibaElonMars,Token,Honeypot,0,0,,,,
+324,Cresco,Token,Honeypot,0,0,,,,
+323,Astrokitties,Token,Honeypot,0,0,,,,
+322,Olympus,Token,Honeypot,0,0,,,,
+321,ChildDoge,Token,Honeypot,0,0,,,,
+320,AnimalHouse Finance,Token,Honeypot,0,0,,,,
+319,Wolfy,Token,Honeypot,0,0,,,,
+316,ALLSTARDOGE,Token,Honeypot,0,0,,,,
+315,unirocket,Token,Honeypot,0,0,,,,
+314,DogeTeen,Token,Honeypot,0,0,,,,
+312,FLOUR FINANCIAL,Token,Honeypot,0,0,,,,
+311,Portal io,Token,Honeypot,0,0,,,,
+310,SafeDoge,Token,Honeypot,0,0,,,,
+309,RASIM OZAN,Token,Honeypot,0,0,,,,
+308,VOLCANOS,Token,Honeypot,0,0,,,,
+307,SuperSushi,Token,Honeypot,0,0,,,,
+306,EverRise Token,Token,Honeypot,0,0,,,,
+305,LOVELY SHIBA,Token,Honeypot,0,0,,,,
+304,MIAU,Token,Honeypot,0,0,,,,
+302,OCTOPIX,Token,Honeypot,0,0,,,,
+301,CFInu,Token,Honeypot,0,0,,,,
+300,CocoBee,Token,Honeypot,0,0,,,,
+299,SafeSolarStar,Token,Honeypot,0,0,,,,
+298,Foxography,Token,Honeypot,0,0,,,,
+297,RCums,Token,Honeypot,0,0,,,,
+296,Trace Network,Token,Honeypot,0,0,,,,
+295,FLOKI DOWN,Token,Honeypot,0,0,,,,
+294,DogeBoo,Token,Honeypot,0,0,,,,
+293,EverTiki,Token,Honeypot,0,0,,,,
+292,KoalaRise,Token,Honeypot,0,0,,,,
+287,Transformers Finance,,Other,0,0,,,,
+286,BURN ONE TOKEN,,Other,0,0,,,,
+285,Mariofarm Finance,,Other,0,0,,,,
+284,Kanva,,Other,0,0,,,,
+283,Paypal,,Other,0,0,,,,
+282,PenguinCoin,,Other,0,0,,,,
+281,Citadeli,,Other,0,0,,,,
+280,Darkwebcoin,,Other,0,0,,,,2020-11-13
+273,HotDew Token,,Abandoned,0,0,,,,
+270,Spark,Token,Honeypot,0,0,,,,
+245,Asteroid Pump,Token,Honeypot,0,0,,,,
+236,Exbase Finance,,Rugpull,0,0,,,,
+231,Link Based,,Abandoned,0,0,,,,2021-1-16
+215,Beer Garden,,Abandoned,0,0,,,,2020-10-21
+209,Xdef finance (relaunch),,Rugpull,0,0,,,,
+206,Dasis Cash,,Abandoned,0,0,,,,2021-1-10
+193,Dolphin Token,,Rugpull,0,0,,,,
+189,SoSo token,,Other,0,0,,,,
+186,Kanva (fake),,Rugpull,0,0,,,,
+185,Compasswap Token,,Rugpull,0,0,,,,2020-11-21
+183,Tree Finance,,Abandoned,0,0,,,,2020-12-12
+182,KumQuat,,Rugpull,0,0,,,,
+172,Vaultz Defi,,Other,0,0,,,,
+169,Microbit,,Other,0,0,,,,
+152,GALIL,,Rugpull,0,0,,,,2020-11-10
+151,W3RLD,,Other,0,0,,,,
+136,Decentralized Privacy,,Rugpull,0,0,,,,2020-12-22
+129,SAD2Token,,Abandoned,0,0,,,,2020-12-5
+118,Inertia Money,,Abandoned,0,0,,,,2021-1-14
+110,Ultimate Set Dollar,,Rugpull,0,0,,,,2021-1-2
+108,WhaleSwap,,Abandoned,0,0,,,,
+103,Exorthous Finance,,Rugpull,0,0,,,,
+98,Cezo,,Other,0,0,,,,
+97,VikingSwap,,Abandoned,0,0,,,,2021-3-7
+93,PabloEscobarFi,,Other,0,0,,,,2021-3-10
+81,Crocoswap finance,,Other,0,0,,,,2021-3-14
+80,Chef Swap,,Other,0,0,,,,2021-3-12
+79,OgreSwap,,Other,0,0,,,,2021-3-12
+78,BoobsFinance,,Other,0,0,,,,
+77,Chad Token,Token,Honeypot,0,0,,,,2021-3-8
+76,Generate Finance,,Other,0,0,,,,
+72,Pill Finance,,Other,0,0,,,,
+55,SoftdrinkSwap,,Abandoned,0,0,,,,2020-11-12
