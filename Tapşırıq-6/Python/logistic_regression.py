@@ -4,8 +4,14 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("exams.csv")
 data = df.copy()
 
-data["exam_1"] = (data["exam_1"]-data["exam_1"].mean())/data["exam_1"].std()
-data["exam_2"] = (data["exam_2"]-data["exam_2"].mean())/data["exam_2"].std()
+def do_min_max_normalize(data,col):
+    data[col] = (data[col]-data[col].min())/(data[col].max()-data[col].min())
+
+def do_z_score_normalize(data,col):
+    data[col] = (data[col]-data[col].mean())/data[col].std()
+
+do_z_score_normalize(data,"exam_1")
+do_z_score_normalize(data,"exam_2")
 
 x0 = np.ones(len(data))
 X = np.array([x0, data["exam_1"], data["exam_2"]])
