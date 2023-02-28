@@ -64,19 +64,19 @@ def decision_boundary(y=0):
     plt.show()
 
 
-def calculate_precision(df):
-    tp = len(df[(df["admitted"] == 1) &
-                (df["Prediction"] == 1)])
-    fp = len(df[(df["admitted"] == 0) & (
-        df["Prediction"] == 1)])
+def calculate_precision(df, actual, predicted):
+    tp = len(df[(df[actual] == 1) &
+                (df[predicted] == 1)])
+    fp = len(df[(df[actual] == 0) & (
+        df[predicted] == 1)])
     return tp/(tp+fp)
 
 
-def calculate_recall(df):
-    tp = len(df[(df["admitted"] == 1) &
-                (df["Prediction"] == 1)])
-    fn = len(df[(df["admitted"] == 1) &
-                (df["Prediction"] == 0)])
+def calculate_recall(df, actual, predicted):
+    tp = len(df[(df[actual] == 1) &
+                (df[predicted] == 1)])
+    fn = len(df[(df[actual] == 1) &
+                (df[predicted] == 0)])
     return tp/(fn+tp)
 
 
@@ -106,5 +106,7 @@ print(
     f"False Negative: {len(compareDf[(compareDf['admitted'] == 1) &(compareDf['Prediction'] == 0)])}")
 
 
-print(f"Precision: {calculate_precision(compareDf)}")
-print(f"Recall: {calculate_recall(compareDf)}")
+print(
+    f"Precision: {calculate_precision(compareDf,actual='admitted',predicted ='Prediction' )}")
+print(
+    f"Recall: {calculate_recall(compareDf,actual='admitted',predicted ='Prediction')}")
