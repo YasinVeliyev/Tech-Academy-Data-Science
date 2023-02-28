@@ -4,14 +4,17 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("exams.csv")
 data = df.copy()
 
-def do_min_max_normalize(data,col):
+
+def do_min_max_normalize(data, col):
     data[col] = (data[col]-data[col].min())/(data[col].max()-data[col].min())
 
-def do_z_score_normalize(data,col):
+
+def do_z_score_normalize(data, col):
     data[col] = (data[col]-data[col].mean())/data[col].std()
 
-do_z_score_normalize(data,"exam_1")
-do_z_score_normalize(data,"exam_2")
+
+do_min_max_normalize(data, "exam_1")
+do_min_max_normalize(data, "exam_2")
 
 x0 = np.ones(len(data))
 X = np.array([x0, data["exam_1"], data["exam_2"]])
@@ -42,11 +45,6 @@ def gradientDescent(X, Y, W, alpha=0.05, iteration=10_000):
     return costH, W
 
 
-costH, Wn = gradientDescent(X, Y, W.copy())
-plt.plot(costH)
-plt.show()
-
-
 def decision_boundary(y=0):
     plt.ylabel("Exam_2")
     plt.xlabel("Exam_1")
@@ -66,4 +64,47 @@ def decision_boundary(y=0):
     plt.show()
 
 
-decision_boundary(1)
+def calculate_precision(df):
+    tp = len(df[(df["admitted"] == 1) &
+                (df["Prediction"] == 1)])
+    fp = len(df[(df["admitted"] == 0) & (
+        df["Prediction"] == 1)])
+    return tp/(tp+fp)
+
+
+def calculate_recall(df):
+    tp = len(df[(df["admitted"] == 1) &
+                (df["Prediction"] == 1)])
+    fn = len(df[(df["admitted"] == 1) &
+                (df["Prediction"] == 0)])
+    return tp/(fn+tp)
+
+
+costH, Wn = gradientDescent(X, Y, W.copy())
+# plt.plot(costH)
+# plt.show()
+P = sigmoid(X, Wn)
+P[P < 0.5] = 0
+P[P >= 0.5] = 1
+
+
+compareDf = pd.DataFrame(P)
+compareDf.columns = ["Prediction"]
+compareDf["admitted"] = data["admitted"].copy()
+# decision_boundary(1)
+print(
+    f"True Positive: {len(compareDf[(compareDf['admitted'] == 1) &(compareDf['Prediction'] == 1)])}")
+
+print(
+    f"True Negative: {len(compareDf[(compareDf['admitted'] == 0) &(compareDf['Prediction'] == 0)])}")
+
+
+print(
+    f"False Positive: {len(compareDf[(compareDf['admitted'] == 0) &(compareDf['Prediction'] == 1)])}")
+
+print(
+    f"False Negative: {len(compareDf[(compareDf['admitted'] == 1) &(compareDf['Prediction'] == 0)])}")
+
+
+print(f"Precision: {calculate_precision(compareDf)}")
+print(f"Recall: {calculate_recall(compareDf)}")
