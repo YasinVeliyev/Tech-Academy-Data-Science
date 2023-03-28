@@ -2,9 +2,34 @@ import re
 import pandas as pd
 import plotly.express as px
 import numpy as np
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+
+class Normalization:
+    def do_min_max_normalization(self, columns: list):
+        data = self.get_data_copy()
+        for column in columns:
+            data[column] = data[column].apply(lambda x: (
+                x-data[column].min())/(data[column].max()-data[column].min()))
+        self.data = data
+    def do_mean_normalization(self, columns: list):
+        data = self.get_data_copy()
+        for column in columns:
+            data[column] = data[column].apply(lambda x: (
+                x-data[column].mean())/(data[column].max()-data[column].min()))
+        self.data = data
+
+    def do_z_score_normalization(self, columns: list):
+        data = self.get_data_copy()
+        for column in columns:
+            mean = data[column].mean()
+            standard_deviation = data[column].std()
+            data[column] = data[column].apply(
+                lambda x: (x-mean)/standard_deviation)
+        self.data = data
 
 
-class LinearRegression():
+class LinearRegression(Normalization):
     def __init__(self, data_path: str, columns: list) -> None:
         self.__df = pd.read_csv(data_path)
         self.data = self.__df[columns]
@@ -35,37 +60,9 @@ class LinearRegression():
         self.__data_copy = self.data.copy()
         return self.__data_copy.copy()
 
-    def do_min_max_normalization(self, columns: list):
-        data = self.get_data_copy()
-        for column in columns:
-            data[column] = data[column].apply(lambda x: (
-                x-data[column].min())/(data[column].max()-data[column].min()))
-        self.data = data
 
-    def do_mean_normalization(self, columns: list):
-        data = self.get_data_copy()
-        for column in columns:
-            data[column] = data[column].apply(lambda x: (
-                x-data[column].mean())/(data[column].max()-data[column].min()))
-        self.data = data
 
-    def do_mean_normalization(self, columns: list):
-        data = self.get_data_copy()
-        for column in columns:
-            data[column] = data[column].apply(lambda x: (
-                x-data[column].mean())/(data[column].max()-data[column].min()))
-        self.data = data
-
-    def do_z_score_normalization(self, columns: list):
-        data = self.get_data_copy()
-        for column in columns:
-            mean = data[column].mean()
-            standard_deviation = data[column].std()
-            data[column] = data[column].apply(
-                lambda x: (x-mean)/standard_deviation)
-        self.data = data
-
-    def calculate_cost(self, columns, Y, W):
+    def calculate_cost(self, columns: list, Y, W):
         X = [[1]*len(self)] + [self.data[column] for column in columns]
         self.X = np.array(X).T
         self.Y = np.array(self.data[Y])
@@ -87,6 +84,19 @@ class LinearRegression():
             self.W = self.W-alpha*g
             self.costH.append(self.calculate_cost(columns, Y, self.W))
 
+    def sklearn_gradient_descent(self, columns, Y, W):
+        self.calculate_cost(columns, Y, W)
+        reg = linear_model.LinearRegression()
+        reg.fit(self.X, self.Y)
+        W = np.array(reg.coef_)
+        pred = W[0]+W[1]*self.data["Buraxilish ili"]
+        print(pred)
+        plt.scatter(self.data["Buraxilish ili"], self.data["Qiymet"])
+        plt.xlabel("Buraxilish ili")
+        plt.ylabel("Qiymet")
+        plt.plot(self.data["Buraxilish ili"], pred)
+        plt.show()
+
     def visualize_gradient_descent(self):
         fig = px.line(self.costH)
         fig.show()
@@ -102,6 +112,14 @@ class LinearRegression():
 
         fig.show()
 
+    def visualize(self):
+        pred = self.W[0] + self.W[1]*self.data["Buraxilish ili"]
+        plt.scatter(self.data["Buraxilish ili"], self.data["Qiymet"])
+        plt.xlabel("Buraxilish ili")
+        plt.ylabel("Qiymet")
+        plt.plot(self.data["Buraxilish ili"], pred)
+        plt.show()
+
 
 linear = LinearRegression(
     "./turboaz.csv", columns=["Buraxilish ili", "Yurush", "Qiymet"])
@@ -111,8 +129,11 @@ linear.clean_data(columns=["Yurush", "Buraxilish ili"])
 # linear.visualize_data(x="Yurush", y="Qiymet")
 # linear.visualize_data(x="Buraxilish ili", y="Qiymet")
 # linear.visualize_data(x="Buraxilish ili", y="Qiymet",z="Yurush")
-linear.do_min_max_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
+# linear.do_min_max_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
 linear.do_mean_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
-linear.do_z_score_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
+# linear.do_z_score_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
 linear.gradient_descent(["Buraxilish ili", "Yurush"], "Qiymet", [0, 11, 5])
-linear.visualize_gradient_descent()
+# linear.visualize_gradient_descent()
+# linear.sklearn_gradient_descent(
+#     ["Buraxilish ili", "Yurush"], "Qiymet", [0, 11, 5])
+linear.visualize()

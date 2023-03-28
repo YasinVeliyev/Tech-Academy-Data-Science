@@ -71,7 +71,7 @@ def elbow_method(K,Centroids):
                 d=0
                 for coordinat in scaleCentroid[c][j]:
                     d+=np.sqrt(np.sum((coordinat-centroids[c])**2))
-                s+=d/len(scaleCentroid[c][j])
+                s+=d
         wcss.append(s)
         visualize(k,centroids,scaleCentroid)
     fig,ax=plt.subplots()
