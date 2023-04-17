@@ -1,3 +1,8 @@
 *target
 *venv
-
+*data
+*.txt
+*.csv
+*.xml
+*.xlsx
+*.xml
