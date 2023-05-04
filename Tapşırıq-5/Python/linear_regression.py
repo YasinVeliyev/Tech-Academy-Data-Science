@@ -5,6 +5,7 @@ import numpy as np
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 
+
 class Normalization:
     def do_min_max_normalization(self, columns: list):
         data = self.get_data_copy()
@@ -12,6 +13,7 @@ class Normalization:
             data[column] = data[column].apply(lambda x: (
                 x-data[column].min())/(data[column].max()-data[column].min()))
         self.data = data
+
     def do_mean_normalization(self, columns: list):
         data = self.get_data_copy()
         for column in columns:
@@ -60,8 +62,6 @@ class LinearRegression(Normalization):
         self.__data_copy = self.data.copy()
         return self.__data_copy.copy()
 
-
-
     def calculate_cost(self, columns: list, Y, W):
         X = [[1]*len(self)] + [self.data[column] for column in columns]
         self.X = np.array(X).T
@@ -90,7 +90,6 @@ class LinearRegression(Normalization):
         reg.fit(self.X, self.Y)
         W = np.array(reg.coef_)
         pred = W[0]+W[1]*self.data["Buraxilish ili"]
-        print(pred)
         plt.scatter(self.data["Buraxilish ili"], self.data["Qiymet"])
         plt.xlabel("Buraxilish ili")
         plt.ylabel("Qiymet")
@@ -104,7 +103,6 @@ class LinearRegression(Normalization):
     def visualize_data(self, x, y, z=None):
         if z:
             df = self.data[[x, y, z]]
-            print(z)
             fig = px.scatter_3d(df, x=x, y=y, z=z)
         else:
             df = self.data[[x, y]]
@@ -123,12 +121,11 @@ class LinearRegression(Normalization):
 
 linear = LinearRegression(
     "./turboaz.csv", columns=["Buraxilish ili", "Yurush", "Qiymet"])
-print(linear.data)
 linear.clean_price_and_convert("Qiymet")
 linear.clean_data(columns=["Yurush", "Buraxilish ili"])
-# linear.visualize_data(x="Yurush", y="Qiymet")
-# linear.visualize_data(x="Buraxilish ili", y="Qiymet")
-# linear.visualize_data(x="Buraxilish ili", y="Qiymet",z="Yurush")
+linear.visualize_data(x="Yurush", y="Qiymet")
+linear.visualize_data(x="Buraxilish ili", y="Qiymet")
+linear.visualize_data(x="Buraxilish ili", y="Qiymet", z="Yurush")
 # linear.do_min_max_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
 linear.do_mean_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
 # linear.do_z_score_normalization(["Yurush", "Qiymet", "Buraxilish ili"])
