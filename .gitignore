@@ -7,3 +7,4 @@
 *.xlsx
 *.xml
 */data
+.ipynb_checkpoints
